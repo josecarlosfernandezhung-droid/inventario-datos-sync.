@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-26T21:51:35.094Z",
+  "actualizado": "2026-08-26T21:52:15.043Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -167,7 +167,7 @@
       "sku": "448",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 70
+      "stock": 75
     },
     {
       "nombre": "Arandela presion 12mm",
@@ -258,7 +258,7 @@
       "sku": "158",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 480
+      "stock": 540
     },
     {
       "nombre": "Base de tv 14\"-55\" giratoria",
@@ -286,7 +286,7 @@
       "sku": "207",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 50
+      "stock": 80
     },
     {
       "nombre": "Batería 10/kwh Lithium valley",
@@ -573,7 +573,7 @@
       "sku": "772",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 15
+      "stock": 20
     },
     {
       "nombre": "Brekera combinada 600v/25A",
@@ -608,7 +608,7 @@
       "sku": "118",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 480
+      "stock": 0
     },
     {
       "nombre": "Brocha 1.5\"",
@@ -636,7 +636,7 @@
       "sku": "115",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 48
+      "stock": 0
     },
     {
       "nombre": "Brocha 5\"",
@@ -797,7 +797,7 @@
       "sku": "266",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 600
     },
     {
       "nombre": "Cajita 4x4",
@@ -867,7 +867,7 @@
       "sku": "364",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 460
+      "stock": 500
     },
     {
       "nombre": "Candado 50mm",
@@ -1497,7 +1497,7 @@
       "sku": "780",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 24
+      "stock": 0
     },
     {
       "nombre": "Cuchillo 10\"",
@@ -1616,7 +1616,7 @@
       "sku": "318",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 9000
+      "stock": 9600
     },
     {
       "nombre": "Disco de sierra madera 180mm",
@@ -1742,7 +1742,7 @@
       "sku": "39",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 90
+      "stock": 120
     },
     {
       "nombre": "Esponja fregar",
@@ -1798,7 +1798,7 @@
       "sku": "107",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 600
+      "stock": 0
     },
     {
       "nombre": "Expansores plásticos 6x40",
@@ -3163,7 +3163,7 @@
       "sku": "396",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 50
     },
     {
       "nombre": "Perchero docena",
@@ -3422,14 +3422,14 @@
       "sku": "506",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 96
+      "stock": 120
     },
     {
       "nombre": "Pintura spray dorado",
       "sku": "738",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 36
     },
     {
       "nombre": "Pintura spray negro brillante",
@@ -3443,7 +3443,7 @@
       "sku": "242",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 48
+      "stock": 60
     },
     {
       "nombre": "Pintura spray rojo",
@@ -3632,14 +3632,14 @@
       "sku": "161",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 72
+      "stock": 0
     },
     {
       "nombre": "Presurizador 35lts",
       "sku": "478",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 8
+      "stock": 0
     },
     {
       "nombre": "Protector 110vol 20A",
@@ -3737,7 +3737,7 @@
       "sku": "737",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 25
+      "stock": 35
     },
     {
       "nombre": "Reflector led 50watts",
@@ -3947,7 +3947,7 @@
       "sku": "177",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 48
+      "stock": 72
     },
     {
       "nombre": "Silicona de spray",
@@ -4332,7 +4332,7 @@
       "sku": "281",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 12000
+      "stock": 0
     },
     {
       "nombre": "Tornillo tira-fondo pladur 1\"3/4\"/45mm x caja 360",
@@ -4409,7 +4409,7 @@
       "sku": "154",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 125
+      "stock": 150
     },
     {
       "nombre": "Turbina 1 HP",
