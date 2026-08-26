@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-26T21:52:54.220Z",
+  "actualizado": "2026-08-26T21:56:54.667Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -797,7 +797,7 @@
       "sku": "266",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 600
+      "stock": 1200
     },
     {
       "nombre": "Cajita 4x4",
