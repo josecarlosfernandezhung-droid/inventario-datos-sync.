@@ -1,6 +1,6 @@
 {
   "dispositivo": "Geova",
-  "actualizado": "2026-08-26T00:39:18.368Z",
+  "actualizado": "2026-08-26T00:41:28.027Z",
   "movimientos": [
     {
       "id": 1787663644087,
@@ -82,18 +82,6 @@
       "cantidad": 36,
       "unidad": "piezas",
       "referencia": "304",
-      "categoria": "Sin categoría",
-      "observaciones": "",
-      "registradoPor": ""
-    },
-    {
-      "id": 1787704565264,
-      "tipo": "salida",
-      "fecha": "2026-08-26",
-      "producto": "Aragán",
-      "cantidad": 5,
-      "unidad": "piezas",
-      "referencia": "448",
       "categoria": "Sin categoría",
       "observaciones": "",
       "registradoPor": ""
