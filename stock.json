@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-26T16:27:57.285Z",
+  "actualizado": "2026-08-26T16:28:27.315Z",
   "productos": [
     {
       "nombre": "Pintura Blanca de 1L",
@@ -27,7 +27,7 @@
       "sku": "PROD-0004",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 7
+      "stock": 0
     },
     {
       "nombre": "Anafre chiquito ",
@@ -650,7 +650,7 @@
       "sku": "PROD-0098",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 600
     },
     {
       "nombre": "Brocha de 6",
