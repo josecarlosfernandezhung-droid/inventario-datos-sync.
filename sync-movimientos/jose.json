@@ -1,5 +1,90 @@
 {
   "dispositivo": "José",
-  "actualizado": "2026-08-26T02:04:39.312Z",
-  "movimientos": []
+  "actualizado": "2026-08-26T02:08:14.178Z",
+  "movimientos": [
+    {
+      "id": 1787663644087,
+      "tipo": "salida",
+      "fecha": "2026-08-25",
+      "producto": "Lampara solar con detector de movimiento",
+      "cantidad": 10,
+      "unidad": "piezas",
+      "referencia": "337",
+      "categoria": "Sin categoría",
+      "observaciones": "",
+      "registradoPor": ""
+    },
+    {
+      "id": 1787663660416,
+      "tipo": "salida",
+      "fecha": "2026-08-25",
+      "producto": "Pintura spray azul diamond brillante proefix",
+      "cantidad": 12,
+      "unidad": "piezas",
+      "referencia": "391",
+      "categoria": "Sin categoría",
+      "observaciones": "",
+      "registradoPor": ""
+    },
+    {
+      "id": 1787689168967,
+      "tipo": "salida",
+      "fecha": "2026-08-25",
+      "producto": "Anafre grande",
+      "cantidad": 7,
+      "unidad": "piezas",
+      "referencia": "445",
+      "categoria": "Sin categoría",
+      "observaciones": "",
+      "registradoPor": ""
+    },
+    {
+      "id": 1787689635824,
+      "tipo": "entrada",
+      "fecha": "2026-08-25",
+      "producto": "Toma corriente universal",
+      "cantidad": 200,
+      "unidad": "piezas",
+      "referencia": "36",
+      "categoria": "Sin categoría",
+      "observaciones": "",
+      "registradoPor": ""
+    },
+    {
+      "id": 1787689713926,
+      "tipo": "entrada",
+      "fecha": "2026-08-25",
+      "producto": "Tubo led 40/ 2 polo",
+      "cantidad": 50,
+      "unidad": "piezas",
+      "referencia": "154",
+      "categoria": "Sin categoría",
+      "observaciones": "",
+      "registradoPor": ""
+    },
+    {
+      "id": 1787689826719,
+      "tipo": "entrada",
+      "fecha": "2026-08-25",
+      "producto": "Tubo de 20 led",
+      "cantidad": 210,
+      "unidad": "piezas",
+      "referencia": "157",
+      "categoria": "Sin categoría",
+      "observaciones": "",
+      "registradoPor": ""
+    },
+    {
+      "id": 1787689928130,
+      "tipo": "salida",
+      "fecha": "2026-08-25",
+      "producto": "Cepillo de lavar plástico",
+      "cantidad": 36,
+      "unidad": "piezas",
+      "referencia": "304",
+      "categoria": "Sin categoría",
+      "observaciones": "",
+      "registradoPor": ""
+    }
+  ]
 }
