@@ -1,6 +1,6 @@
 {
   "dispositivo": "José",
-  "actualizado": "2026-08-26T12:46:01.255Z",
+  "actualizado": "2026-08-26T12:47:32.406Z",
   "movimientos": [
     {
       "id": 1787663644087,
@@ -82,6 +82,18 @@
       "cantidad": 36,
       "unidad": "piezas",
       "referencia": "304",
+      "categoria": "Sin categoría",
+      "observaciones": "",
+      "registradoPor": ""
+    },
+    {
+      "id": 1787748442679,
+      "tipo": "entrada",
+      "fecha": "2026-08-26",
+      "producto": "Cajita 4x2",
+      "cantidad": 600,
+      "unidad": "piezas",
+      "referencia": "266",
       "categoria": "Sin categoría",
       "observaciones": "",
       "registradoPor": ""
