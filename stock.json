@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-26T01:44:29.347Z",
+  "actualizado": "2026-08-26T01:44:42.800Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -167,7 +167,7 @@
       "sku": "448",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 70
+      "stock": 75
     },
     {
       "nombre": "Arandela presion 12mm",
