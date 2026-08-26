@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-26T12:48:45.071Z",
+  "actualizado": "2026-08-26T15:02:42.549Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -4595,7 +4595,7 @@
     },
     {
       "nombre": "Brekera de 16 Posiciones",
-      "sku": "PROD-0001",
+      "sku": "810",
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "stock": 13
