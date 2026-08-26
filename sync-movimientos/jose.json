@@ -1,6 +1,6 @@
 {
   "dispositivo": "José",
-  "actualizado": "2026-08-26T16:46:15.535Z",
+  "actualizado": "2026-08-26T18:25:14.167Z",
   "movimientos": [
     {
       "id": 1787663644087,
@@ -87,13 +87,13 @@
       "registradoPor": ""
     },
     {
-      "id": 1787748442679,
-      "tipo": "entrada",
+      "id": 1787763717972,
+      "tipo": "salida",
       "fecha": "2026-08-26",
-      "producto": "Cajita 4x2",
-      "cantidad": 600,
+      "producto": "Ventilador de pie ciclón 18\"",
+      "cantidad": 2,
       "unidad": "piezas",
-      "referencia": "266",
+      "referencia": "88",
       "categoria": "Sin categoría",
       "observaciones": "",
       "registradoPor": ""
