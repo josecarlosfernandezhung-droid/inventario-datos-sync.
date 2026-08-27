@@ -1,6 +1,6 @@
 {
   "dispositivo": "Jose",
-  "actualizado": "2026-08-27T17:48:49.345Z",
+  "actualizado": "2026-08-27T19:50:18.677Z",
   "movimientos": [
     {
       "id": 1787663644087,
@@ -554,6 +554,30 @@
       "cantidad": 60,
       "unidad": "piezas",
       "referencia": "575",
+      "categoria": "Sin categoría",
+      "observaciones": "",
+      "registradoPor": ""
+    },
+    {
+      "id": 1787860055462,
+      "tipo": "salida",
+      "fecha": "2026-08-27",
+      "producto": "Brocha 3\"",
+      "cantidad": 4,
+      "unidad": "piezas",
+      "referencia": "601",
+      "categoria": "Sin categoría",
+      "observaciones": "",
+      "registradoPor": ""
+    },
+    {
+      "id": 1787860215140,
+      "tipo": "entrada",
+      "fecha": "2026-08-27",
+      "producto": "Tornillo tira-fondo pladur 1\"/25mm x caja 600",
+      "cantidad": 12000,
+      "unidad": "piezas",
+      "referencia": "281",
       "categoria": "Sin categoría",
       "observaciones": "",
       "registradoPor": ""
