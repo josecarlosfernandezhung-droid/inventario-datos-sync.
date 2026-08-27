@@ -1,6 +1,6 @@
 {
   "dispositivo": "Jose",
-  "actualizado": "2026-08-27T17:35:43.274Z",
+  "actualizado": "2026-08-27T17:38:36.527Z",
   "movimientos": [
     {
       "id": 1787663644087,
@@ -542,6 +542,18 @@
       "cantidad": 120,
       "unidad": "piezas",
       "referencia": "118",
+      "categoria": "Sin categoría",
+      "observaciones": "",
+      "registradoPor": ""
+    },
+    {
+      "id": 1787852276063,
+      "tipo": "entrada",
+      "fecha": "2026-08-27",
+      "producto": "Base de 20 doble",
+      "cantidad": 60,
+      "unidad": "piezas",
+      "referencia": "575",
       "categoria": "Sin categoría",
       "observaciones": "",
       "registradoPor": ""
