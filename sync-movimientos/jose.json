@@ -1,6 +1,6 @@
 {
   "dispositivo": "Jose",
-  "actualizado": "2026-08-27T17:31:22.813Z",
+  "actualizado": "2026-08-27T17:33:11.976Z",
   "movimientos": [
     {
       "id": 1787663644087,
@@ -508,6 +508,18 @@
       "referencia": "161",
       "categoria": "Sin categoría",
       "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1787851991497,
+      "tipo": "entrada",
+      "fecha": "2026-08-27",
+      "producto": "Escobillón 1400",
+      "cantidad": 150,
+      "unidad": "piezas",
+      "referencia": "742",
+      "categoria": "Sin categoría",
+      "observaciones": "",
       "registradoPor": ""
     }
   ]
