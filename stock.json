@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-27T17:35:49.621Z",
+  "actualizado": "2026-08-27T17:38:19.163Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -251,7 +251,7 @@
       "sku": "575",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 60
+      "stock": 120
     },
     {
       "nombre": "Base de 20 sencilla",
