@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-27T01:24:01.088Z",
+  "actualizado": "2026-08-27T01:37:05.789Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -4600,5 +4600,6 @@
       "unidad": "piezas",
       "stock": 13
     }
-  ]
+  ],
+  "almacenPrincipal": []
 }
