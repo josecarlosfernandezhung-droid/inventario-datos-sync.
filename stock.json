@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-27T13:31:24.064Z",
+  "actualizado": "2026-08-27T13:53:06.633Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -3632,7 +3632,7 @@
       "sku": "161",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 72
+      "stock": 0
     },
     {
       "nombre": "Presurizador 35lts",
@@ -4332,7 +4332,7 @@
       "sku": "281",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 12000
+      "stock": 0
     },
     {
       "nombre": "Tornillo tira-fondo pladur 1\"3/4\"/45mm x caja 360",
@@ -4605,7 +4605,7 @@
     {
       "nombre": "Presurizador 35lts",
       "sku": "478",
-      "cantidad": 8
+      "cantidad": 0
     },
     {
       "nombre": "Fregadero sencillo",
@@ -4630,7 +4630,7 @@
     {
       "nombre": "Llavín de calle anticopia",
       "sku": "330",
-      "cantidad": 20
+      "cantidad": 0
     },
     {
       "nombre": "Cerrucho",
@@ -4660,7 +4660,7 @@
     {
       "nombre": "Cuchilla manual 3/polos 63A",
       "sku": "780",
-      "cantidad": 24
+      "cantidad": 0
     },
     {
       "nombre": "Llave de paso 1\" plástica",
@@ -4670,7 +4670,7 @@
     {
       "nombre": "Tarraja plástica",
       "sku": "430",
-      "cantidad": 30
+      "cantidad": 20
     },
     {
       "nombre": "Pulidora Coofix 750watts",
@@ -4700,7 +4700,7 @@
     {
       "nombre": "Llavín picaporte",
       "sku": "128",
-      "cantidad": 36
+      "cantidad": 0
     },
     {
       "nombre": "Candado anti-sisalla 70mm",
@@ -4795,7 +4795,7 @@
     {
       "nombre": "Protector 110vol 20A",
       "sku": "261",
-      "cantidad": 120
+      "cantidad": 96
     },
     {
       "nombre": "Brida 4.8x400mm",
@@ -4815,7 +4815,7 @@
     {
       "nombre": "Sifa de piso poseta",
       "sku": "56",
-      "cantidad": 170
+      "cantidad": 155
     },
     {
       "nombre": "Lima 900",
@@ -4825,7 +4825,7 @@
     {
       "nombre": "Sifa fregadero flexible boca chica",
       "sku": "340",
-      "cantidad": 180
+      "cantidad": 150
     },
     {
       "nombre": "Brekera 2 posiciones",
@@ -4910,7 +4910,7 @@
     {
       "nombre": "Precinta transparente",
       "sku": "161",
-      "cantidad": 698
+      "cantidad": 626
     },
     {
       "nombre": "Estropajo alambre",
@@ -4945,12 +4945,12 @@
     {
       "nombre": "Codo 1/2\"",
       "sku": "195",
-      "cantidad": 2700
+      "cantidad": 2600
     },
     {
       "nombre": "Expansor mecánico M8 10mm",
       "sku": "107",
-      "cantidad": 3200
+      "cantidad": 800
     },
     {
       "nombre": "Expansor marco-puerta 3\" plástico",
@@ -4965,7 +4965,7 @@
     {
       "nombre": "Tornillo tira-fondo pladur 1\"3/4\"/45mm x caja 360",
       "sku": "599",
-      "cantidad": 7200
+      "cantidad": 0
     },
     {
       "nombre": "Chirri 2\" fino",
@@ -4980,7 +4980,7 @@
     {
       "nombre": "Tornillo tira-fondo pladur 1\"/25mm x caja 600",
       "sku": "281",
-      "cantidad": 36000
+      "cantidad": 24000
     },
     {
       "nombre": "Tornillo tira-fondo pladur 1 1/2\"/35mm x caja 420",
