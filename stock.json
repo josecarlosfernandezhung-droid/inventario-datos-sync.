@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-27T15:59:42.919Z",
+  "actualizado": "2026-08-27T15:59:55.372Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -1315,7 +1315,7 @@
       "sku": "195",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": -100
     },
     {
       "nombre": "Codo 3/4\"",
@@ -1497,7 +1497,7 @@
       "sku": "780",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 24
+      "stock": 0
     },
     {
       "nombre": "Cuchillo 10\"",
@@ -1798,7 +1798,7 @@
       "sku": "107",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 600
+      "stock": -600
     },
     {
       "nombre": "Expansores plásticos 6x40",
@@ -2792,7 +2792,7 @@
       "sku": "330",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": -20
     },
     {
       "nombre": "Llavín de puerta calle/cerradura plana SPC",
@@ -3632,21 +3632,21 @@
       "sku": "161",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 72
+      "stock": -72
     },
     {
       "nombre": "Presurizador 35lts",
       "sku": "478",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 8
+      "stock": 0
     },
     {
       "nombre": "Protector 110vol 20A",
       "sku": "261",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": -24
     },
     {
       "nombre": "Protector 220 simple/entrada 15A",
@@ -3905,7 +3905,7 @@
       "sku": "56",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": -15
     },
     {
       "nombre": "Sifa de vaso",
@@ -3926,7 +3926,7 @@
       "sku": "340",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": -30
     },
     {
       "nombre": "Silicona de alta temperatura 700",
@@ -4087,7 +4087,7 @@
       "sku": "430",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": -10
     },
     {
       "nombre": "Teflón",
@@ -4332,14 +4332,14 @@
       "sku": "281",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 12000
+      "stock": 0
     },
     {
       "nombre": "Tornillo tira-fondo pladur 1\"3/4\"/45mm x caja 360",
       "sku": "599",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": -7200
     },
     {
       "nombre": "Tornillo tira-fondo pladur 2\"/50mm",
