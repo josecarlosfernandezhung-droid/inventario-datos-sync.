@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-27T17:34:50.749Z",
+  "actualizado": "2026-08-27T17:35:49.621Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -608,7 +608,7 @@
       "sku": "118",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 480
+      "stock": 360
     },
     {
       "nombre": "Brocha 1.5\"",
