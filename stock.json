@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-27T17:32:49.067Z",
+  "actualizado": "2026-08-27T17:33:19.627Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -1714,7 +1714,7 @@
       "sku": "742",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 150
     },
     {
       "nombre": "Escuadra angulo plana",
