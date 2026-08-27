@@ -1,6 +1,6 @@
 {
   "dispositivo": "Jose",
-  "actualizado": "2026-08-27T19:52:32.421Z",
+  "actualizado": "2026-08-27T22:45:17.887Z",
   "movimientos": [
     {
       "id": 1787663644087,
@@ -578,6 +578,30 @@
       "cantidad": 12000,
       "unidad": "piezas",
       "referencia": "281",
+      "categoria": "Sin categoría",
+      "observaciones": "",
+      "registradoPor": ""
+    },
+    {
+      "id": 1787860390216,
+      "tipo": "salida",
+      "fecha": "2026-08-27",
+      "producto": "Pintura spray negro mate",
+      "cantidad": 12,
+      "unidad": "piezas",
+      "referencia": "242",
+      "categoria": "Sin categoría",
+      "observaciones": "Ajuste por conteo físico de almacén",
+      "registradoPor": ""
+    },
+    {
+      "id": 1787860440943,
+      "tipo": "entrada",
+      "fecha": "2026-08-27",
+      "producto": "Bisagra 4x3 libro interior",
+      "cantidad": 34,
+      "unidad": "piezas",
+      "referencia": "272",
       "categoria": "Sin categoría",
       "observaciones": "",
       "registradoPor": ""
