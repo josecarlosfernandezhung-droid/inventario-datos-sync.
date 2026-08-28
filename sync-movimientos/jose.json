@@ -1,6 +1,6 @@
 {
-  "dispositivo": "Jose",
-  "actualizado": "2026-08-27T23:07:00.200Z",
+  "dispositivo": "José",
+  "actualizado": "2026-08-28T13:30:48.125Z",
   "movimientos": [
     {
       "id": 1787663644087,
@@ -604,6 +604,18 @@
       "referencia": "272",
       "categoria": "Sin categoría",
       "observaciones": "",
+      "registradoPor": ""
+    },
+    {
+      "id": 1787922467710,
+      "tipo": "salida",
+      "fecha": "2026-08-28",
+      "producto": "Cuchilla manual 3/polos 63A",
+      "cantidad": 24,
+      "unidad": "piezas",
+      "referencia": "780",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
       "registradoPor": ""
     }
   ]
