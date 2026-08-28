@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-28T18:04:34.148Z",
+  "actualizado": "2026-08-28T18:04:56.398Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -3030,7 +3030,7 @@
       "sku": "250",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 9
     },
     {
       "nombre": "Olla de presión 3 válvulas 5.5lts",
