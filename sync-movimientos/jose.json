@@ -1,6 +1,6 @@
 {
   "dispositivo": "José",
-  "actualizado": "2026-08-28T18:09:09.760Z",
+  "actualizado": "2026-08-28T20:37:14.516Z",
   "movimientos": [
     {
       "id": 1787663644087,
@@ -712,6 +712,90 @@
       "referencia": "250",
       "categoria": "Sin categoría",
       "observaciones": "",
+      "registradoPor": ""
+    },
+    {
+      "id": 1787940553867,
+      "tipo": "entrada",
+      "fecha": "2026-08-28",
+      "producto": "Bocina grande",
+      "cantidad": 4,
+      "unidad": "piezas",
+      "referencia": "818",
+      "categoria": "Sin categoría",
+      "observaciones": "",
+      "registradoPor": ""
+    },
+    {
+      "id": 1787942325443,
+      "tipo": "salida",
+      "fecha": "2026-08-28",
+      "producto": "Pulidora Coofix 750watts",
+      "cantidad": 10,
+      "unidad": "piezas",
+      "referencia": "260",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1787942337173,
+      "tipo": "salida",
+      "fecha": "2026-08-28",
+      "producto": "Bombillo 12w normal",
+      "cantidad": 100,
+      "unidad": "piezas",
+      "referencia": "191",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1787942445262,
+      "tipo": "salida",
+      "fecha": "2026-08-28",
+      "producto": "Presurizador 35lts",
+      "cantidad": 8,
+      "unidad": "piezas",
+      "referencia": "478",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1787942623522,
+      "tipo": "salida",
+      "fecha": "2026-08-28",
+      "producto": "Cable 12 aluminio",
+      "cantidad": 6,
+      "unidad": "piezas",
+      "referencia": "231",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1787942838085,
+      "tipo": "salida",
+      "fecha": "2026-08-28",
+      "producto": "Tubo de 20 led",
+      "cantidad": 30,
+      "unidad": "piezas",
+      "referencia": "157",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1787943229062,
+      "tipo": "salida",
+      "fecha": "2026-08-28",
+      "producto": "Disco de corte superfuerza 125mm",
+      "cantidad": 600,
+      "unidad": "piezas",
+      "referencia": "318",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
       "registradoPor": ""
     }
   ]
