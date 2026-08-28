@@ -1,6 +1,6 @@
 {
   "dispositivo": "José",
-  "actualizado": "2026-08-28T20:40:37.005Z",
+  "actualizado": "2026-08-28T21:23:32.384Z",
   "movimientos": [
     {
       "id": 1787663644087,
@@ -808,6 +808,18 @@
       "referencia": "777",
       "categoria": "Sin categoría",
       "observaciones": "",
+      "registradoPor": ""
+    },
+    {
+      "id": 1787951640483,
+      "tipo": "salida",
+      "fecha": "2026-08-28",
+      "producto": "Esponja fregar",
+      "cantidad": 50,
+      "unidad": "piezas",
+      "referencia": "663",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
       "registradoPor": ""
     }
   ]
