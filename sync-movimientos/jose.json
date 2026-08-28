@@ -1,6 +1,6 @@
 {
   "dispositivo": "José",
-  "actualizado": "2026-08-28T20:37:14.516Z",
+  "actualizado": "2026-08-28T20:40:37.005Z",
   "movimientos": [
     {
       "id": 1787663644087,
@@ -796,6 +796,18 @@
       "referencia": "318",
       "categoria": "Sin categoría",
       "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1787949444774,
+      "tipo": "entrada",
+      "fecha": "2026-08-28",
+      "producto": "Pluma mezcladora fregadero",
+      "cantidad": 10,
+      "unidad": "piezas",
+      "referencia": "777",
+      "categoria": "Sin categoría",
+      "observaciones": "",
       "registradoPor": ""
     }
   ]
