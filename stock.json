@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-28T14:29:29.455Z",
+  "actualizado": "2026-08-28T17:41:24.074Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -3443,7 +3443,7 @@
       "sku": "242",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 36
+      "stock": 0
     },
     {
       "nombre": "Pintura spray rojo",
