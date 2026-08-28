@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-28T17:43:54.688Z",
+  "actualizado": "2026-08-28T18:00:55.588Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -2505,7 +2505,7 @@
       "sku": "268",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 200
     },
     {
       "nombre": "Lampara recargable 70cm",
