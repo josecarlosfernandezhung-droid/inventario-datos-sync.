@@ -1,6 +1,6 @@
 {
   "dispositivo": "José",
-  "actualizado": "2026-08-28T18:00:36.210Z",
+  "actualizado": "2026-08-28T18:03:37.877Z",
   "movimientos": [
     {
       "id": 1787663644087,
@@ -662,6 +662,30 @@
       "cantidad": 36,
       "unidad": "piezas",
       "referencia": "242",
+      "categoria": "Sin categoría",
+      "observaciones": "",
+      "registradoPor": ""
+    },
+    {
+      "id": 1787940055576,
+      "tipo": "entrada",
+      "fecha": "2026-08-28",
+      "producto": "Lámpara recargable 50cm",
+      "cantidad": 200,
+      "unidad": "piezas",
+      "referencia": "268",
+      "categoria": "Sin categoría",
+      "observaciones": "",
+      "registradoPor": ""
+    },
+    {
+      "id": 1787940086986,
+      "tipo": "entrada",
+      "fecha": "2026-08-28",
+      "producto": "Olla de presión 3 válvulas 5lts",
+      "cantidad": 6,
+      "unidad": "piezas",
+      "referencia": "249",
       "categoria": "Sin categoría",
       "observaciones": "",
       "registradoPor": ""
