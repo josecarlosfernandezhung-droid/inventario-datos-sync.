@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-28T18:01:26.990Z",
+  "actualizado": "2026-08-28T18:03:11.210Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -4599,6 +4599,125 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "stock": 13
+    },
+    {
+      "nombre": "Bocina chica",
+      "sku": "817",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "stock": 0
+    },
+    {
+      "nombre": "Bocina grande",
+      "sku": "818",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "stock": 0
+    },
+    {
+      "nombre": "Bombillo recargable 12w",
+      "sku": "807",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "stock": 0
+    },
+    {
+      "nombre": "Cable 8 aluminio",
+      "sku": "819",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "stock": 0
+    },
+    {
+      "nombre": "Capacitor",
+      "sku": "809",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "stock": 0
+    },
+    {
+      "nombre": "Interruptor LIOA",
+      "sku": "806",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "stock": 0
+    },
+    {
+      "nombre": "Interruptor triple",
+      "sku": "804",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "stock": 0
+    },
+    {
+      "nombre": "Lapicero blanco",
+      "sku": "815",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "stock": 0
+    },
+    {
+      "nombre": "Manguera de agua",
+      "sku": "812",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "stock": 0
+    },
+    {
+      "nombre": "Olla arrocera 2.2lts",
+      "sku": "821",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "stock": 0
+    },
+    {
+      "nombre": "Olla arrocera 3lts IMPUD",
+      "sku": "811",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "stock": 0
+    },
+    {
+      "nombre": "Olla de presión 3 válvulas 11lts",
+      "sku": "820",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "stock": 0
+    },
+    {
+      "nombre": "Palangana criolla",
+      "sku": "813",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "stock": 0
+    },
+    {
+      "nombre": "Pintura galón 3.785lts dorado",
+      "sku": "816",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "stock": 0
+    },
+    {
+      "nombre": "Spray anti ponche",
+      "sku": "808",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "stock": 0
+    },
+    {
+      "nombre": "Toma corriente sencillo",
+      "sku": "803",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "stock": 0
+    },
+    {
+      "nombre": "Vaso plástico",
+      "sku": "814",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "stock": 0
     }
   ],
   "almacenPrincipal": [
