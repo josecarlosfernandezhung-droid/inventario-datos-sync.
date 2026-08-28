@@ -1,6 +1,6 @@
 {
   "dispositivo": "José",
-  "actualizado": "2026-08-28T14:28:21.517Z",
+  "actualizado": "2026-08-28T14:31:29.703Z",
   "movimientos": [
     {
       "id": 1787663644087,
@@ -628,6 +628,30 @@
       "referencia": "154",
       "categoria": "Sin categoría",
       "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1787927342561,
+      "tipo": "entrada",
+      "fecha": "2026-08-28",
+      "producto": "Interruptor sencillo original",
+      "cantidad": 9,
+      "unidad": "piezas",
+      "referencia": "590",
+      "categoria": "Sin categoría",
+      "observaciones": "",
+      "registradoPor": ""
+    },
+    {
+      "id": 1787927369450,
+      "tipo": "salida",
+      "fecha": "2026-08-28",
+      "producto": "Interruptor doble",
+      "cantidad": 9,
+      "unidad": "piezas",
+      "referencia": "176",
+      "categoria": "Sin categoría",
+      "observaciones": "",
       "registradoPor": ""
     }
   ]
