@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-28T18:04:56.398Z",
+  "actualizado": "2026-08-28T20:40:32.564Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -384,7 +384,7 @@
       "sku": "191",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 100
+      "stock": 0
     },
     {
       "nombre": "Bombillo led 9watts normal",
@@ -685,7 +685,7 @@
       "sku": "231",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 32
+      "stock": 26
     },
     {
       "nombre": "Cable 12 cobre",
@@ -1616,7 +1616,7 @@
       "sku": "318",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 9000
+      "stock": 8400
     },
     {
       "nombre": "Disco de sierra madera 180mm",
@@ -3569,7 +3569,7 @@
       "sku": "777",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 10
     },
     {
       "nombre": "Pluma plástica de jardín 1/2 tiro rápido",
@@ -3639,7 +3639,7 @@
       "sku": "478",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 8
+      "stock": 0
     },
     {
       "nombre": "Protector 110vol 20A",
@@ -3688,7 +3688,7 @@
       "sku": "260",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 10
+      "stock": 0
     },
     {
       "nombre": "Pulidora SACO 900watts",
@@ -4395,7 +4395,7 @@
       "sku": "157",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 810
+      "stock": 780
     },
     {
       "nombre": "Tubo led 40/ 1polo",
@@ -4612,7 +4612,7 @@
       "sku": "818",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 4
     },
     {
       "nombre": "Bombillo recargable 12w",
