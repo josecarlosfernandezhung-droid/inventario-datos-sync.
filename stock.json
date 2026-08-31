@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-31T21:02:40.576Z",
+  "actualizado": "2026-08-31T21:06:13.242Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -272,7 +272,7 @@
       "sku": "19",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 20
     },
     {
       "nombre": "Base de tv 26-63 pulgadas",
@@ -594,14 +594,14 @@
       "sku": "531",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 42
     },
     {
       "nombre": "Brida 4.8x400mm",
       "sku": "417",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 50
     },
     {
       "nombre": "Brocha 1\"",
@@ -923,7 +923,7 @@
       "sku": "774",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 36
     },
     {
       "nombre": "Candado anti-sisalla 80mm",
@@ -1161,7 +1161,7 @@
       "sku": "345",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 30
     },
     {
       "nombre": "Chirri 2\" fino",
@@ -1217,7 +1217,7 @@
       "sku": "205",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 30
     },
     {
       "nombre": "Cinta aluminio split",
@@ -1483,7 +1483,7 @@
       "sku": "131",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 20
     },
     {
       "nombre": "Cuchilla manual 3/polos 100A",
@@ -1539,7 +1539,7 @@
       "sku": "288",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 18
     },
     {
       "nombre": "Cuello ganso flexible abajo",
@@ -1777,7 +1777,7 @@
       "sku": "662",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 240
     },
     {
       "nombre": "Expansor marco-puerta 3\" plástico",
@@ -1791,7 +1791,7 @@
       "sku": "110",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 1200
     },
     {
       "nombre": "Expansor mecánico M8 10mm",
@@ -1910,7 +1910,7 @@
       "sku": "719",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 20
     },
     {
       "nombre": "Extensión de 20mts simple",
@@ -2085,7 +2085,7 @@
       "sku": "193",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 20
     },
     {
       "nombre": "Herramienta recogida magnetica",
@@ -2274,7 +2274,7 @@
       "sku": "18",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 24
     },
     {
       "nombre": "Juego de cucharon",
@@ -2323,7 +2323,7 @@
       "sku": "147",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 24
     },
     {
       "nombre": "Juego de llave allen 9pcs largo",
@@ -2694,7 +2694,7 @@
       "sku": "63",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 26
     },
     {
       "nombre": "Llave de paso 1/2\" plástica",
@@ -3688,7 +3688,7 @@
       "sku": "260",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 30
     },
     {
       "nombre": "Pulidora SACO 900watts",
@@ -4108,7 +4108,7 @@
       "sku": "426",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 30
     },
     {
       "nombre": "Terminal cobre",
@@ -4500,7 +4500,7 @@
       "sku": "47",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 65
     },
     {
       "nombre": "Vela pequeña 4/unidades",
@@ -4759,22 +4759,22 @@
     {
       "nombre": "Cuchilla manual 2/polos 63A",
       "sku": "131",
-      "cantidad": 20
+      "cantidad": 0
     },
     {
       "nombre": "Cuello ganso flexible a la pared",
       "sku": "288",
-      "cantidad": 21
+      "cantidad": 3
     },
     {
       "nombre": "Juego de llave allen 9pcs corto",
       "sku": "147",
-      "cantidad": 24
+      "cantidad": 0
     },
     {
       "nombre": "Juego de cubo proefix de 46pcs rojo",
       "sku": "18",
-      "cantidad": 24
+      "cantidad": 0
     },
     {
       "nombre": "Cuchilla manual 3/polos 63A",
@@ -4784,7 +4784,7 @@
     {
       "nombre": "Llave de paso 1\" plástica",
       "sku": "63",
-      "cantidad": 26
+      "cantidad": 0
     },
     {
       "nombre": "Tarraja plástica",
@@ -4794,17 +4794,17 @@
     {
       "nombre": "Pulidora Coofix 750watts",
       "sku": "260",
-      "cantidad": 30
+      "cantidad": 0
     },
     {
       "nombre": "Tenaza de soldar 600Amp",
       "sku": "426",
-      "cantidad": 30
+      "cantidad": 0
     },
     {
       "nombre": "Cinta 7.5mts",
       "sku": "205",
-      "cantidad": 30
+      "cantidad": 0
     },
     {
       "nombre": "Cable 12 aluminio",
@@ -4824,12 +4824,12 @@
     {
       "nombre": "Candado anti-sisalla 70mm",
       "sku": "774",
-      "cantidad": 36
+      "cantidad": 0
     },
     {
       "nombre": "Base de tv 14-42 pulgadas",
       "sku": "19",
-      "cantidad": 40
+      "cantidad": 20
     },
     {
       "nombre": "Cepillo de copa normal 800$",
@@ -4844,7 +4844,7 @@
     {
       "nombre": "Brida 4.8x300mm",
       "sku": "531",
-      "cantidad": 42
+      "cantidad": 0
     },
     {
       "nombre": "Set de destornilladores MAXI pareja",
@@ -4864,12 +4864,12 @@
     {
       "nombre": "Cheque de plástico 1\"",
       "sku": "345",
-      "cantidad": 60
+      "cantidad": 30
     },
     {
       "nombre": "Extensión 9 fts",
       "sku": "719",
-      "cantidad": 60
+      "cantidad": 40
     },
     {
       "nombre": "PVC 250ml",
@@ -4884,7 +4884,7 @@
     {
       "nombre": "Herraje de baño",
       "sku": "193",
-      "cantidad": 85
+      "cantidad": 65
     },
     {
       "nombre": "Disco tungsteno 115mm liso",
@@ -4919,7 +4919,7 @@
     {
       "nombre": "Brida 4.8x400mm",
       "sku": "417",
-      "cantidad": 120
+      "cantidad": 70
     },
     {
       "nombre": "Cinta 3mts",
@@ -4959,12 +4959,12 @@
     {
       "nombre": "Conector MC4",
       "sku": "634",
-      "cantidad": 200
+      "cantidad": 100
     },
     {
       "nombre": "Codo de 50",
       "sku": "546",
-      "cantidad": 200
+      "cantidad": 180
     },
     {
       "nombre": "Brocha 1\"",
@@ -4984,7 +4984,7 @@
     {
       "nombre": "Unión universal 1\"",
       "sku": "232",
-      "cantidad": 265
+      "cantidad": 250
     },
     {
       "nombre": "Latiguillo",
@@ -5024,7 +5024,7 @@
     {
       "nombre": "Vela grande 8/unidades",
       "sku": "47",
-      "cantidad": 650
+      "cantidad": 585
     },
     {
       "nombre": "Precinta transparente",
@@ -5034,7 +5034,7 @@
     {
       "nombre": "Estropajo alambre",
       "sku": "662",
-      "cantidad": 720
+      "cantidad": 480
     },
     {
       "nombre": "Pila AAA",
@@ -5049,7 +5049,7 @@
     {
       "nombre": "Expansor mecánico M6",
       "sku": "110",
-      "cantidad": 1200
+      "cantidad": 0
     },
     {
       "nombre": "Fosforera magneto grande",
