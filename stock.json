@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-31T16:54:24.215Z",
+  "actualizado": "2026-08-31T21:02:40.576Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -3415,14 +3415,14 @@
       "sku": "391",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 168
+      "stock": 156
     },
     {
       "nombre": "Pintura spray cromado",
       "sku": "506",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 96
+      "stock": 84
     },
     {
       "nombre": "Pintura spray dorado",
@@ -3450,7 +3450,7 @@
       "sku": "783",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 36
+      "stock": 24
     },
     {
       "nombre": "Pintura spray verde",
@@ -4311,7 +4311,7 @@
       "sku": "102",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 6000
+      "stock": 3000
     },
     {
       "nombre": "Tornillo rosca chapa 3\" pulgada",
@@ -4332,7 +4332,7 @@
       "sku": "281",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 12000
+      "stock": 0
     },
     {
       "nombre": "Tornillo tira-fondo pladur 1\"3/4\"/45mm x caja 360",
