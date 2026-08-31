@@ -1,6 +1,6 @@
 {
   "dispositivo": "José",
-  "actualizado": "2026-08-31T16:54:04.189Z",
+  "actualizado": "2026-08-31T16:55:12.225Z",
   "movimientos": [
     {
       "id": 1787663644087,
@@ -914,6 +914,18 @@
       "cantidad": 1,
       "unidad": "piezas",
       "referencia": "810",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1788195264304,
+      "tipo": "salida",
+      "fecha": "2026-08-31",
+      "producto": "Tubo de 20 led",
+      "cantidad": 60,
+      "unidad": "piezas",
+      "referencia": "157",
       "categoria": "Sin categoría",
       "observaciones": "Transferencia a piso de venta",
       "registradoPor": ""
