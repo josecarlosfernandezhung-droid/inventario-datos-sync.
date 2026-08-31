@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-31T21:26:46.257Z",
+  "actualizado": "2026-08-31T21:45:50.115Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -2225,7 +2225,7 @@
       "sku": "136",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 20
+      "stock": 0
     },
     {
       "nombre": "Juego de cazuela de inducción 10 pcs",
@@ -2323,7 +2323,7 @@
       "sku": "147",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 24
+      "stock": 0
     },
     {
       "nombre": "Juego de llave allen 9pcs largo",
