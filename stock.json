@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-31T12:09:51.018Z",
+  "actualizado": "2026-08-31T12:59:44.916Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -307,7 +307,7 @@
       "sku": "343",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 63
+      "stock": 60
     },
     {
       "nombre": "Bisagra 1x2",
@@ -573,7 +573,7 @@
       "sku": "772",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 15
+      "stock": 8
     },
     {
       "nombre": "Brekera combinada 600v/25A",
@@ -1742,14 +1742,14 @@
       "sku": "39",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 90
+      "stock": 60
     },
     {
       "nombre": "Esponja fregar",
       "sku": "663",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 160
+      "stock": 110
     },
     {
       "nombre": "Esquineros",
@@ -4500,7 +4500,7 @@
       "sku": "47",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 65
+      "stock": 0
     },
     {
       "nombre": "Vela pequeña 4/unidades",
@@ -4598,7 +4598,7 @@
       "sku": "810",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 13
+      "stock": 6
     },
     {
       "nombre": "Bocina chica",
@@ -4612,7 +4612,7 @@
       "sku": "818",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 4
+      "stock": 3
     },
     {
       "nombre": "Bombillo recargable 12w",
