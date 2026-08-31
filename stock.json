@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-31T21:06:13.242Z",
+  "actualizado": "2026-08-31T21:13:50.239Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -2225,7 +2225,7 @@
       "sku": "136",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 20
     },
     {
       "nombre": "Juego de cazuela de inducción 10 pcs",
@@ -3240,14 +3240,14 @@
       "sku": "453",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 180
     },
     {
       "nombre": "Pila AAA",
       "sku": "166",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 540
     },
     {
       "nombre": "Pintura 1/litro azul claro",
@@ -4839,7 +4839,7 @@
     {
       "nombre": "Juego de barrena tungsteno 5pcs",
       "sku": "136",
-      "cantidad": 40
+      "cantidad": 20
     },
     {
       "nombre": "Brida 4.8x300mm",
@@ -5039,12 +5039,12 @@
     {
       "nombre": "Pila AAA",
       "sku": "166",
-      "cantidad": 900
+      "cantidad": 360
     },
     {
       "nombre": "Pila AA",
       "sku": "453",
-      "cantidad": 940
+      "cantidad": 760
     },
     {
       "nombre": "Expansor mecánico M6",
