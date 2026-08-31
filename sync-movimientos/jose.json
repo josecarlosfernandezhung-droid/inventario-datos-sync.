@@ -1,6 +1,6 @@
 {
   "dispositivo": "José",
-  "actualizado": "2026-08-31T17:39:15.263Z",
+  "actualizado": "2026-08-31T17:44:52.409Z",
   "movimientos": [
     {
       "id": 1787663644087,
@@ -950,6 +950,42 @@
       "cantidad": 3000,
       "unidad": "piezas",
       "referencia": "102",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1788197961497,
+      "tipo": "salida",
+      "fecha": "2026-08-31",
+      "producto": "Pintura spray azul diamond brillante proefix",
+      "cantidad": 12,
+      "unidad": "piezas",
+      "referencia": "391",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1788197960957,
+      "tipo": "salida",
+      "fecha": "2026-08-31",
+      "producto": "Pintura spray rojo",
+      "cantidad": 12,
+      "unidad": "piezas",
+      "referencia": "783",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1788197961393,
+      "tipo": "salida",
+      "fecha": "2026-08-31",
+      "producto": "Pintura spray cromado",
+      "cantidad": 12,
+      "unidad": "piezas",
+      "referencia": "506",
       "categoria": "Sin categoría",
       "observaciones": "Transferencia a piso de venta",
       "registradoPor": ""
