@@ -1,6 +1,6 @@
 {
   "dispositivo": "José",
-  "actualizado": "2026-08-31T17:03:08.229Z",
+  "actualizado": "2026-08-31T17:25:59.452Z",
   "movimientos": [
     {
       "id": 1787663644087,
@@ -938,6 +938,18 @@
       "cantidad": 12000,
       "unidad": "piezas",
       "referencia": "281",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1788197159668,
+      "tipo": "salida",
+      "fecha": "2026-08-31",
+      "producto": "Tornillo rosca chapa 1\" 10mm",
+      "cantidad": 3000,
+      "unidad": "piezas",
+      "referencia": "102",
       "categoria": "Sin categoría",
       "observaciones": "Transferencia a piso de venta",
       "registradoPor": ""
