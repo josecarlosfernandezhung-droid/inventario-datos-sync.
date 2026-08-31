@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-31T21:45:50.115Z",
+  "actualizado": "2026-08-31T22:16:12.162Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -2694,7 +2694,7 @@
       "sku": "63",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 26
+      "stock": 0
     },
     {
       "nombre": "Llave de paso 1/2\" plástica",
