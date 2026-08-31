@@ -1,6 +1,6 @@
 {
   "dispositivo": "José",
-  "actualizado": "2026-08-31T21:09:05.381Z",
+  "actualizado": "2026-08-31T21:10:54.200Z",
   "movimientos": [
     {
       "id": 1787663644087,
@@ -1278,6 +1278,20 @@
       "cantidad": 65,
       "unidad": "piezas",
       "referencia": "47",
+      "categoria": "Sin categoría",
+      "origen": "Almacén Principal",
+      "destino": "Almacén Punto de Venta",
+      "observaciones": "Transferencia: Almacén Principal → Almacén Punto de Venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1788210652831,
+      "tipo": "transferencia",
+      "fecha": "2026-08-31",
+      "producto": "Juego de barrena tungsteno 5pcs",
+      "cantidad": 20,
+      "unidad": "piezas",
+      "referencia": "136",
       "categoria": "Sin categoría",
       "origen": "Almacén Principal",
       "destino": "Almacén Punto de Venta",
