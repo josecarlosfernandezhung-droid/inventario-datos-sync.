@@ -1,6 +1,6 @@
 {
   "dispositivo": "José",
-  "actualizado": "2026-08-31T21:22:57.518Z",
+  "actualizado": "2026-08-31T21:47:31.385Z",
   "movimientos": [
     {
       "id": 1787663644087,
@@ -1324,6 +1324,138 @@
       "origen": "Almacén Principal",
       "destino": "Almacén Punto de Venta",
       "observaciones": "Transferencia: Almacén Principal → Almacén Punto de Venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1788211606060,
+      "tipo": "salida",
+      "fecha": "2026-08-31",
+      "producto": "Estropajo alambre",
+      "cantidad": 120,
+      "unidad": "piezas",
+      "referencia": "662",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1788211606399,
+      "tipo": "salida",
+      "fecha": "2026-08-31",
+      "producto": "Brida 4.8x300mm",
+      "cantidad": 22,
+      "unidad": "piezas",
+      "referencia": "531",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1788211606595,
+      "tipo": "salida",
+      "fecha": "2026-08-31",
+      "producto": "Brida 4.8x400mm",
+      "cantidad": 20,
+      "unidad": "piezas",
+      "referencia": "417",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1788211606618,
+      "tipo": "salida",
+      "fecha": "2026-08-31",
+      "producto": "Esponja fregar",
+      "cantidad": 50,
+      "unidad": "piezas",
+      "referencia": "663",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1788211606433,
+      "tipo": "salida",
+      "fecha": "2026-08-31",
+      "producto": "Pulidora Coofix 750watts",
+      "cantidad": 10,
+      "unidad": "piezas",
+      "referencia": "260",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1788211606938,
+      "tipo": "salida",
+      "fecha": "2026-08-31",
+      "producto": "Cuello ganso flexible a la pared",
+      "cantidad": 2,
+      "unidad": "piezas",
+      "referencia": "288",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1788211606478,
+      "tipo": "salida",
+      "fecha": "2026-08-31",
+      "producto": "Extensión 9 fts",
+      "cantidad": 10,
+      "unidad": "piezas",
+      "referencia": "719",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1788211606038,
+      "tipo": "salida",
+      "fecha": "2026-08-31",
+      "producto": "Tenaza de soldar 600Amp",
+      "cantidad": 10,
+      "unidad": "piezas",
+      "referencia": "426",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1788211606850,
+      "tipo": "salida",
+      "fecha": "2026-08-31",
+      "producto": "Cheque de plástico 1\"",
+      "cantidad": 10,
+      "unidad": "piezas",
+      "referencia": "345",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1788212749900,
+      "tipo": "salida",
+      "fecha": "2026-08-31",
+      "producto": "Juego de llave allen 9pcs corto",
+      "cantidad": 24,
+      "unidad": "piezas",
+      "referencia": "147",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1788212750043,
+      "tipo": "salida",
+      "fecha": "2026-08-31",
+      "producto": "Juego de barrena tungsteno 5pcs",
+      "cantidad": 20,
+      "unidad": "piezas",
+      "referencia": "136",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
       "registradoPor": ""
     }
   ]
