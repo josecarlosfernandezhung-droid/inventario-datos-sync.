@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-31T21:13:50.239Z",
+  "actualizado": "2026-08-31T21:26:46.257Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -594,14 +594,14 @@
       "sku": "531",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 42
+      "stock": 20
     },
     {
       "nombre": "Brida 4.8x400mm",
       "sku": "417",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 50
+      "stock": 30
     },
     {
       "nombre": "Brocha 1\"",
@@ -1161,7 +1161,7 @@
       "sku": "345",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 30
+      "stock": 20
     },
     {
       "nombre": "Chirri 2\" fino",
@@ -1539,7 +1539,7 @@
       "sku": "288",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 18
+      "stock": 16
     },
     {
       "nombre": "Cuello ganso flexible abajo",
@@ -1749,7 +1749,7 @@
       "sku": "663",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 110
+      "stock": 60
     },
     {
       "nombre": "Esquineros",
@@ -1777,7 +1777,7 @@
       "sku": "662",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 240
+      "stock": 120
     },
     {
       "nombre": "Expansor marco-puerta 3\" plástico",
@@ -1910,7 +1910,7 @@
       "sku": "719",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 20
+      "stock": 10
     },
     {
       "nombre": "Extensión de 20mts simple",
@@ -3688,7 +3688,7 @@
       "sku": "260",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 30
+      "stock": 20
     },
     {
       "nombre": "Pulidora SACO 900watts",
@@ -4108,7 +4108,7 @@
       "sku": "426",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 30
+      "stock": 20
     },
     {
       "nombre": "Terminal cobre",
