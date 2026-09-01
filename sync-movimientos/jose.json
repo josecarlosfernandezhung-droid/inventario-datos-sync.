@@ -1,6 +1,6 @@
 {
   "dispositivo": "José",
-  "actualizado": "2026-09-01T04:22:38.375Z",
+  "actualizado": "2026-09-01T04:24:14.526Z",
   "movimientos": [
     {
       "id": 1787663644087,
@@ -1468,6 +1468,20 @@
       "referencia": "63",
       "categoria": "Sin categoría",
       "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1788236652965,
+      "tipo": "transferencia",
+      "fecha": "2026-09-01",
+      "producto": "Varilla de soldar 6013/3.2mm 35cm",
+      "cantidad": 1224,
+      "unidad": "cajas",
+      "referencia": "94",
+      "categoria": "Sin categoría",
+      "origen": "📦 Almacén Casa de Carlos",
+      "destino": "Punto de Venta",
+      "observaciones": "Transferencia: 📦 Almacén Casa de Carlos → Punto de Venta",
       "registradoPor": ""
     }
   ]
