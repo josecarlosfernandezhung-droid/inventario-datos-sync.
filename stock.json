@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-01T04:24:45.515Z",
+  "actualizado": "2026-09-01T04:25:20.373Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -5122,5 +5122,7 @@
       ]
     }
   ],
-  "etiquetas": {}
+  "etiquetas": {
+    "productos": "Almacén de Punto de Venta"
+  }
 }
