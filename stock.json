@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-02T13:47:46.574Z",
+  "actualizado": "2026-09-02T19:22:26.090Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -1742,7 +1742,7 @@
       "sku": "39",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 30
+      "stock": 0
     },
     {
       "nombre": "Esponja fregar",
@@ -3933,7 +3933,7 @@
       "sku": "479",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 96
+      "stock": 72
     },
     {
       "nombre": "Silicona de alta temperatura proefix",
@@ -4192,7 +4192,7 @@
       "sku": "655",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 180
+      "stock": 144
     },
     {
       "nombre": "Toallita cocina",
@@ -7531,7 +7531,7 @@
     {
       "nombre": "Toalla húmeda",
       "sku": "655",
-      "cantidad": 13
+      "cantidad": 49
     },
     {
       "nombre": "Bombillo recargable 2 baterías/pilas",
@@ -7881,7 +7881,7 @@
     {
       "nombre": "Silicona de alta temperatura 700",
       "sku": "479",
-      "cantidad": 31
+      "cantidad": 55
     },
     {
       "nombre": "Bases de resistencia de aluminio",
@@ -7996,7 +7996,7 @@
     {
       "nombre": "Espiga",
       "sku": "39",
-      "cantidad": 72
+      "cantidad": 102
     },
     {
       "nombre": "Guante",
