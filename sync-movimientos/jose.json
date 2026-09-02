@@ -1,6 +1,6 @@
 {
   "dispositivo": "José",
-  "actualizado": "2026-09-01T04:30:13.325Z",
+  "actualizado": "2026-09-02T13:36:37.577Z",
   "movimientos": [
     {
       "id": 1787663644087,
@@ -1482,6 +1482,102 @@
       "origen": "📦 Almacén Casa de Carlos",
       "destino": "Punto de Venta",
       "observaciones": "Transferencia: 📦 Almacén Casa de Carlos → Punto de Venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1788354162406,
+      "tipo": "salida",
+      "fecha": "2026-09-02",
+      "producto": "Bombillo led 9watts normal",
+      "cantidad": 100,
+      "unidad": "piezas",
+      "referencia": "74",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1788354197670,
+      "tipo": "salida",
+      "fecha": "2026-09-02",
+      "producto": "Cable 10 aluminio",
+      "cantidad": 6,
+      "unidad": "piezas",
+      "referencia": "230",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1788355841591,
+      "tipo": "salida",
+      "fecha": "2026-09-02",
+      "producto": "Brocha 1\"",
+      "cantidad": 60,
+      "unidad": "piezas",
+      "referencia": "118",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1788355841962,
+      "tipo": "salida",
+      "fecha": "2026-09-02",
+      "producto": "Brekera 2 posiciones",
+      "cantidad": 15,
+      "unidad": "piezas",
+      "referencia": "741",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1788355841946,
+      "tipo": "salida",
+      "fecha": "2026-09-02",
+      "producto": "Silicona de cristal",
+      "cantidad": 24,
+      "unidad": "piezas",
+      "referencia": "177",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1788355841499,
+      "tipo": "salida",
+      "fecha": "2026-09-02",
+      "producto": "Toma corriente universal",
+      "cantidad": 100,
+      "unidad": "piezas",
+      "referencia": "36",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1788355841458,
+      "tipo": "salida",
+      "fecha": "2026-09-02",
+      "producto": "Espiga",
+      "cantidad": 30,
+      "unidad": "piezas",
+      "referencia": "39",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1788355841198,
+      "tipo": "salida",
+      "fecha": "2026-09-02",
+      "producto": "Disco de corte superfuerza 125mm",
+      "cantidad": 600,
+      "unidad": "piezas",
+      "referencia": "318",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
       "registradoPor": ""
     }
   ]
