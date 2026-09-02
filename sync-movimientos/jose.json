@@ -1,6 +1,6 @@
 {
   "dispositivo": "José",
-  "actualizado": "2026-09-02T20:41:51.711Z",
+  "actualizado": "2026-09-02T21:49:11.912Z",
   "movimientos": [
     {
       "id": 1787663644087,
@@ -1660,6 +1660,30 @@
       "cantidad": 167,
       "unidad": "piezas",
       "referencia": "266",
+      "categoria": "Sin categoría",
+      "observaciones": "",
+      "registradoPor": ""
+    },
+    {
+      "id": 1788383652437,
+      "tipo": "entrada",
+      "fecha": "2026-09-02",
+      "producto": "Extensión 3mts regleta",
+      "cantidad": 10,
+      "unidad": "piezas",
+      "referencia": "21",
+      "categoria": "Sin categoría",
+      "observaciones": "",
+      "registradoPor": ""
+    },
+    {
+      "id": 1788385658257,
+      "tipo": "entrada",
+      "fecha": "2026-09-02",
+      "producto": "Casco criollo",
+      "cantidad": 190,
+      "unidad": "piezas",
+      "referencia": "534",
       "categoria": "Sin categoría",
       "observaciones": "",
       "registradoPor": ""
