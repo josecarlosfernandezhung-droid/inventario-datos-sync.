@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-02T19:22:26.090Z",
+  "actualizado": "2026-09-02T19:28:44.908Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -468,7 +468,7 @@
       "sku": "745",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 54
     },
     {
       "nombre": "Breker 40A doble AC",
