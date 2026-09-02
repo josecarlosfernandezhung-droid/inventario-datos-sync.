@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-02T13:36:21.735Z",
+  "actualizado": "2026-09-02T13:47:46.574Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -8454,20 +8454,7 @@
       "cantidad": 63573
     }
   ],
-  "almacenesExtra": [
-    {
-      "id": "alm_mtht8sw03fl4",
-      "nombre": "Almacén Casa de Carlos",
-      "icono": "📦",
-      "productos": [
-        {
-          "nombre": "Varilla de soldar 6013 de 3,2mm 35cm",
-          "sku": "94",
-          "cantidad": 63648
-        }
-      ]
-    }
-  ],
+  "almacenesExtra": [],
   "etiquetas": {
     "productos": "Almacén de Punto de Venta"
   }
