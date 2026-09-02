@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-02T19:28:44.908Z",
+  "actualizado": "2026-09-02T22:52:30.844Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -797,7 +797,7 @@
       "sku": "266",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 553
+      "stock": 720
     },
     {
       "nombre": "Cajita 4x4",
@@ -979,7 +979,7 @@
       "sku": "534",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 190
     },
     {
       "nombre": "Casco criollo vicera",
@@ -1889,7 +1889,7 @@
       "sku": "21",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 10
     },
     {
       "nombre": "Extensión 5mts regleta",
@@ -2792,7 +2792,7 @@
       "sku": "330",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 20
     },
     {
       "nombre": "Llavín de puerta calle/cerradura plana SPC",
@@ -4703,7 +4703,7 @@
       "sku": "808",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 24
     },
     {
       "nombre": "Toma corriente sencillo",
@@ -4718,6 +4718,20 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "stock": 0
+    },
+    {
+      "nombre": "Soporte de Instalación para Split",
+      "sku": "PROD-0001",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "stock": 18
+    },
+    {
+      "nombre": "Cesto de basura rectangular de 12L",
+      "sku": "PROD-0002",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "stock": 10
     }
   ],
   "almacenPrincipal": [
@@ -4819,7 +4833,7 @@
     {
       "nombre": "Llavín picaporte",
       "sku": "128",
-      "cantidad": 0
+      "cantidad": 40
     },
     {
       "nombre": "Candado anti-sisalla 70mm",
@@ -8454,8 +8468,27 @@
       "cantidad": 63573
     }
   ],
-  "almacenesExtra": [],
+  "almacenesExtra": [
+    {
+      "id": "alm_mtht8sw03fl4",
+      "nombre": "Almacén Casa de Carlos",
+      "icono": "📦",
+      "productos": [
+        {
+          "nombre": "Varilla de soldar 6013 de 3,2mm 35cm",
+          "sku": "94",
+          "cantidad": 104
+        },
+        {
+          "nombre": "Casco criollo",
+          "sku": "",
+          "cantidad": 12
+        }
+      ]
+    }
+  ],
   "etiquetas": {
-    "productos": "Almacén de Punto de Venta"
+    "productos": "Almacén de Punto de Venta",
+    "extra_alm_mtht8sw03fl4": "Almacén De Casa De Carlos"
   }
 }
