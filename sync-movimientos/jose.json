@@ -1,6 +1,6 @@
 {
   "dispositivo": "José",
-  "actualizado": "2026-09-02T13:52:14.332Z",
+  "actualizado": "2026-09-02T19:22:27.835Z",
   "movimientos": [
     {
       "id": 1787663644087,
@@ -1576,6 +1576,42 @@
       "cantidad": 600,
       "unidad": "piezas",
       "referencia": "318",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1788376870957,
+      "tipo": "salida",
+      "fecha": "2026-09-02",
+      "producto": "Silicona de alta temperatura 700",
+      "cantidad": 24,
+      "unidad": "piezas",
+      "referencia": "479",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1788376903718,
+      "tipo": "salida",
+      "fecha": "2026-09-02",
+      "producto": "Toalla húmeda",
+      "cantidad": 36,
+      "unidad": "piezas",
+      "referencia": "655",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1788376904026,
+      "tipo": "salida",
+      "fecha": "2026-09-02",
+      "producto": "Espiga",
+      "cantidad": 30,
+      "unidad": "piezas",
+      "referencia": "39",
       "categoria": "Sin categoría",
       "observaciones": "Transferencia a piso de venta",
       "registradoPor": ""
