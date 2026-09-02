@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-02T22:52:30.844Z",
+  "actualizado": "2026-09-02T23:00:31.607Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -8478,11 +8478,6 @@
           "nombre": "Varilla de soldar 6013 de 3,2mm 35cm",
           "sku": "94",
           "cantidad": 104
-        },
-        {
-          "nombre": "Casco criollo",
-          "sku": "",
-          "cantidad": 12
         }
       ]
     }
