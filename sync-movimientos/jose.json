@@ -1,6 +1,6 @@
 {
   "dispositivo": "José",
-  "actualizado": "2026-09-02T19:28:12.391Z",
+  "actualizado": "2026-09-02T20:29:08.357Z",
   "movimientos": [
     {
       "id": 1787663644087,
@@ -1614,6 +1614,42 @@
       "referencia": "39",
       "categoria": "Sin categoría",
       "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1788377324901,
+      "tipo": "entrada",
+      "fecha": "2026-09-02",
+      "producto": "Breker 32A doble AC",
+      "cantidad": 54,
+      "unidad": "piezas",
+      "referencia": "745",
+      "categoria": "Sin categoría",
+      "observaciones": "",
+      "registradoPor": ""
+    },
+    {
+      "id": 1788377407135,
+      "tipo": "entrada",
+      "fecha": "2026-09-02",
+      "producto": "Llavín de calle anticopia",
+      "cantidad": 20,
+      "unidad": "piezas",
+      "referencia": "330",
+      "categoria": "Sin categoría",
+      "observaciones": "",
+      "registradoPor": ""
+    },
+    {
+      "id": 1788380947661,
+      "tipo": "entrada",
+      "fecha": "2026-09-02",
+      "producto": "Spray anti ponche",
+      "cantidad": 24,
+      "unidad": "piezas",
+      "referencia": "808",
+      "categoria": "Sin categoría",
+      "observaciones": "",
       "registradoPor": ""
     }
   ]
