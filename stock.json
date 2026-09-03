@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-03T10:50:22.326Z",
+  "actualizado": "2026-09-03T21:43:31.192Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -167,7 +167,7 @@
       "sku": "448",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 70
+      "stock": 60
     },
     {
       "nombre": "Arandela presion 12mm",
@@ -797,7 +797,7 @@
       "sku": "266",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 720
+      "stock": 670
     },
     {
       "nombre": "Cajita 4x4",
@@ -979,7 +979,7 @@
       "sku": "534",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 190
+      "stock": 180
     },
     {
       "nombre": "Casco criollo vicera",
@@ -1490,7 +1490,7 @@
       "sku": "574",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 18
+      "stock": 0
     },
     {
       "nombre": "Cuchilla manual 3/polos 63A",
@@ -1749,7 +1749,7 @@
       "sku": "663",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 60
+      "stock": 0
     },
     {
       "nombre": "Esquineros",
@@ -1777,7 +1777,7 @@
       "sku": "662",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 120
+      "stock": 0
     },
     {
       "nombre": "Expansor marco-puerta 3\" plástico",
@@ -2498,7 +2498,7 @@
       "sku": "73",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 100
+      "stock": 0
     },
     {
       "nombre": "Lámpara recargable 50cm",
@@ -3821,7 +3821,7 @@
       "sku": "140",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 10
+      "stock": 0
     },
     {
       "nombre": "Set de destornillador pequeño",
@@ -3933,7 +3933,7 @@
       "sku": "479",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 72
+      "stock": 60
     },
     {
       "nombre": "Silicona de alta temperatura proefix",
@@ -3982,7 +3982,7 @@
       "sku": "146",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 24
+      "stock": 12
     },
     {
       "nombre": "Supresor de voltaje 110v",
@@ -4206,7 +4206,7 @@
       "sku": "282",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 50
+      "stock": 30
     },
     {
       "nombre": "Toma corriente plano normal",
@@ -4395,7 +4395,7 @@
       "sku": "157",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 720
+      "stock": 690
     },
     {
       "nombre": "Tubo led 40/ 1polo",
@@ -4409,7 +4409,7 @@
       "sku": "154",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 100
+      "stock": 75
     },
     {
       "nombre": "Turbina 1 HP",
@@ -8482,7 +8482,42 @@
         {
           "nombre": "Varilla de soldar 6013 de 3,2mm 35cm",
           "sku": "94",
-          "cantidad": 104
+          "cantidad": 63648
+        },
+        {
+          "nombre": "Base de split",
+          "sku": "833",
+          "cantidad": 50
+        },
+        {
+          "nombre": "Brekera 9 posiciones",
+          "sku": "772",
+          "cantidad": 45
+        },
+        {
+          "nombre": "Casco criollo",
+          "sku": "534",
+          "cantidad": 800
+        },
+        {
+          "nombre": "Fogón de petroleo",
+          "sku": "637",
+          "cantidad": 80
+        },
+        {
+          "nombre": "Herraje de baño",
+          "sku": "193",
+          "cantidad": 50
+        },
+        {
+          "nombre": "Llave empotrada de ducha",
+          "sku": "52",
+          "cantidad": 60
+        },
+        {
+          "nombre": "Varilla de techo",
+          "sku": "314",
+          "cantidad": 10000
         }
       ]
     }
