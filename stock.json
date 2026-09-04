@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-04T17:18:47.786Z",
+  "actualizado": "2026-09-04T17:19:22.252Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -167,7 +167,7 @@
       "sku": "448",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 70
+      "stock": 60
     },
     {
       "nombre": "Arandela presion 12mm",
@@ -272,7 +272,7 @@
       "sku": "19",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": -20
     },
     {
       "nombre": "Base de tv 26-63 pulgadas",
@@ -391,7 +391,7 @@
       "sku": "74",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 100
+      "stock": 0
     },
     {
       "nombre": "Bombillo recargable 2 baterías/pilas",
@@ -468,7 +468,7 @@
       "sku": "745",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 54
     },
     {
       "nombre": "Breker 40A doble AC",
@@ -552,7 +552,7 @@
       "sku": "741",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 100
+      "stock": 85
     },
     {
       "nombre": "Brekera 24 posiciones",
@@ -594,21 +594,21 @@
       "sku": "531",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": -64
     },
     {
       "nombre": "Brida 4.8x400mm",
       "sku": "417",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": -70
     },
     {
       "nombre": "Brocha 1\"",
       "sku": "118",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 360
+      "stock": 300
     },
     {
       "nombre": "Brocha 1.5\"",
@@ -671,7 +671,7 @@
       "sku": "230",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 12
+      "stock": 6
     },
     {
       "nombre": "Cable 10 cobre",
@@ -797,7 +797,7 @@
       "sku": "266",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 553
+      "stock": 620
     },
     {
       "nombre": "Cajita 4x4",
@@ -923,7 +923,7 @@
       "sku": "774",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": -36
     },
     {
       "nombre": "Candado anti-sisalla 80mm",
@@ -979,7 +979,7 @@
       "sku": "534",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 180
     },
     {
       "nombre": "Casco criollo vicera",
@@ -1161,7 +1161,7 @@
       "sku": "345",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": -40
     },
     {
       "nombre": "Chirri 2\" fino",
@@ -1217,7 +1217,7 @@
       "sku": "205",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": -30
     },
     {
       "nombre": "Cinta aluminio split",
@@ -1336,7 +1336,7 @@
       "sku": "546",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": -20
     },
     {
       "nombre": "Coladera",
@@ -1364,7 +1364,7 @@
       "sku": "634",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": -100
     },
     {
       "nombre": "Conector Y",
@@ -1483,14 +1483,14 @@
       "sku": "131",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": -20
     },
     {
       "nombre": "Cuchilla manual 3/polos 100A",
       "sku": "574",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 18
+      "stock": 0
     },
     {
       "nombre": "Cuchilla manual 3/polos 63A",
@@ -1539,7 +1539,7 @@
       "sku": "288",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": -20
     },
     {
       "nombre": "Cuello ganso flexible abajo",
@@ -1616,7 +1616,7 @@
       "sku": "318",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 8400
+      "stock": 7800
     },
     {
       "nombre": "Disco de sierra madera 180mm",
@@ -1742,14 +1742,14 @@
       "sku": "39",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 60
+      "stock": 0
     },
     {
       "nombre": "Esponja fregar",
       "sku": "663",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 110
+      "stock": 0
     },
     {
       "nombre": "Esquineros",
@@ -1777,7 +1777,7 @@
       "sku": "662",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": -480
     },
     {
       "nombre": "Expansor marco-puerta 3\" plástico",
@@ -1791,7 +1791,7 @@
       "sku": "110",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": -1200
     },
     {
       "nombre": "Expansor mecánico M8 10mm",
@@ -1889,7 +1889,7 @@
       "sku": "21",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 10
     },
     {
       "nombre": "Extensión 5mts regleta",
@@ -1910,7 +1910,7 @@
       "sku": "719",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": -30
     },
     {
       "nombre": "Extensión de 20mts simple",
@@ -2085,7 +2085,7 @@
       "sku": "193",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": -20
     },
     {
       "nombre": "Herramienta recogida magnetica",
@@ -2225,7 +2225,7 @@
       "sku": "136",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": -40
     },
     {
       "nombre": "Juego de cazuela de inducción 10 pcs",
@@ -2274,7 +2274,7 @@
       "sku": "18",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": -24
     },
     {
       "nombre": "Juego de cucharon",
@@ -2323,7 +2323,7 @@
       "sku": "147",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": -48
     },
     {
       "nombre": "Juego de llave allen 9pcs largo",
@@ -2498,7 +2498,7 @@
       "sku": "73",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 100
+      "stock": 0
     },
     {
       "nombre": "Lámpara recargable 50cm",
@@ -2694,7 +2694,7 @@
       "sku": "63",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": -52
     },
     {
       "nombre": "Llave de paso 1/2\" plástica",
@@ -2792,7 +2792,7 @@
       "sku": "330",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -20
+      "stock": 0
     },
     {
       "nombre": "Llavín de puerta calle/cerradura plana SPC",
@@ -3240,14 +3240,14 @@
       "sku": "453",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": -180
     },
     {
       "nombre": "Pila AAA",
       "sku": "166",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": -540
     },
     {
       "nombre": "Pintura 1/litro azul claro",
@@ -3415,14 +3415,14 @@
       "sku": "391",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 168
+      "stock": 156
     },
     {
       "nombre": "Pintura spray cromado",
       "sku": "506",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 96
+      "stock": 84
     },
     {
       "nombre": "Pintura spray dorado",
@@ -3450,7 +3450,7 @@
       "sku": "783",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 36
+      "stock": 24
     },
     {
       "nombre": "Pintura spray verde",
@@ -3688,7 +3688,7 @@
       "sku": "260",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": -40
     },
     {
       "nombre": "Pulidora SACO 900watts",
@@ -3821,7 +3821,7 @@
       "sku": "140",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 10
+      "stock": 0
     },
     {
       "nombre": "Set de destornillador pequeño",
@@ -3933,7 +3933,7 @@
       "sku": "479",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 96
+      "stock": 60
     },
     {
       "nombre": "Silicona de alta temperatura proefix",
@@ -3947,7 +3947,7 @@
       "sku": "177",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 48
+      "stock": 0
     },
     {
       "nombre": "Silicona de spray",
@@ -3982,7 +3982,7 @@
       "sku": "146",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 24
+      "stock": 12
     },
     {
       "nombre": "Supresor de voltaje 110v",
@@ -4108,7 +4108,7 @@
       "sku": "426",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": -40
     },
     {
       "nombre": "Terminal cobre",
@@ -4192,7 +4192,7 @@
       "sku": "655",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 180
+      "stock": 144
     },
     {
       "nombre": "Toallita cocina",
@@ -4206,7 +4206,7 @@
       "sku": "282",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 50
+      "stock": 30
     },
     {
       "nombre": "Toma corriente plano normal",
@@ -4227,7 +4227,7 @@
       "sku": "36",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 200
+      "stock": 100
     },
     {
       "nombre": "Toma criollo baquelita",
@@ -4311,7 +4311,7 @@
       "sku": "102",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 6000
+      "stock": 3000
     },
     {
       "nombre": "Tornillo rosca chapa 3\" pulgada",
@@ -4332,7 +4332,7 @@
       "sku": "281",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": -12000
     },
     {
       "nombre": "Tornillo tira-fondo pladur 1\"3/4\"/45mm x caja 360",
@@ -4395,7 +4395,7 @@
       "sku": "157",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 780
+      "stock": 690
     },
     {
       "nombre": "Tubo led 40/ 1polo",
@@ -4409,7 +4409,7 @@
       "sku": "154",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 100
+      "stock": 75
     },
     {
       "nombre": "Turbina 1 HP",
@@ -4437,7 +4437,7 @@
       "sku": "232",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": -15
     },
     {
       "nombre": "Unión universal 1/2\"",
@@ -4465,7 +4465,7 @@
       "sku": "94",
       "categoria": "Sin categoría",
       "unidad": "cajas",
-      "stock": 6
+      "stock": -1218
     },
     {
       "nombre": "Varilla de techo",
@@ -4500,7 +4500,7 @@
       "sku": "47",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": -65
     },
     {
       "nombre": "Vela pequeña 4/unidades",
