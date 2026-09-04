@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-04T18:04:52.279Z",
+  "actualizado": "2026-09-04T18:17:08.746Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -1112,7 +1112,7 @@
       "sku": "408",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 10
     },
     {
       "nombre": "Cesto de basura redondo",
@@ -4721,17 +4721,10 @@
     },
     {
       "nombre": "Soporte de Instalación para Split",
-      "sku": "PROD-0001",
+      "sku": "833",
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "stock": 18
-    },
-    {
-      "nombre": "Cesto de basura rectangular de 12L",
-      "sku": "PROD-0002",
-      "categoria": "Sin categoría",
-      "unidad": "piezas",
-      "stock": 10
     }
   ],
   "almacenPrincipal": [
