@@ -1,6 +1,6 @@
 {
   "dispositivo": "José",
-  "actualizado": "2026-09-04T01:42:56.521Z",
+  "actualizado": "2026-09-04T15:49:04.278Z",
   "movimientos": [
     {
       "id": 1787663644087,
@@ -1476,7 +1476,7 @@
       "fecha": "2026-09-01",
       "producto": "Varilla de soldar 6013/3.2mm 35cm",
       "cantidad": 1224,
-      "unidad": "cajas",
+      "unidad": "piezas",
       "referencia": "94",
       "categoria": "Sin categoría",
       "origen": "📦 Almacén Casa de Carlos",
@@ -1842,6 +1842,30 @@
       "referencia": "154",
       "categoria": "Sin categoría",
       "observaciones": "",
+      "registradoPor": ""
+    },
+    {
+      "id": 1788532125725,
+      "tipo": "salida",
+      "fecha": "2026-09-04",
+      "producto": "Silicona de cristal",
+      "cantidad": 24,
+      "unidad": "piezas",
+      "referencia": "177",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1788532715636,
+      "tipo": "salida",
+      "fecha": "2026-09-04",
+      "producto": "Cajita 4x2",
+      "cantidad": 50,
+      "unidad": "piezas",
+      "referencia": "266",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
       "registradoPor": ""
     }
   ]
