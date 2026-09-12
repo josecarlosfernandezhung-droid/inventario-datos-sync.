@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-12T13:30:32.918Z",
+  "actualizado": "2026-09-12T13:34:17.015Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -8805,7 +8805,7 @@
         {
           "nombre": "Varilla de soldar 6013 de 3,2mm 35cm",
           "sku": "94",
-          "cantidad": 61812
+          "cantidad": 59976
         },
         {
           "nombre": "Base de split",
@@ -8860,6 +8860,21 @@
         {
           "nombre": "Silicona de alta temperatura 700",
           "sku": "479",
+          "cantidad": 144
+        },
+        {
+          "nombre": "Pintura 1/litro blanco",
+          "sku": "381",
+          "cantidad": 60
+        },
+        {
+          "nombre": "Pintura spray rojo",
+          "sku": "783",
+          "cantidad": 84
+        },
+        {
+          "nombre": "Pintura spray verde",
+          "sku": "507",
           "cantidad": 144
         }
       ]
