@@ -1,6 +1,6 @@
 {
   "dispositivo": "José",
-  "actualizado": "2026-09-12T20:12:31.755Z",
+  "actualizado": "2026-09-12T20:14:04.714Z",
   "movimientos": [
     {
       "id": 1787663644087,
@@ -3912,6 +3912,66 @@
       "referencia": "307",
       "categoria": "Sin categoría",
       "observaciones": "",
+      "registradoPor": ""
+    },
+    {
+      "id": 1789243968418,
+      "tipo": "salida",
+      "fecha": "2026-09-12",
+      "producto": "Cuchilla manual 2/polos 63A",
+      "cantidad": 5,
+      "unidad": "piezas",
+      "referencia": "131",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1789243983898,
+      "tipo": "salida",
+      "fecha": "2026-09-12",
+      "producto": "Disco de corte metal 115\"mm",
+      "cantidad": 800,
+      "unidad": "piezas",
+      "referencia": "99",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1789244003665,
+      "tipo": "salida",
+      "fecha": "2026-09-12",
+      "producto": "Llave lavamano zapatilla",
+      "cantidad": 20,
+      "unidad": "piezas",
+      "referencia": "567",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1789244019211,
+      "tipo": "salida",
+      "fecha": "2026-09-12",
+      "producto": "Isopo de baño 1800",
+      "cantidad": 4,
+      "unidad": "piezas",
+      "referencia": "720",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1789244043869,
+      "tipo": "salida",
+      "fecha": "2026-09-12",
+      "producto": "Perchero docena",
+      "cantidad": 5,
+      "unidad": "piezas",
+      "referencia": "461",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
       "registradoPor": ""
     }
   ]
