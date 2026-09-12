@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-12T20:12:48.433Z",
+  "actualizado": "2026-09-12T20:13:03.911Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -1609,7 +1609,7 @@
       "sku": "99",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 800
+      "stock": 0
     },
     {
       "nombre": "Disco de corte superfuerza 125mm",
@@ -8644,7 +8644,7 @@
     {
       "nombre": "Disco de corte metal 115\"mm",
       "sku": "99",
-      "cantidad": 331
+      "cantidad": 1131
     },
     {
       "nombre": "Expansor mecánico M8 10mm",
