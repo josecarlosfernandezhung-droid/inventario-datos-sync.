@@ -1,6 +1,6 @@
 {
   "dispositivo": "José",
-  "actualizado": "2026-09-12T15:43:11.873Z",
+  "actualizado": "2026-09-12T16:52:39.971Z",
   "movimientos": [
     {
       "id": 1787663644087,
@@ -3888,6 +3888,18 @@
       "referencia": "241",
       "categoria": "Sin categoría",
       "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1789230009681,
+      "tipo": "salida",
+      "fecha": "2026-09-12",
+      "producto": "Silicona de alta temperatura 700",
+      "cantidad": 12,
+      "unidad": "piezas",
+      "referencia": "479",
+      "categoria": "Sin categoría",
+      "observaciones": "",
       "registradoPor": ""
     }
   ]
