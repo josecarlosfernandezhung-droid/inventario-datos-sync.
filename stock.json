@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-12T20:12:24.197Z",
+  "actualizado": "2026-09-12T20:12:48.433Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -1483,7 +1483,7 @@
       "sku": "131",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 5
+      "stock": 0
     },
     {
       "nombre": "Cuchilla manual 3/polos 100A",
@@ -8024,7 +8024,7 @@
     {
       "nombre": "Cuchilla manual 2/polos 63A",
       "sku": "131",
-      "cantidad": 23
+      "cantidad": 28
     },
     {
       "nombre": "Juego de barrena tungsteno 5pcs",
