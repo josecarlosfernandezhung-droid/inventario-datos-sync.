@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-09T22:55:03.980Z",
+  "actualizado": "2026-09-12T12:50:58.775Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -216,7 +216,7 @@
       "sku": "495",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 25
     },
     {
       "nombre": "Barra de silicona",
@@ -251,7 +251,7 @@
       "sku": "575",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 120
+      "stock": 60
     },
     {
       "nombre": "Base de 20 sencilla",
@@ -307,7 +307,7 @@
       "sku": "343",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 56
+      "stock": 16
     },
     {
       "nombre": "Bisagra 1x2",
@@ -601,7 +601,7 @@
       "sku": "417",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 20
     },
     {
       "nombre": "Brocha 1\"",
@@ -622,7 +622,7 @@
       "sku": "116",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 168
     },
     {
       "nombre": "Brocha 3\"",
@@ -797,14 +797,14 @@
       "sku": "266",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 365
+      "stock": 200
     },
     {
       "nombre": "Cajita 4x4",
       "sku": "93",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 123
+      "stock": 100
     },
     {
       "nombre": "Cajita 4x4 original",
@@ -867,7 +867,7 @@
       "sku": "364",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 420
+      "stock": 360
     },
     {
       "nombre": "Candado 50mm",
@@ -979,7 +979,7 @@
       "sku": "534",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 160
+      "stock": 155
     },
     {
       "nombre": "Casco criollo vicera",
@@ -1091,7 +1091,7 @@
       "sku": "201",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 10
     },
     {
       "nombre": "Cesta de compra",
@@ -1217,7 +1217,7 @@
       "sku": "205",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 30
+      "stock": 12
     },
     {
       "nombre": "Cinta aluminio split",
@@ -1483,7 +1483,7 @@
       "sku": "131",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 10
+      "stock": 5
     },
     {
       "nombre": "Cuchilla manual 3/polos 100A",
@@ -1742,7 +1742,7 @@
       "sku": "39",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 90
     },
     {
       "nombre": "Esponja fregar",
@@ -2127,7 +2127,7 @@
       "sku": "352",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 24
     },
     {
       "nombre": "Isopo de baño 1350",
@@ -2225,7 +2225,7 @@
       "sku": "136",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 20
     },
     {
       "nombre": "Juego de cazuela de inducción 10 pcs",
@@ -2505,7 +2505,7 @@
       "sku": "268",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 200
+      "stock": 0
     },
     {
       "nombre": "Lampara recargable 70cm",
@@ -2743,7 +2743,7 @@
       "sku": "567",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 20
     },
     {
       "nombre": "Llave paso 1/2 métalica",
@@ -2862,7 +2862,7 @@
       "sku": "180",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 50
     },
     {
       "nombre": "Manguera corrugada",
@@ -2883,7 +2883,7 @@
       "sku": "238",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 1
     },
     {
       "nombre": "Manguera gas x rollo 50mts",
@@ -2895,13 +2895,6 @@
     {
       "nombre": "Maquina de afeitar",
       "sku": "801",
-      "categoria": "Sin categoría",
-      "unidad": "piezas",
-      "stock": 0
-    },
-    {
-      "nombre": "Máquina de soldar",
-      "sku": "307",
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "stock": 0
@@ -3030,7 +3023,7 @@
       "sku": "250",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 9
+      "stock": 7
     },
     {
       "nombre": "Olla de presión 3 válvulas 5.5lts",
@@ -3079,7 +3072,7 @@
       "sku": "347",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 10
     },
     {
       "nombre": "Pala 4500$",
@@ -3268,14 +3261,14 @@
       "sku": "441",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 54
     },
     {
       "nombre": "Pintura 1/litro blanco",
       "sku": "381",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 18
     },
     {
       "nombre": "Pintura 1/litro caoba",
@@ -3422,7 +3415,7 @@
       "sku": "506",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 48
+      "stock": 24
     },
     {
       "nombre": "Pintura spray dorado",
@@ -3450,7 +3443,7 @@
       "sku": "783",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 36
     },
     {
       "nombre": "Pintura spray verde",
@@ -3541,7 +3534,7 @@
       "sku": "58",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 59
     },
     {
       "nombre": "Pluma cuello ganso tiro rápido por debajo moderna",
@@ -3646,7 +3639,7 @@
       "sku": "261",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 108
     },
     {
       "nombre": "Protector 220 simple/entrada 15A",
@@ -3688,7 +3681,7 @@
       "sku": "260",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 20
+      "stock": 30
     },
     {
       "nombre": "Pulidora SACO 900watts",
@@ -3709,7 +3702,7 @@
       "sku": "455",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 24
     },
     {
       "nombre": "PVC 500gr azul",
@@ -3772,7 +3765,7 @@
       "sku": "71",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 50
     },
     {
       "nombre": "Rodamiento 6202-2rs",
@@ -3905,7 +3898,7 @@
       "sku": "56",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 20
     },
     {
       "nombre": "Sifa de vaso",
@@ -3926,14 +3919,14 @@
       "sku": "340",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 15
     },
     {
       "nombre": "Silicona de alta temperatura 700",
       "sku": "479",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 48
     },
     {
       "nombre": "Silicona de alta temperatura proefix",
@@ -4038,7 +4031,7 @@
       "sku": "414",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 10
     },
     {
       "nombre": "Taladro Saco",
@@ -4087,7 +4080,7 @@
       "sku": "430",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 20
     },
     {
       "nombre": "Teflón",
@@ -4213,7 +4206,7 @@
       "sku": "35",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 200
     },
     {
       "nombre": "Toma corriente plano original",
@@ -4227,7 +4220,7 @@
       "sku": "36",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 150
     },
     {
       "nombre": "Toma criollo baquelita",
@@ -4304,7 +4297,7 @@
       "sku": "465",
       "categoria": "Sin categoría",
       "unidad": "cajas",
-      "stock": 0
+      "stock": 11600
     },
     {
       "nombre": "Tornillo rosca chapa 1\" 10mm",
@@ -4325,14 +4318,14 @@
       "sku": "581",
       "categoria": "Sin categoría",
       "unidad": "cajas",
-      "stock": 0
+      "stock": 8400
     },
     {
       "nombre": "Tornillo tira-fondo pladur 1\"/25mm x caja 600",
       "sku": "281",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 12000
     },
     {
       "nombre": "Tornillo tira-fondo pladur 1\"3/4\"/45mm x caja 360",
@@ -4395,7 +4388,7 @@
       "sku": "157",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 570
+      "stock": 660
     },
     {
       "nombre": "Tubo led 40/ 1polo",
@@ -4409,7 +4402,7 @@
       "sku": "154",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 50
+      "stock": 175
     },
     {
       "nombre": "Turbina 1 HP",
@@ -4423,7 +4416,7 @@
       "sku": "602",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 6
     },
     {
       "nombre": "Úla Úla ula",
@@ -4500,7 +4493,7 @@
       "sku": "47",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "stock": 65
     },
     {
       "nombre": "Vela pequeña 4/unidades",
@@ -4542,7 +4535,7 @@
       "sku": "88",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 12
+      "stock": 8
     },
     {
       "nombre": "Ventilador recargable 16\" pie",
@@ -4728,7 +4721,7 @@
     },
     {
       "nombre": "Tridente",
-      "sku": "PROD-0001",
+      "sku": "842",
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "stock": 4
@@ -4896,17 +4889,52 @@
     },
     {
       "nombre": "Batidora licuadora 2 en 1",
-      "sku": "PROD-0005",
+      "sku": "845",
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "stock": 12
     },
     {
       "nombre": "Olla Arrocera de 1.5L",
-      "sku": "PROD-0006",
+      "sku": "846",
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "stock": 6
+    },
+    {
+      "nombre": "Maquina de Soldar",
+      "sku": "307",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "stock": 3
+    },
+    {
+      "nombre": "Bomba de Aire",
+      "sku": "PROD-0006",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "stock": 20
+    },
+    {
+      "nombre": "Pintura en Spray Blanco Brillante",
+      "sku": "241",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "stock": 60
+    },
+    {
+      "nombre": "Pintura en spray Blanco Mate",
+      "sku": "PROD-0008",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "stock": 60
+    },
+    {
+      "nombre": "Pintura Barniz en Spray",
+      "sku": "239",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "stock": 60
     }
   ],
   "almacenPrincipal": [
@@ -4918,7 +4946,7 @@
     {
       "nombre": "Fregadero sencillo",
       "sku": "469",
-      "cantidad": 10
+      "cantidad": 0
     },
     {
       "nombre": "Spray afloja-todo",
@@ -4928,7 +4956,7 @@
     {
       "nombre": "Llave de ángulo 1/2 macho",
       "sku": "557",
-      "cantidad": 15
+      "cantidad": 0
     },
     {
       "nombre": "Regulador de gas",
@@ -4943,7 +4971,7 @@
     {
       "nombre": "Cerrucho",
       "sku": "201",
-      "cantidad": 20
+      "cantidad": 10
     },
     {
       "nombre": "Cuchilla manual 2/polos 63A",
@@ -4978,7 +5006,7 @@
     {
       "nombre": "Tarraja plástica",
       "sku": "430",
-      "cantidad": 20
+      "cantidad": 0
     },
     {
       "nombre": "Pulidora Coofix 750watts",
@@ -5028,7 +5056,7 @@
     {
       "nombre": "Juego de barrena tungsteno 5pcs",
       "sku": "136",
-      "cantidad": 20
+      "cantidad": 0
     },
     {
       "nombre": "Brida 4.8x300mm",
@@ -5038,7 +5066,7 @@
     {
       "nombre": "Set de destornilladores MAXI pareja",
       "sku": "468",
-      "cantidad": 50
+      "cantidad": 30
     },
     {
       "nombre": "Disco de sierra madera115mm",
@@ -5048,7 +5076,7 @@
     {
       "nombre": "Llave lavamano zapatilla",
       "sku": "567",
-      "cantidad": 54
+      "cantidad": 34
     },
     {
       "nombre": "Cheque de plástico 1\"",
@@ -5063,7 +5091,7 @@
     {
       "nombre": "PVC 250ml",
       "sku": "455",
-      "cantidad": 72
+      "cantidad": 48
     },
     {
       "nombre": "Llave empotrada de ducha",
@@ -5093,37 +5121,37 @@
     {
       "nombre": "Terminal para baterías/bornes",
       "sku": "162",
-      "cantidad": 100
+      "cantidad": 80
     },
     {
       "nombre": "T 1\"",
       "sku": "76",
-      "cantidad": 105
+      "cantidad": 75
     },
     {
       "nombre": "Protector 110vol 20A",
       "sku": "261",
-      "cantidad": 96
+      "cantidad": 24
     },
     {
       "nombre": "Brida 4.8x400mm",
       "sku": "417",
-      "cantidad": 70
+      "cantidad": 50
     },
     {
       "nombre": "Cinta 3mts",
       "sku": "517",
-      "cantidad": 168
+      "cantidad": 148
     },
     {
       "nombre": "Espiga",
       "sku": "39",
-      "cantidad": 170
+      "cantidad": 20
     },
     {
       "nombre": "Sifa de piso poseta",
       "sku": "56",
-      "cantidad": 155
+      "cantidad": 135
     },
     {
       "nombre": "Lima 900",
@@ -5133,7 +5161,7 @@
     {
       "nombre": "Sifa fregadero flexible boca chica",
       "sku": "340",
-      "cantidad": 150
+      "cantidad": 130
     },
     {
       "nombre": "Brekera 2 posiciones",
@@ -5143,17 +5171,17 @@
     {
       "nombre": "T 1/2",
       "sku": "226",
-      "cantidad": 200
+      "cantidad": 160
     },
     {
       "nombre": "Conector MC4",
       "sku": "634",
-      "cantidad": 100
+      "cantidad": 0
     },
     {
       "nombre": "Codo de 50",
       "sku": "546",
-      "cantidad": 180
+      "cantidad": 160
     },
     {
       "nombre": "Brocha 1\"",
@@ -5163,7 +5191,7 @@
     {
       "nombre": "Mando universal",
       "sku": "180",
-      "cantidad": 250
+      "cantidad": 170
     },
     {
       "nombre": "Cinta 5mts 1200$",
@@ -5193,37 +5221,37 @@
     {
       "nombre": "Toma corriente universal",
       "sku": "36",
-      "cantidad": 400
+      "cantidad": 200
     },
     {
       "nombre": "Lima",
       "sku": "174",
-      "cantidad": 420
+      "cantidad": 384
     },
     {
       "nombre": "Codo 1\"",
       "sku": "194",
-      "cantidad": 520
+      "cantidad": 500
     },
     {
       "nombre": "Silicona de alta temperatura 700",
       "sku": "479",
-      "cantidad": 648
+      "cantidad": 600
     },
     {
       "nombre": "Vela grande 8/unidades",
       "sku": "47",
-      "cantidad": 585
+      "cantidad": 520
     },
     {
       "nombre": "Precinta transparente",
       "sku": "161",
-      "cantidad": 626
+      "cantidad": 554
     },
     {
       "nombre": "Estropajo alambre",
       "sku": "662",
-      "cantidad": 480
+      "cantidad": 240
     },
     {
       "nombre": "Pila AAA",
@@ -5248,12 +5276,12 @@
     {
       "nombre": "Toma corriente plano normal",
       "sku": "35",
-      "cantidad": 2000
+      "cantidad": 1800
     },
     {
       "nombre": "Codo 1/2\"",
       "sku": "195",
-      "cantidad": 2600
+      "cantidad": 2500
     },
     {
       "nombre": "Expansor mecánico M8 10mm",
@@ -5283,22 +5311,22 @@
     {
       "nombre": "Tornillo MM 1/2\" SPC cajita de 580",
       "sku": "465",
-      "cantidad": 33600
+      "cantidad": 22000
     },
     {
       "nombre": "Tornillo tira-fondo pladur 1\"/25mm x caja 600",
       "sku": "281",
-      "cantidad": 24000
+      "cantidad": 0
     },
     {
       "nombre": "Tornillo tira-fondo pladur 1 1/2\"/35mm x caja 420",
       "sku": "581",
-      "cantidad": 42000
+      "cantidad": 33600
     },
     {
       "nombre": "Extensión de 3m Regleta",
       "sku": "21",
-      "cantidad": 60
+      "cantidad": 40
     }
   ],
   "pisoVenta": [
@@ -6063,6 +6091,11 @@
       "cantidad": 0
     },
     {
+      "nombre": "Fusible solar 32A doble DC",
+      "sku": "753",
+      "cantidad": 0
+    },
+    {
       "nombre": "Isopo de baño",
       "sku": "352",
       "cantidad": 0
@@ -6488,11 +6521,6 @@
       "cantidad": 0
     },
     {
-      "nombre": "Olla multipropósito/reina 90min-6lts Esteletric",
-      "sku": "80",
-      "cantidad": 0
-    },
-    {
       "nombre": "Paca nylon cubalse",
       "sku": "251",
       "cantidad": 0
@@ -6585,16 +6613,6 @@
     {
       "nombre": "Pintura 1/litro azul oscuro",
       "sku": "563",
-      "cantidad": 0
-    },
-    {
-      "nombre": "Pintura 1/litro barniz",
-      "sku": "441",
-      "cantidad": 0
-    },
-    {
-      "nombre": "Pintura 1/litro blanco",
-      "sku": "381",
       "cantidad": 0
     },
     {
@@ -6793,18 +6811,13 @@
       "cantidad": 0
     },
     {
-      "nombre": "Protector de línea saco",
-      "sku": "725",
+      "nombre": "Pulidora SACO 900watts",
+      "sku": "792",
       "cantidad": 0
     },
     {
       "nombre": "Pulidora Total 750/watts",
       "sku": "482",
-      "cantidad": 0
-    },
-    {
-      "nombre": "PVC 500gr azul",
-      "sku": "350",
       "cantidad": 0
     },
     {
@@ -6915,11 +6928,6 @@
     {
       "nombre": "Tablita de comer bebé chica",
       "sku": "660",
-      "cantidad": 0
-    },
-    {
-      "nombre": "Taladro Coofix",
-      "sku": "414",
       "cantidad": 0
     },
     {
@@ -7108,6 +7116,11 @@
       "cantidad": 0
     },
     {
+      "nombre": "Zapatera azul",
+      "sku": "199",
+      "cantidad": 0
+    },
+    {
       "nombre": "Zapatera doble",
       "sku": "711",
       "cantidad": 0
@@ -7140,11 +7153,6 @@
     {
       "nombre": "Breker SACO 32A y 63A DC",
       "sku": "761",
-      "cantidad": 1
-    },
-    {
-      "nombre": "Brekera 24 posiciones",
-      "sku": "743",
       "cantidad": 1
     },
     {
@@ -7203,11 +7211,6 @@
       "cantidad": 1
     },
     {
-      "nombre": "Fusible solar 32A doble DC",
-      "sku": "753",
-      "cantidad": 1
-    },
-    {
       "nombre": "Herramienta recogida magnetica",
       "sku": "691",
       "cantidad": 1
@@ -7220,6 +7223,11 @@
     {
       "nombre": "Juego 6 gubias",
       "sku": "686",
+      "cantidad": 1
+    },
+    {
+      "nombre": "Juego de cubo 12pcs chicharra",
+      "sku": "134",
       "cantidad": 1
     },
     {
@@ -7238,6 +7246,16 @@
       "cantidad": 1
     },
     {
+      "nombre": "Llave de ángulo 1/2 hembra",
+      "sku": "53",
+      "cantidad": 1
+    },
+    {
+      "nombre": "Llave de ángulo 1/2 macho",
+      "sku": "557",
+      "cantidad": 1
+    },
+    {
       "nombre": "Llavin calle proefix",
       "sku": "674",
       "cantidad": 1
@@ -7250,6 +7268,11 @@
     {
       "nombre": "Multímetro",
       "sku": "598",
+      "cantidad": 1
+    },
+    {
+      "nombre": "Olla arrocera 3lts IMPUD",
+      "sku": "811",
       "cantidad": 1
     },
     {
@@ -7273,8 +7296,18 @@
       "cantidad": 1
     },
     {
+      "nombre": "Pluma recta de derrame zapatilla",
+      "sku": "50",
+      "cantidad": 1
+    },
+    {
       "nombre": "Resistencia eléctrica 4 vueltas",
       "sku": "71",
+      "cantidad": 1
+    },
+    {
+      "nombre": "Spray afloja-todo",
+      "sku": "146",
       "cantidad": 1
     },
     {
@@ -7284,12 +7317,7 @@
     },
     {
       "nombre": "Tridente",
-      "sku": "PROD-0001",
-      "cantidad": 1
-    },
-    {
-      "nombre": "Zapatera azul",
-      "sku": "199",
+      "sku": "842",
       "cantidad": 1
     },
     {
@@ -7308,8 +7336,23 @@
       "cantidad": 2
     },
     {
+      "nombre": "Bocina grande",
+      "sku": "818",
+      "cantidad": 2
+    },
+    {
+      "nombre": "Bombillo led 9watts normal",
+      "sku": "74",
+      "cantidad": 2
+    },
+    {
       "nombre": "Brocha 2\"",
       "sku": "116",
+      "cantidad": 2
+    },
+    {
+      "nombre": "Cable 10 cobre",
+      "sku": "748",
       "cantidad": 2
     },
     {
@@ -7358,44 +7401,19 @@
       "cantidad": 2
     },
     {
-      "nombre": "Juego de cubo 12pcs chicharra",
-      "sku": "134",
-      "cantidad": 2
-    },
-    {
       "nombre": "Lampara solar con detector de movimiento",
       "sku": "337",
       "cantidad": 2
     },
     {
-      "nombre": "Olla arrocera 3lts IMPUD",
-      "sku": "811",
-      "cantidad": 2
-    },
-    {
       "nombre": "Olla de presión 3 válvulas 4lts",
       "sku": "250",
-      "cantidad": 2
+      "cantidad": 4
     },
     {
       "nombre": "Pie de rey",
       "sku": "722",
       "cantidad": 2
-    },
-    {
-      "nombre": "Pluma recta de derrame zapatilla",
-      "sku": "50",
-      "cantidad": 2
-    },
-    {
-      "nombre": "Pulidora SACO 900watts",
-      "sku": "792",
-      "cantidad": 2
-    },
-    {
-      "nombre": "Cable 10 cobre",
-      "sku": "748",
-      "cantidad": 3
     },
     {
       "nombre": "Cepillo de dientes",
@@ -7413,8 +7431,23 @@
       "cantidad": 3
     },
     {
+      "nombre": "Mando universal",
+      "sku": "180",
+      "cantidad": 33
+    },
+    {
       "nombre": "Pluma mezcladora fregadero",
       "sku": "777",
+      "cantidad": 3
+    },
+    {
+      "nombre": "Set juego de pinza",
+      "sku": "707",
+      "cantidad": 3
+    },
+    {
+      "nombre": "Taladro Coofix",
+      "sku": "414",
       "cantidad": 3
     },
     {
@@ -7473,6 +7506,11 @@
       "cantidad": 4
     },
     {
+      "nombre": "Infrarojo",
+      "sku": "733",
+      "cantidad": 4
+    },
+    {
       "nombre": "Llave tyson/tubo 18\"",
       "sku": "492",
       "cantidad": 4
@@ -7498,11 +7536,6 @@
       "cantidad": 4
     },
     {
-      "nombre": "Set juego de pinza",
-      "sku": "707",
-      "cantidad": 4
-    },
-    {
       "nombre": "Tubo led 40/ 1polo",
       "sku": "155",
       "cantidad": 4
@@ -7523,6 +7556,11 @@
       "cantidad": 5
     },
     {
+      "nombre": "Calentador de agua",
+      "sku": "183",
+      "cantidad": 5
+    },
+    {
       "nombre": "Ducha de telefono",
       "sku": "838",
       "cantidad": 5
@@ -7533,33 +7571,13 @@
       "cantidad": 5
     },
     {
-      "nombre": "Fogón de petroleo",
-      "sku": "637",
-      "cantidad": 5
-    },
-    {
-      "nombre": "Infrarojo",
-      "sku": "733",
-      "cantidad": 5
-    },
-    {
       "nombre": "Sifa doble de desague bañadera",
       "sku": "839",
       "cantidad": 5
     },
     {
-      "nombre": "Ventilador de pie ciclón 18\"",
-      "sku": "88",
-      "cantidad": 5
-    },
-    {
       "nombre": "Accesorio de baño",
       "sku": "716",
-      "cantidad": 6
-    },
-    {
-      "nombre": "Calentador de agua",
-      "sku": "183",
       "cantidad": 6
     },
     {
@@ -7573,18 +7591,18 @@
       "cantidad": 6
     },
     {
-      "nombre": "Mando universal",
-      "sku": "180",
-      "cantidad": 6
-    },
-    {
-      "nombre": "Olla arrocera 1.8 EKO",
-      "sku": "571",
+      "nombre": "Medias",
+      "sku": "834",
       "cantidad": 6
     },
     {
       "nombre": "Pintura galón 3.785lts dorado",
       "sku": "816",
+      "cantidad": 6
+    },
+    {
+      "nombre": "Pluma cuello de ganso por debajo",
+      "sku": "58",
       "cantidad": 6
     },
     {
@@ -7600,26 +7618,16 @@
     {
       "nombre": "Cinta 7.5mts",
       "sku": "205",
-      "cantidad": 7
+      "cantidad": 25
     },
     {
       "nombre": "Fregadero sencillo",
       "sku": "469",
-      "cantidad": 7
+      "cantidad": 17
     },
     {
       "nombre": "Llana ranurada",
       "sku": "444",
-      "cantidad": 7
-    },
-    {
-      "nombre": "Medias",
-      "sku": "834",
-      "cantidad": 7
-    },
-    {
-      "nombre": "Pluma cuello de ganso por debajo",
-      "sku": "58",
       "cantidad": 7
     },
     {
@@ -7628,8 +7636,28 @@
       "cantidad": 7
     },
     {
+      "nombre": "Ventilador de pie ciclón 18\"",
+      "sku": "88",
+      "cantidad": 11
+    },
+    {
       "nombre": "Barra silicona colores",
       "sku": "682",
+      "cantidad": 8
+    },
+    {
+      "nombre": "Batidora licuadora 2 en 1",
+      "sku": "845",
+      "cantidad": 8
+    },
+    {
+      "nombre": "Brekera 24 posiciones",
+      "sku": "743",
+      "cantidad": 8
+    },
+    {
+      "nombre": "Brocha 5\"",
+      "sku": "96",
       "cantidad": 8
     },
     {
@@ -7658,13 +7686,23 @@
       "cantidad": 8
     },
     {
+      "nombre": "Set de destornillador USA",
+      "sku": "139",
+      "cantidad": 8
+    },
+    {
       "nombre": "Ventilador recargable F6 robótico",
       "sku": "259",
       "cantidad": 8
     },
     {
-      "nombre": "Brocha 5\"",
-      "sku": "96",
+      "nombre": "Brekera 13 posiciones",
+      "sku": "773",
+      "cantidad": 9
+    },
+    {
+      "nombre": "Cepillo alambre",
+      "sku": "141",
       "cantidad": 9
     },
     {
@@ -7673,19 +7711,24 @@
       "cantidad": 9
     },
     {
-      "nombre": "Llave de ángulo 1/2 macho",
-      "sku": "557",
+      "nombre": "Olla multipropósito/reina 90min-6lts Esteletric",
+      "sku": "80",
       "cantidad": 9
     },
     {
-      "nombre": "Set de destornillador USA",
-      "sku": "139",
+      "nombre": "pintura spray amarilla",
+      "sku": "790",
       "cantidad": 9
     },
     {
       "nombre": "Set de herrmaientas mixto",
       "sku": "647",
       "cantidad": 9
+    },
+    {
+      "nombre": "Lámpara recargable 50cm",
+      "sku": "268",
+      "cantidad": 110
     },
     {
       "nombre": "Lapicero",
@@ -7710,17 +7753,17 @@
     {
       "nombre": "Base de 20 doble",
       "sku": "575",
-      "cantidad": 17
-    },
-    {
-      "nombre": "Bocina grande",
-      "sku": "818",
-      "cantidad": 3
+      "cantidad": 75
     },
     {
       "nombre": "Cable royalcold 3vía calibre/12",
       "sku": "152",
       "cantidad": 3
+    },
+    {
+      "nombre": "Olla Arrocera de 1.5L",
+      "sku": "846",
+      "cantidad": 6
     },
     {
       "nombre": "Batidora Estelectric",
@@ -7730,16 +7773,11 @@
     {
       "nombre": "Pulidora Coofix 750watts",
       "sku": "260",
-      "cantidad": 9
+      "cantidad": 19
     },
     {
       "nombre": "Bolla 1/2\"",
       "sku": "91",
-      "cantidad": 11
-    },
-    {
-      "nombre": "Brekera 13 posiciones",
-      "sku": "773",
       "cantidad": 11
     },
     {
@@ -7748,8 +7786,23 @@
       "cantidad": 11
     },
     {
-      "nombre": "Cepillo alambre",
-      "sku": "141",
+      "nombre": "Candado 60mm simple",
+      "sku": "67",
+      "cantidad": 11
+    },
+    {
+      "nombre": "Extensión 3mts regleta",
+      "sku": "21",
+      "cantidad": 31
+    },
+    {
+      "nombre": "Protector 110vol 20A",
+      "sku": "261",
+      "cantidad": 35
+    },
+    {
+      "nombre": "Protector de línea saco",
+      "sku": "725",
       "cantidad": 11
     },
     {
@@ -7758,9 +7811,9 @@
       "cantidad": 12
     },
     {
-      "nombre": "Extensión 3mts regleta",
-      "sku": "21",
-      "cantidad": 12
+      "nombre": "Espiga",
+      "sku": "39",
+      "cantidad": 72
     },
     {
       "nombre": "Juego de 7 pozuelo normal",
@@ -7768,8 +7821,13 @@
       "cantidad": 12
     },
     {
-      "nombre": "pintura spray amarilla",
-      "sku": "790",
+      "nombre": "Juego de cubo proefix de 46pcs rojo",
+      "sku": "18",
+      "cantidad": 12
+    },
+    {
+      "nombre": "Llavin de calle MAF",
+      "sku": "825",
       "cantidad": 12
     },
     {
@@ -7778,9 +7836,24 @@
       "cantidad": 12
     },
     {
+      "nombre": "Terminal para baterías/bornes",
+      "sku": "162",
+      "cantidad": 32
+    },
+    {
+      "nombre": "Brekera de 16 Posiciones",
+      "sku": "810",
+      "cantidad": 13
+    },
+    {
       "nombre": "Brekera 9 posiciones",
       "sku": "772",
-      "cantidad": 16
+      "cantidad": 13
+    },
+    {
+      "nombre": "Candado anti-sisalla 90mm",
+      "sku": "705",
+      "cantidad": 13
     },
     {
       "nombre": "Cerrucho",
@@ -7788,24 +7861,14 @@
       "cantidad": 13
     },
     {
-      "nombre": "Juego de cubo proefix de 46pcs rojo",
-      "sku": "18",
-      "cantidad": 13
+      "nombre": "Cascos originales",
+      "sku": "83",
+      "cantidad": 14
     },
     {
-      "nombre": "Llavin de calle MAF",
-      "sku": "825",
-      "cantidad": 13
-    },
-    {
-      "nombre": "Protector 110vol 20A",
-      "sku": "261",
-      "cantidad": 13
-    },
-    {
-      "nombre": "Terminal para baterías/bornes",
-      "sku": "162",
-      "cantidad": 13
+      "nombre": "Cinta 3mts",
+      "sku": "517",
+      "cantidad": 14
     },
     {
       "nombre": "clavo etecsa grande",
@@ -7818,8 +7881,13 @@
       "cantidad": 14
     },
     {
-      "nombre": "Llave de ángulo 1/2 hembra",
-      "sku": "53",
+      "nombre": "Fogón de petroleo",
+      "sku": "637",
+      "cantidad": 14
+    },
+    {
+      "nombre": "Llavín de puerta/calle pines",
+      "sku": "126",
       "cantidad": 14
     },
     {
@@ -7828,29 +7896,24 @@
       "cantidad": 15
     },
     {
-      "nombre": "Bombillo led 9watts normal",
-      "sku": "74",
-      "cantidad": 15
-    },
-    {
-      "nombre": "Cascos originales",
-      "sku": "83",
-      "cantidad": 15
-    },
-    {
       "nombre": "Cesto de basura rectangular",
       "sku": "408",
       "cantidad": 15
     },
     {
-      "nombre": "Cinta 3mts",
-      "sku": "517",
+      "nombre": "Llave lavamano zapatilla",
+      "sku": "567",
       "cantidad": 15
     },
     {
-      "nombre": "Llavín de puerta/calle pines",
-      "sku": "126",
+      "nombre": "Olla arrocera 1.8 EKO",
+      "sku": "571",
       "cantidad": 15
+    },
+    {
+      "nombre": "Sifa fregadero flexible boca chica",
+      "sku": "340",
+      "cantidad": 20
     },
     {
       "nombre": "Bisagra 4x3 intaliana",
@@ -7865,17 +7928,12 @@
     {
       "nombre": "Cajita 4x4",
       "sku": "93",
-      "cantidad": 16
-    },
-    {
-      "nombre": "Candado anti-sisalla 90mm",
-      "sku": "705",
-      "cantidad": 16
+      "cantidad": 39
     },
     {
       "nombre": "Set de destornilladores MAXI pareja",
       "sku": "468",
-      "cantidad": 16
+      "cantidad": 36
     },
     {
       "nombre": "Set de destornilladores SEAL pareja",
@@ -7888,11 +7946,6 @@
       "cantidad": 17
     },
     {
-      "nombre": "Brekera de 16 Posiciones",
-      "sku": "810",
-      "cantidad": 19
-    },
-    {
       "nombre": "Palangana criolla",
       "sku": "813",
       "cantidad": 17
@@ -7903,9 +7956,24 @@
       "cantidad": 17
     },
     {
+      "nombre": "Set de destornillador golpe",
+      "sku": "140",
+      "cantidad": 17
+    },
+    {
       "nombre": "Soga",
       "sku": "588",
       "cantidad": 17
+    },
+    {
+      "nombre": "Termo pequeño",
+      "sku": "369",
+      "cantidad": 17
+    },
+    {
+      "nombre": "Breker 25A doble AC",
+      "sku": "746",
+      "cantidad": 18
     },
     {
       "nombre": "Breker 25A triple AC",
@@ -7913,24 +7981,19 @@
       "cantidad": 18
     },
     {
-      "nombre": "Set de destornillador golpe",
-      "sku": "140",
+      "nombre": "Unión universal 1\"",
+      "sku": "232",
       "cantidad": 18
     },
     {
-      "nombre": "Termo pequeño",
-      "sku": "369",
-      "cantidad": 18
-    },
-    {
-      "nombre": "Breker 25A doble AC",
-      "sku": "746",
+      "nombre": "Base de tv 14-42 pulgadas",
+      "sku": "19",
       "cantidad": 19
     },
     {
-      "nombre": "Candado 60mm simple",
-      "sku": "67",
-      "cantidad": 19
+      "nombre": "Cuchilla manual 2/polos 63A",
+      "sku": "131",
+      "cantidad": 24
     },
     {
       "nombre": "Cuchilla manual 3/polos 100A",
@@ -7943,43 +8006,33 @@
       "cantidad": 19
     },
     {
-      "nombre": "Espiga",
-      "sku": "39",
+      "nombre": "Herraje de baño",
+      "sku": "193",
       "cantidad": 19
     },
     {
-      "nombre": "Lámpara recargable 50cm",
-      "sku": "268",
+      "nombre": "Juego de barrena métal 13pcs",
+      "sku": "137",
       "cantidad": 19
     },
     {
-      "nombre": "Unión universal 1\"",
-      "sku": "232",
+      "nombre": "Palangana grande",
+      "sku": "616",
       "cantidad": 19
     },
     {
-      "nombre": "Base de tv 14-42 pulgadas",
-      "sku": "19",
-      "cantidad": 20
+      "nombre": "Silicona de cristal",
+      "sku": "177",
+      "cantidad": 19
     },
     {
-      "nombre": "Cuchilla manual 2/polos 63A",
-      "sku": "131",
+      "nombre": "Cinta 5 mts",
+      "sku": "629",
       "cantidad": 20
     },
     {
       "nombre": "Fosforera magneto pequeña",
       "sku": "49",
-      "cantidad": 20
-    },
-    {
-      "nombre": "Juego de barrena métal 13pcs",
-      "sku": "137",
-      "cantidad": 20
-    },
-    {
-      "nombre": "Palangana grande",
-      "sku": "616",
       "cantidad": 20
     },
     {
@@ -7993,28 +8046,23 @@
       "cantidad": 21
     },
     {
-      "nombre": "Cinta 5 mts",
-      "sku": "629",
-      "cantidad": 21
+      "nombre": "Casco criollo",
+      "sku": "534",
+      "cantidad": 26
     },
     {
-      "nombre": "Herraje de baño",
-      "sku": "193",
+      "nombre": "Codo de 50",
+      "sku": "546",
+      "cantidad": 41
+    },
+    {
+      "nombre": "Disco corte metal 180mm",
+      "sku": "291",
       "cantidad": 21
     },
     {
       "nombre": "Precinta color marrón grande",
       "sku": "159",
-      "cantidad": 21
-    },
-    {
-      "nombre": "Silicona de cristal",
-      "sku": "177",
-      "cantidad": 21
-    },
-    {
-      "nombre": "Spray afloja-todo",
-      "sku": "146",
       "cantidad": 21
     },
     {
@@ -8033,13 +8081,8 @@
       "cantidad": 22
     },
     {
-      "nombre": "Llave lavamano zapatilla",
-      "sku": "567",
-      "cantidad": 22
-    },
-    {
-      "nombre": "Sifa fregadero flexible boca chica",
-      "sku": "340",
+      "nombre": "Pintura spray azul diamond brillante proefix",
+      "sku": "391",
       "cantidad": 22
     },
     {
@@ -8053,11 +8096,6 @@
       "cantidad": 23
     },
     {
-      "nombre": "Codo de 50",
-      "sku": "546",
-      "cantidad": 23
-    },
-    {
       "nombre": "Tomacorrientes Mixto Amarillo",
       "sku": "805",
       "cantidad": 23
@@ -8068,18 +8106,18 @@
       "cantidad": 24
     },
     {
-      "nombre": "Casco criollo",
-      "sku": "534",
-      "cantidad": 24
-    },
-    {
       "nombre": "Extensión 9 fts",
       "sku": "719",
       "cantidad": 24
     },
     {
-      "nombre": "Pintura spray azul diamond brillante proefix",
-      "sku": "391",
+      "nombre": "PVC 500gr azul",
+      "sku": "350",
+      "cantidad": 24
+    },
+    {
+      "nombre": "Unión universal 3/4\"",
+      "sku": "443",
       "cantidad": 24
     },
     {
@@ -8098,13 +8136,13 @@
       "cantidad": 25
     },
     {
-      "nombre": "Sifa de piso poseta",
-      "sku": "56",
+      "nombre": "PVC 250ml",
+      "sku": "455",
       "cantidad": 25
     },
     {
-      "nombre": "Unión universal 3/4\"",
-      "sku": "443",
+      "nombre": "Sifa de piso poseta",
+      "sku": "56",
       "cantidad": 25
     },
     {
@@ -8113,23 +8151,18 @@
       "cantidad": 26
     },
     {
-      "nombre": "Disco corte metal 180mm",
-      "sku": "291",
+      "nombre": "Juego de llave allen 9pcs corto",
+      "sku": "147",
       "cantidad": 26
     },
     {
-      "nombre": "PVC 250ml",
-      "sku": "455",
+      "nombre": "Toalla húmeda",
+      "sku": "655",
       "cantidad": 26
     },
     {
       "nombre": "Juego de barrena tungsteno 5pcs",
       "sku": "136",
-      "cantidad": 27
-    },
-    {
-      "nombre": "Juego de llave allen 9pcs corto",
-      "sku": "147",
       "cantidad": 27
     },
     {
@@ -8148,11 +8181,6 @@
       "cantidad": 27
     },
     {
-      "nombre": "Toalla húmeda",
-      "sku": "655",
-      "cantidad": 27
-    },
-    {
       "nombre": "Aplicador",
       "sku": "658",
       "cantidad": 28
@@ -8160,6 +8188,11 @@
     {
       "nombre": "Expansores plásticos 8x40",
       "sku": "470",
+      "cantidad": 28
+    },
+    {
+      "nombre": "Llavín de calle anticopia",
+      "sku": "330",
       "cantidad": 28
     },
     {
@@ -8173,28 +8206,18 @@
       "cantidad": 28
     },
     {
-      "nombre": "Llavín de calle anticopia",
-      "sku": "330",
-      "cantidad": 29
-    },
-    {
-      "nombre": "Breker 32A doble AC",
-      "sku": "745",
-      "cantidad": 30
-    },
-    {
-      "nombre": "Cepillo de lavar madera",
-      "sku": "673",
-      "cantidad": 30
-    },
-    {
       "nombre": "Codo 1\"",
       "sku": "194",
-      "cantidad": 30
+      "cantidad": 49
     },
     {
       "nombre": "Disco tungsteno 115mm liso",
       "sku": "285",
+      "cantidad": 29
+    },
+    {
+      "nombre": "Cepillo de lavar madera",
+      "sku": "673",
       "cantidad": 30
     },
     {
@@ -8203,14 +8226,34 @@
       "cantidad": 30
     },
     {
+      "nombre": "Pintura spray cromado",
+      "sku": "506",
+      "cantidad": 54
+    },
+    {
+      "nombre": "Spray anti ponche",
+      "sku": "808",
+      "cantidad": 30
+    },
+    {
+      "nombre": "Unión universal 1/2\"",
+      "sku": "196",
+      "cantidad": 30
+    },
+    {
+      "nombre": "Interruptor doble",
+      "sku": "176",
+      "cantidad": 31
+    },
+    {
       "nombre": "Maquina de afeitar",
       "sku": "801",
       "cantidad": 31
     },
     {
-      "nombre": "Spray anti ponche",
-      "sku": "808",
-      "cantidad": 31
+      "nombre": "Canaletas fina",
+      "sku": "364",
+      "cantidad": 92
     },
     {
       "nombre": "Lima 900",
@@ -8218,14 +8261,14 @@
       "cantidad": 32
     },
     {
-      "nombre": "Unión universal 1/2\"",
-      "sku": "196",
+      "nombre": "Llavín picaporte plateado",
+      "sku": "128",
       "cantidad": 32
     },
     {
-      "nombre": "Canaletas fina",
-      "sku": "364",
-      "cantidad": 33
+      "nombre": "Pluma plástica de jardín 1/2 tiro rápido",
+      "sku": "60",
+      "cantidad": 32
     },
     {
       "nombre": "Escobillón 1400",
@@ -8233,19 +8276,14 @@
       "cantidad": 33
     },
     {
-      "nombre": "Llavín picaporte plateado",
-      "sku": "128",
-      "cantidad": 33
-    },
-    {
-      "nombre": "Pluma plástica de jardín 1/2 tiro rápido",
-      "sku": "60",
-      "cantidad": 33
-    },
-    {
-      "nombre": "Pintura spray cromado",
-      "sku": "506",
+      "nombre": "Alambre de amarrar cabilla",
+      "sku": "793",
       "cantidad": 34
+    },
+    {
+      "nombre": "Precinta transparente",
+      "sku": "161",
+      "cantidad": 106
     },
     {
       "nombre": "Tenaza de soldar 600Amp",
@@ -8253,19 +8291,14 @@
       "cantidad": 34
     },
     {
-      "nombre": "Tubo led 40/ 2 polo",
-      "sku": "154",
-      "cantidad": 59
-    },
-    {
       "nombre": "Candado anti-sisalla 70mm",
       "sku": "774",
       "cantidad": 35
     },
     {
-      "nombre": "Alambre de amarrar cabilla",
-      "sku": "793",
-      "cantidad": 36
+      "nombre": "Llave empotrada de ducha",
+      "sku": "52",
+      "cantidad": 35
     },
     {
       "nombre": "Brida 4.8x400mm",
@@ -8273,8 +8306,8 @@
       "cantidad": 36
     },
     {
-      "nombre": "Interruptor doble",
-      "sku": "176",
+      "nombre": "Pintura 1/litro barniz",
+      "sku": "441",
       "cantidad": 36
     },
     {
@@ -8283,18 +8316,23 @@
       "cantidad": 36
     },
     {
+      "nombre": "T 1\"",
+      "sku": "76",
+      "cantidad": 66
+    },
+    {
       "nombre": "Varilla de soldar 6013/3.2mm 30cm",
       "sku": "385",
       "cantidad": 36
     },
     {
-      "nombre": "Precilla grande",
-      "sku": "631",
+      "nombre": "Cable 16 cobre",
+      "sku": "830",
       "cantidad": 37
     },
     {
-      "nombre": "T 1\"",
-      "sku": "76",
+      "nombre": "Precilla grande",
+      "sku": "631",
       "cantidad": 37
     },
     {
@@ -8303,23 +8341,13 @@
       "cantidad": 38
     },
     {
-      "nombre": "Llave empotrada de ducha",
-      "sku": "52",
-      "cantidad": 38
-    },
-    {
       "nombre": "Brocha 3\"",
       "sku": "601",
-      "cantidad": 39
+      "cantidad": 38
     },
     {
       "nombre": "Cheque de bronce 1\"",
       "sku": "61",
-      "cantidad": 39
-    },
-    {
-      "nombre": "Precinta transparente",
-      "sku": "161",
       "cantidad": 39
     },
     {
@@ -8333,6 +8361,11 @@
       "cantidad": 40
     },
     {
+      "nombre": "Interruptor sencillo palanca",
+      "sku": "175",
+      "cantidad": 42
+    },
+    {
       "nombre": "Interruptor sencillo original",
       "sku": "590",
       "cantidad": 43
@@ -8340,6 +8373,11 @@
     {
       "nombre": "Pintura spray verde",
       "sku": "507",
+      "cantidad": 43
+    },
+    {
+      "nombre": "Sálida de tanque de 1\"",
+      "sku": "75",
       "cantidad": 44
     },
     {
@@ -8348,24 +8386,19 @@
       "cantidad": 45
     },
     {
-      "nombre": "Interruptor sencillo palanca",
-      "sku": "175",
-      "cantidad": 45
-    },
-    {
-      "nombre": "Sálida de tanque de 1\"",
-      "sku": "75",
-      "cantidad": 45
+      "nombre": "Toma corriente sencillo",
+      "sku": "803",
+      "cantidad": 46
     },
     {
       "nombre": "Cepillo de lavar plástico",
       "sku": "304",
-      "cantidad": 48
+      "cantidad": 47
     },
     {
-      "nombre": "Toma corriente sencillo",
-      "sku": "803",
-      "cantidad": 48
+      "nombre": "Tornillo M5 1\" con tuerca",
+      "sku": "111",
+      "cantidad": 47
     },
     {
       "nombre": "Supresor de voltaje 110v",
@@ -8376,6 +8409,11 @@
       "nombre": "Codo 3/4\"",
       "sku": "77",
       "cantidad": 50
+    },
+    {
+      "nombre": "Tubo de 20 led",
+      "sku": "157",
+      "cantidad": 110
     },
     {
       "nombre": "Brocha 4\"",
@@ -8393,19 +8431,29 @@
       "cantidad": 52
     },
     {
-      "nombre": "Brekera 2 posiciones",
-      "sku": "741",
-      "cantidad": 56
-    },
-    {
-      "nombre": "Tornillo M5 1\" con tuerca",
-      "sku": "111",
-      "cantidad": 57
+      "nombre": "Tornillo M8 con tuerca",
+      "sku": "464",
+      "cantidad": 52
     },
     {
       "nombre": "Codo 1/2\"",
       "sku": "195",
-      "cantidad": 59
+      "cantidad": 153
+    },
+    {
+      "nombre": "Brekera 2 posiciones",
+      "sku": "741",
+      "cantidad": 54
+    },
+    {
+      "nombre": "Tubo led 40/ 2 polo",
+      "sku": "154",
+      "cantidad": 57
+    },
+    {
+      "nombre": "Niple 1/2",
+      "sku": "613",
+      "cantidad": 58
     },
     {
       "nombre": "Interruptor triple",
@@ -8413,14 +8461,24 @@
       "cantidad": 59
     },
     {
+      "nombre": "Silicona de alta temperatura 700",
+      "sku": "479",
+      "cantidad": 62
+    },
+    {
+      "nombre": "Cajita 4x2",
+      "sku": "266",
+      "cantidad": 229
+    },
+    {
       "nombre": "Reducido 3/4-1/2",
       "sku": "837",
       "cantidad": 64
     },
     {
-      "nombre": "Silicona de alta temperatura 700",
-      "sku": "479",
-      "cantidad": 65
+      "nombre": "Adaptador redondo-plano",
+      "sku": "42",
+      "cantidad": 67
     },
     {
       "nombre": "Interruptor LIOA",
@@ -8428,23 +8486,18 @@
       "cantidad": 67
     },
     {
-      "nombre": "Cemento blanco 1kg",
-      "sku": "236",
-      "cantidad": 68
+      "nombre": "T 1/2",
+      "sku": "226",
+      "cantidad": 108
     },
     {
-      "nombre": "Niple 1/2",
-      "sku": "613",
-      "cantidad": 68
-    },
-    {
-      "nombre": "Adaptador redondo-plano",
-      "sku": "42",
+      "nombre": "Breker 32A doble AC",
+      "sku": "745",
       "cantidad": 69
     },
     {
-      "nombre": "Tornillo M8 con tuerca",
-      "sku": "464",
+      "nombre": "Lampara recargable 30cm",
+      "sku": "73",
       "cantidad": 69
     },
     {
@@ -8455,7 +8508,12 @@
     {
       "nombre": "Vela grande 8/unidades",
       "sku": "47",
-      "cantidad": 71
+      "cantidad": 70
+    },
+    {
+      "nombre": "Toma corriente universal",
+      "sku": "36",
+      "cantidad": 122
     },
     {
       "nombre": "Botonera",
@@ -8463,24 +8521,9 @@
       "cantidad": 74
     },
     {
-      "nombre": "Cajita 4x2",
-      "sku": "266",
-      "cantidad": 74
-    },
-    {
-      "nombre": "T 1/2",
-      "sku": "226",
-      "cantidad": 74
-    },
-    {
-      "nombre": "Tubo de 20 led",
-      "sku": "157",
-      "cantidad": 77
-    },
-    {
-      "nombre": "Lampara recargable 30cm",
-      "sku": "73",
-      "cantidad": 80
+      "nombre": "Llave de paso 1/2\" plástica",
+      "sku": "361",
+      "cantidad": 81
     },
     {
       "nombre": "Base de 20 sencilla",
@@ -8488,24 +8531,14 @@
       "cantidad": 82
     },
     {
-      "nombre": "Llave de paso 1/2\" plástica",
-      "sku": "361",
-      "cantidad": 83
+      "nombre": "Bombillo 12w normal",
+      "sku": "191",
+      "cantidad": 82
     },
     {
       "nombre": "Vaso plástico",
       "sku": "814",
       "cantidad": 83
-    },
-    {
-      "nombre": "Bombillo 12w normal",
-      "sku": "191",
-      "cantidad": 86
-    },
-    {
-      "nombre": "Toma corriente universal",
-      "sku": "36",
-      "cantidad": 86
     },
     {
       "nombre": "Pila AA",
@@ -8518,14 +8551,24 @@
       "cantidad": 90
     },
     {
-      "nombre": "Cable 16 cobre",
-      "sku": "830",
-      "cantidad": 91
-    },
-    {
       "nombre": "Cepillo de diente niño",
       "sku": "654",
       "cantidad": 91
+    },
+    {
+      "nombre": "Canaleta extra-fina",
+      "sku": "798",
+      "cantidad": 92
+    },
+    {
+      "nombre": "Pintura 1/litro blanco",
+      "sku": "381",
+      "cantidad": 96
+    },
+    {
+      "nombre": "Conector MC4",
+      "sku": "634",
+      "cantidad": 100
     },
     {
       "nombre": "Niple 3/4",
@@ -8538,49 +8581,44 @@
       "cantidad": 102
     },
     {
-      "nombre": "Conector MC4",
-      "sku": "634",
-      "cantidad": 103
-    },
-    {
       "nombre": "Sócalo de bombillo normal",
       "sku": "138",
+      "cantidad": 105
+    },
+    {
+      "nombre": "Anilla 1/2",
+      "sku": "617",
       "cantidad": 106
     },
     {
       "nombre": "Adaptador universal",
       "sku": "163",
-      "cantidad": 118
-    },
-    {
-      "nombre": "Anilla 1/2",
-      "sku": "617",
-      "cantidad": 119
+      "cantidad": 116
     },
     {
       "nombre": "Esponja fregar",
       "sku": "663",
-      "cantidad": 126
-    },
-    {
-      "nombre": "Palillo docena",
-      "sku": "363",
-      "cantidad": 134
-    },
-    {
-      "nombre": "Estropajo alambre",
-      "sku": "662",
-      "cantidad": 144
+      "cantidad": 124
     },
     {
       "nombre": "Latiguillo",
       "sku": "769",
-      "cantidad": 147
+      "cantidad": 130
+    },
+    {
+      "nombre": "Palillo docena",
+      "sku": "363",
+      "cantidad": 131
+    },
+    {
+      "nombre": "Estropajo alambre",
+      "sku": "662",
+      "cantidad": 383
     },
     {
       "nombre": "Teflón",
       "sku": "181",
-      "cantidad": 148
+      "cantidad": 144
     },
     {
       "nombre": "Junquillo",
@@ -8605,22 +8643,27 @@
     {
       "nombre": "Brocha 1\"",
       "sku": "118",
-      "cantidad": 189
+      "cantidad": 186
     },
     {
       "nombre": "Barra de silicona",
       "sku": "209",
-      "cantidad": 195
+      "cantidad": 194
+    },
+    {
+      "nombre": "Cemento blanco 1kg",
+      "sku": "236",
+      "cantidad": 216
     },
     {
       "nombre": "Lapicero blanco",
       "sku": "815",
-      "cantidad": 256
+      "cantidad": 254
     },
     {
       "nombre": "Tornillo M6 3\" 75mm",
       "sku": "791",
-      "cantidad": 265
+      "cantidad": 255
     },
     {
       "nombre": "Disco corte jumlee 125mm",
@@ -8628,24 +8671,24 @@
       "cantidad": 266
     },
     {
-      "nombre": "Canaleta extra-fina",
-      "sku": "798",
-      "cantidad": 332
-    },
-    {
       "nombre": "Clavo x libra",
       "sku": "541",
-      "cantidad": 404
+      "cantidad": 400
     },
     {
       "nombre": "Disco de corte metal 115\"mm",
       "sku": "99",
-      "cantidad": 459
+      "cantidad": 457
     },
     {
-      "nombre": "Expansor mecánico M6",
-      "sku": "110",
-      "cantidad": 1726
+      "nombre": "Fosforera magneto grande",
+      "sku": "782",
+      "cantidad": 549
+    },
+    {
+      "nombre": "Lija de agua profesional",
+      "sku": "212",
+      "cantidad": 584
     },
     {
       "nombre": "Pila AAA",
@@ -8653,19 +8696,9 @@
       "cantidad": 589
     },
     {
-      "nombre": "Lija de agua profesional",
-      "sku": "212",
-      "cantidad": 596
-    },
-    {
-      "nombre": "Fosforera magneto grande",
-      "sku": "782",
-      "cantidad": 649
-    },
-    {
       "nombre": "Pega uña",
       "sku": "130",
-      "cantidad": 673
+      "cantidad": 672
     },
     {
       "nombre": "Expansor marco-puerta 3\" plástico",
@@ -8675,7 +8708,12 @@
     {
       "nombre": "Disco de corte superfuerza 125mm",
       "sku": "318",
-      "cantidad": 805
+      "cantidad": 748
+    },
+    {
+      "nombre": "Clavo techo 4\"",
+      "sku": "740",
+      "cantidad": 820
     },
     {
       "nombre": "Pozuelo 200",
@@ -8683,19 +8721,24 @@
       "cantidad": 899
     },
     {
-      "nombre": "Clavo techo 4\"",
-      "sku": "740",
-      "cantidad": 940
+      "nombre": "Expansor mecánico M6",
+      "sku": "110",
+      "cantidad": 1576
+    },
+    {
+      "nombre": "Varilla de soldar 6013/3.2mm 35cm",
+      "sku": "94",
+      "cantidad": 1599
     },
     {
       "nombre": "Expansor mecánico M8 10mm",
       "sku": "107",
-      "cantidad": 1771
+      "cantidad": 1723
     },
     {
       "nombre": "Tornillo M5 2\" con tuerca",
       "sku": "797",
-      "cantidad": 1844
+      "cantidad": 1834
     },
     {
       "nombre": "Clavo techo 5\"",
@@ -8705,37 +8748,32 @@
     {
       "nombre": "Tornillo M6 2\" 50mm",
       "sku": "771",
-      "cantidad": 2409
-    },
-    {
-      "nombre": "Varilla de soldar 6013/3.2mm 35cm",
-      "sku": "94",
-      "cantidad": 2901
+      "cantidad": 2399
     },
     {
       "nombre": "Tornillo rosca chapa 1\" 10mm",
       "sku": "102",
-      "cantidad": 3264
+      "cantidad": 3254
     },
     {
       "nombre": "Tornillo tira-fondo pladur 1\"3/4\"/45mm x caja 360",
       "sku": "599",
-      "cantidad": 5956
+      "cantidad": 5936
     },
     {
       "nombre": "Tornillo MM 1/2\" SPC cajita de 560",
       "sku": "465",
-      "cantidad": 6321
+      "cantidad": 5991
     },
     {
       "nombre": "Tornillo tira-fondo pladur 1\"/25mm x caja 600",
       "sku": "281",
-      "cantidad": 7299
+      "cantidad": 18519
     },
     {
       "nombre": "Varilla de techo",
       "sku": "314",
-      "cantidad": 7634
+      "cantidad": 7584
     },
     {
       "nombre": "Tornillo tira-fondo cabeza plana",
@@ -8755,7 +8793,7 @@
     {
       "nombre": "Expansores plásticos 6x40",
       "sku": "98",
-      "cantidad": 62588
+      "cantidad": 62568
     }
   ],
   "almacenesExtra": [
@@ -8767,12 +8805,12 @@
         {
           "nombre": "Varilla de soldar 6013 de 3,2mm 35cm",
           "sku": "94",
-          "cantidad": 63648
+          "cantidad": 61812
         },
         {
           "nombre": "Base de split",
           "sku": "833",
-          "cantidad": 50
+          "cantidad": 32
         },
         {
           "nombre": "Brekera 9 posiciones",
@@ -8787,7 +8825,7 @@
         {
           "nombre": "Fogón de petroleo",
           "sku": "637",
-          "cantidad": 80
+          "cantidad": 70
         },
         {
           "nombre": "Herraje de baño",
@@ -8803,6 +8841,26 @@
           "nombre": "Varilla de techo",
           "sku": "314",
           "cantidad": 10000
+        },
+        {
+          "nombre": "Batidora Estelectric",
+          "sku": "343",
+          "cantidad": 40
+        },
+        {
+          "nombre": "Olla arrocera 1.8 EKO",
+          "sku": "571",
+          "cantidad": 20
+        },
+        {
+          "nombre": "Olla multipropósito/reina 90min-6lts Esteletric",
+          "sku": "80",
+          "cantidad": 18
+        },
+        {
+          "nombre": "Silicona de alta temperatura 700",
+          "sku": "479",
+          "cantidad": 144
         }
       ]
     }
