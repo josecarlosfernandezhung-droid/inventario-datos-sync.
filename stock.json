@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-12T20:13:39.221Z",
+  "actualizado": "2026-09-12T20:14:03.880Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -3149,7 +3149,7 @@
       "sku": "461",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 20
+      "stock": 15
     },
     {
       "nombre": "Pesa digital",
@@ -7524,7 +7524,7 @@
     {
       "nombre": "Perchero docena",
       "sku": "461",
-      "cantidad": 6
+      "cantidad": 11
     },
     {
       "nombre": "Pintura galón 3.785lts dorado",
