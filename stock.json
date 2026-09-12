@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-12T15:43:25.587Z",
+  "actualizado": "2026-09-12T16:52:12.297Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -3926,7 +3926,7 @@
       "sku": "479",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 48
+      "stock": 36
     },
     {
       "nombre": "Silicona de alta temperatura proefix",
@@ -8421,11 +8421,6 @@
       "cantidad": 57
     },
     {
-      "nombre": "Silicona de alta temperatura 700",
-      "sku": "479",
-      "cantidad": 60
-    },
-    {
       "nombre": "Candado 60mm simple",
       "sku": "67",
       "cantidad": 61
@@ -8483,6 +8478,11 @@
     {
       "nombre": "Cepillo de diente niño",
       "sku": "654",
+      "cantidad": 72
+    },
+    {
+      "nombre": "Silicona de alta temperatura 700",
+      "sku": "479",
       "cantidad": 72
     },
     {
