@@ -1,6 +1,6 @@
 {
   "dispositivo": "José",
-  "actualizado": "2026-09-12T20:14:04.714Z",
+  "actualizado": "2026-09-12T23:12:01.847Z",
   "movimientos": [
     {
       "id": 1787663644087,
@@ -3973,6 +3973,54 @@
       "categoria": "Sin categoría",
       "observaciones": "Transferencia a piso de venta",
       "registradoPor": ""
+    },
+    {
+      "id": 1789244903226,
+      "tipo": "salida",
+      "fecha": "2026-09-12",
+      "producto": "Pintura spray verde",
+      "cantidad": 144,
+      "unidad": "piezas",
+      "referencia": "507",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1789245396690,
+      "tipo": "salida",
+      "fecha": "2026-09-12",
+      "producto": "Olla de presión 3 válvulas 5lts",
+      "cantidad": 3,
+      "unidad": "piezas",
+      "referencia": "249",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1789245448911,
+      "tipo": "salida",
+      "fecha": "2026-09-12",
+      "producto": "Batidora licuadora 2 en 1",
+      "cantidad": 2,
+      "unidad": "piezas",
+      "referencia": "845",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": "José"
+    },
+    {
+      "id": 1789245690786,
+      "tipo": "salida",
+      "fecha": "2026-09-12",
+      "producto": "Fregadero escurridor boca pequeña",
+      "cantidad": 5,
+      "unidad": "piezas",
+      "referencia": "82",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": "José"
     }
   ]
 }
