@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-12T20:14:03.880Z",
+  "actualizado": "2026-09-12T23:12:00.269Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -2015,7 +2015,7 @@
       "sku": "82",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 20
+      "stock": 15
     },
     {
       "nombre": "Fregadero sencillo",
@@ -3030,7 +3030,7 @@
       "sku": "249",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 6
+      "stock": 3
     },
     {
       "nombre": "Olla de presión 3 válvulas 7lts",
@@ -3436,7 +3436,7 @@
       "sku": "507",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 216
+      "stock": 72
     },
     {
       "nombre": "Pinza 8\"",
@@ -4878,7 +4878,7 @@
       "sku": "845",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 12
+      "stock": 10
     },
     {
       "nombre": "Olla Arrocera de 1.5L",
@@ -7364,7 +7364,7 @@
     {
       "nombre": "Olla de presión 3 válvulas 5lts",
       "sku": "249",
-      "cantidad": 3
+      "cantidad": 6
     },
     {
       "nombre": "Pluma mezcladora fregadero",
@@ -7469,7 +7469,7 @@
     {
       "nombre": "Fregadero escurridor boca pequeña",
       "sku": "82",
-      "cantidad": 5
+      "cantidad": 10
     },
     {
       "nombre": "Juego de sartén de inducción 3/pcs",
@@ -7594,7 +7594,7 @@
     {
       "nombre": "Batidora licuadora 2 en 1",
       "sku": "845",
-      "cantidad": 8
+      "cantidad": 10
     },
     {
       "nombre": "Brekera 24 posiciones",
@@ -8299,7 +8299,7 @@
     {
       "nombre": "Pintura spray verde",
       "sku": "507",
-      "cantidad": 43
+      "cantidad": 187
     },
     {
       "nombre": "Sálida de tanque de 1\"",
