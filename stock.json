@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-12T20:13:23.675Z",
+  "actualizado": "2026-09-12T20:13:39.221Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -2134,7 +2134,7 @@
       "sku": "720",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 24
+      "stock": 20
     },
     {
       "nombre": "Jarra plásticas sola",
@@ -7834,7 +7834,7 @@
     {
       "nombre": "Isopo de baño 1800",
       "sku": "720",
-      "cantidad": 16
+      "cantidad": 20
     },
     {
       "nombre": "Llavin de calle MAF",
