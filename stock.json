@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-12T20:13:03.911Z",
+  "actualizado": "2026-09-12T20:13:23.675Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -2736,7 +2736,7 @@
       "sku": "567",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 20
+      "stock": 0
     },
     {
       "nombre": "Llave paso 1/2 métalica",
@@ -7794,7 +7794,7 @@
     {
       "nombre": "Llave lavamano zapatilla",
       "sku": "567",
-      "cantidad": 14
+      "cantidad": 34
     },
     {
       "nombre": "Olla arrocera 1.8 EKO",
