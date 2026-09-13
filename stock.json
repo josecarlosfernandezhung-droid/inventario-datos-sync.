@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-13T03:52:52.380Z",
+  "actualizado": "2026-09-13T03:53:20.048Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -9554,5 +9554,7 @@
       ]
     }
   ],
-  "etiquetas": {}
+  "etiquetas": {
+    "productos": "Almacén del Piso de Venta"
+  }
 }
