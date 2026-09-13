@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-13T03:44:21.891Z",
+  "actualizado": "2026-09-13T03:44:29.341Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -310,7 +310,7 @@
       "sku": "19",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "ubicacion": "",
+      "ubicacion": "Lavadero",
       "stock": 20
     },
     {
