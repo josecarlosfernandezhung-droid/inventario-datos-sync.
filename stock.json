@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-13T03:49:06.464Z",
+  "actualizado": "2026-09-13T03:49:14.927Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -4806,7 +4806,7 @@
       "sku": "36",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "ubicacion": "",
+      "ubicacion": "Baño",
       "stock": 150
     },
     {
