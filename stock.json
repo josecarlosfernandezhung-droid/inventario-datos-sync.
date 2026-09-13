@@ -1,11 +1,12 @@
 {
-  "actualizado": "2026-09-13T01:07:38.047Z",
+  "actualizado": "2026-09-13T03:35:55.754Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
       "sku": "716",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -13,6 +14,7 @@
       "sku": "42",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -20,6 +22,7 @@
       "sku": "163",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -27,6 +30,7 @@
       "sku": "278",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -34,6 +38,7 @@
       "sku": "648",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -41,6 +46,7 @@
       "sku": "627",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -48,6 +54,7 @@
       "sku": "650",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -55,6 +62,7 @@
       "sku": "375",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -62,6 +70,7 @@
       "sku": "649",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -69,6 +78,7 @@
       "sku": "793",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -76,6 +86,7 @@
       "sku": "373",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -83,6 +94,7 @@
       "sku": "406",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -90,6 +102,7 @@
       "sku": "403",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -97,6 +110,7 @@
       "sku": "397",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -104,6 +118,7 @@
       "sku": "568",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -111,6 +126,7 @@
       "sku": "688",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -118,6 +134,7 @@
       "sku": "693",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -125,6 +142,7 @@
       "sku": "445",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -132,6 +150,7 @@
       "sku": "370",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "Lavadero",
       "stock": 95
     },
     {
@@ -139,6 +158,7 @@
       "sku": "594",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -146,6 +166,7 @@
       "sku": "617",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "Lavadero",
       "stock": 200
     },
     {
@@ -153,6 +174,7 @@
       "sku": "324",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -160,6 +182,7 @@
       "sku": "658",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -167,6 +190,7 @@
       "sku": "448",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "Lavadero",
       "stock": 50
     },
     {
@@ -174,6 +198,7 @@
       "sku": "696",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -181,6 +206,7 @@
       "sku": "476",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -188,6 +214,7 @@
       "sku": "432",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -195,6 +222,7 @@
       "sku": "488",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -202,6 +230,7 @@
       "sku": "452",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -209,6 +238,7 @@
       "sku": "487",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -216,6 +246,7 @@
       "sku": "495",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 25
     },
     {
@@ -223,6 +254,7 @@
       "sku": "209",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -230,6 +262,7 @@
       "sku": "682",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -237,6 +270,7 @@
       "sku": "697",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -244,6 +278,7 @@
       "sku": "225",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -251,6 +286,7 @@
       "sku": "575",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 60
     },
     {
@@ -258,6 +294,7 @@
       "sku": "158",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 420
     },
     {
@@ -265,6 +302,7 @@
       "sku": "333",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -272,6 +310,7 @@
       "sku": "19",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 20
     },
     {
@@ -279,6 +318,7 @@
       "sku": "781",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -286,6 +326,7 @@
       "sku": "207",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 50
     },
     {
@@ -293,6 +334,7 @@
       "sku": "668",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -300,6 +342,7 @@
       "sku": "645",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -307,6 +350,7 @@
       "sku": "343",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "Baño",
       "stock": 16
     },
     {
@@ -314,6 +358,7 @@
       "sku": "374",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -321,6 +366,7 @@
       "sku": "490",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -328,6 +374,7 @@
       "sku": "294",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -335,6 +382,7 @@
       "sku": "559",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -342,6 +390,7 @@
       "sku": "272",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 34
     },
     {
@@ -349,6 +398,7 @@
       "sku": "274",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -356,6 +406,7 @@
       "sku": "570",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -363,6 +414,7 @@
       "sku": "646",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -370,6 +422,7 @@
       "sku": "91",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -377,6 +430,7 @@
       "sku": "43",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -384,6 +438,7 @@
       "sku": "191",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -391,6 +446,7 @@
       "sku": "74",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -398,6 +454,7 @@
       "sku": "545",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -405,6 +462,7 @@
       "sku": "72",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -412,6 +470,7 @@
       "sku": "471",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -419,6 +478,7 @@
       "sku": "591",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -426,6 +486,7 @@
       "sku": "220",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -433,6 +494,7 @@
       "sku": "635",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -440,6 +502,7 @@
       "sku": "630",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -447,6 +510,7 @@
       "sku": "38",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -454,6 +518,7 @@
       "sku": "746",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -461,6 +526,7 @@
       "sku": "744",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 24
     },
     {
@@ -468,6 +534,7 @@
       "sku": "745",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -475,6 +542,7 @@
       "sku": "779",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -482,6 +550,7 @@
       "sku": "765",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -489,6 +558,7 @@
       "sku": "766",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -496,6 +566,7 @@
       "sku": "759",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -503,6 +574,7 @@
       "sku": "754",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -510,6 +582,7 @@
       "sku": "763",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -517,6 +590,7 @@
       "sku": "762",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -524,6 +598,7 @@
       "sku": "761",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -531,6 +606,7 @@
       "sku": "750",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -538,6 +614,7 @@
       "sku": "773",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -545,6 +622,7 @@
       "sku": "752",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -552,6 +630,7 @@
       "sku": "741",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 53
     },
     {
@@ -559,6 +638,7 @@
       "sku": "743",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 3
     },
     {
@@ -566,6 +646,7 @@
       "sku": "751",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -573,6 +654,7 @@
       "sku": "772",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -580,6 +662,7 @@
       "sku": "756",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -587,6 +670,7 @@
       "sku": "755",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -594,6 +678,7 @@
       "sku": "531",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -601,6 +686,7 @@
       "sku": "417",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 20
     },
     {
@@ -608,6 +694,7 @@
       "sku": "118",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 180
     },
     {
@@ -615,6 +702,7 @@
       "sku": "117",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -622,6 +710,7 @@
       "sku": "116",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 168
     },
     {
@@ -629,6 +718,7 @@
       "sku": "601",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 128
     },
     {
@@ -636,6 +726,7 @@
       "sku": "115",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 48
     },
     {
@@ -643,6 +734,7 @@
       "sku": "96",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -650,6 +742,7 @@
       "sku": "95",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -657,6 +750,7 @@
       "sku": "79",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -664,6 +758,7 @@
       "sku": "234",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 150
     },
     {
@@ -671,6 +766,7 @@
       "sku": "230",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -678,6 +774,7 @@
       "sku": "748",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -685,6 +782,7 @@
       "sku": "231",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 20
     },
     {
@@ -692,6 +790,7 @@
       "sku": "749",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -699,6 +798,7 @@
       "sku": "747",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -706,6 +806,7 @@
       "sku": "775",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -713,6 +814,7 @@
       "sku": "770",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -720,6 +822,7 @@
       "sku": "796",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -727,6 +830,7 @@
       "sku": "764",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -734,6 +838,7 @@
       "sku": "156",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -741,6 +846,7 @@
       "sku": "152",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 6
     },
     {
@@ -748,6 +854,7 @@
       "sku": "368",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -755,6 +862,7 @@
       "sku": "582",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -762,6 +870,7 @@
       "sku": "237",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -769,6 +878,7 @@
       "sku": "109",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -776,6 +886,7 @@
       "sku": "229",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -783,6 +894,7 @@
       "sku": "227",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -790,6 +902,7 @@
       "sku": "16",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -797,6 +910,7 @@
       "sku": "266",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 200
     },
     {
@@ -804,6 +918,7 @@
       "sku": "93",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 100
     },
     {
@@ -811,6 +926,7 @@
       "sku": "708",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -818,6 +934,7 @@
       "sku": "376",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -825,6 +942,7 @@
       "sku": "165",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -832,6 +950,7 @@
       "sku": "597",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -839,6 +958,7 @@
       "sku": "183",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -846,6 +966,7 @@
       "sku": "618",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -853,6 +974,7 @@
       "sku": "466",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -860,6 +982,7 @@
       "sku": "798",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 240
     },
     {
@@ -867,6 +990,7 @@
       "sku": "364",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 360
     },
     {
@@ -874,6 +998,7 @@
       "sku": "592",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -881,6 +1006,7 @@
       "sku": "67",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -888,6 +1014,7 @@
       "sku": "736",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -895,6 +1022,7 @@
       "sku": "734",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -902,6 +1030,7 @@
       "sku": "739",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -909,6 +1038,7 @@
       "sku": "672",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -916,6 +1046,7 @@
       "sku": "735",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -923,6 +1054,7 @@
       "sku": "774",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -930,6 +1062,7 @@
       "sku": "477",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -937,6 +1070,7 @@
       "sku": "705",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -944,6 +1078,7 @@
       "sku": "724",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -951,6 +1086,7 @@
       "sku": "532",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -958,6 +1094,7 @@
       "sku": "644",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -965,6 +1102,7 @@
       "sku": "85",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -972,6 +1110,7 @@
       "sku": "652",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -979,6 +1118,7 @@
       "sku": "534",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 155
     },
     {
@@ -986,6 +1126,7 @@
       "sku": "664",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -993,6 +1134,7 @@
       "sku": "83",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1000,6 +1142,7 @@
       "sku": "184",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1007,6 +1150,7 @@
       "sku": "489",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1014,6 +1158,7 @@
       "sku": "167",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1021,6 +1166,7 @@
       "sku": "236",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1028,6 +1174,7 @@
       "sku": "141",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1035,6 +1182,7 @@
       "sku": "685",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1042,6 +1190,7 @@
       "sku": "585",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1049,6 +1198,7 @@
       "sku": "548",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1056,6 +1206,7 @@
       "sku": "530",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1063,6 +1214,7 @@
       "sku": "654",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1070,6 +1222,7 @@
       "sku": "351",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1077,6 +1230,7 @@
       "sku": "673",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1084,6 +1238,7 @@
       "sku": "304",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 48
     },
     {
@@ -1091,6 +1246,7 @@
       "sku": "201",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 10
     },
     {
@@ -1098,6 +1254,7 @@
       "sku": "296",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1105,6 +1262,7 @@
       "sku": "521",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1112,6 +1270,7 @@
       "sku": "408",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1119,6 +1278,7 @@
       "sku": "407",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1126,6 +1286,7 @@
       "sku": "349",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1133,6 +1294,7 @@
       "sku": "614",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1140,6 +1302,7 @@
       "sku": "405",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1147,6 +1310,7 @@
       "sku": "446",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1154,6 +1318,7 @@
       "sku": "61",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1161,6 +1326,7 @@
       "sku": "345",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 20
     },
     {
@@ -1168,6 +1334,7 @@
       "sku": "433",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1175,6 +1342,7 @@
       "sku": "431",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1182,6 +1350,7 @@
       "sku": "143",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1189,6 +1358,7 @@
       "sku": "517",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1196,6 +1366,7 @@
       "sku": "629",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1203,6 +1374,7 @@
       "sku": "542",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1210,6 +1382,7 @@
       "sku": "422",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1217,6 +1390,7 @@
       "sku": "205",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 12
     },
     {
@@ -1224,6 +1398,7 @@
       "sku": "160",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1231,6 +1406,7 @@
       "sku": "474",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1238,6 +1414,7 @@
       "sku": "127",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1245,6 +1422,7 @@
       "sku": "620",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1252,6 +1430,7 @@
       "sku": "714",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1259,6 +1438,7 @@
       "sku": "715",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1266,6 +1446,7 @@
       "sku": "740",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1273,6 +1454,7 @@
       "sku": "667",
       "categoria": "Sin categoría",
       "unidad": "cajas",
+      "ubicacion": "",
       "stock": 1
     },
     {
@@ -1280,6 +1462,7 @@
       "sku": "541",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1287,6 +1470,7 @@
       "sku": "17",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1294,6 +1478,7 @@
       "sku": "632",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1301,6 +1486,7 @@
       "sku": "194",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1308,6 +1494,7 @@
       "sku": "413",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1315,6 +1502,7 @@
       "sku": "195",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1322,6 +1510,7 @@
       "sku": "77",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1329,6 +1518,7 @@
       "sku": "411",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1336,6 +1526,7 @@
       "sku": "546",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1343,6 +1534,7 @@
       "sku": "358",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1350,6 +1542,7 @@
       "sku": "362",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1357,6 +1550,7 @@
       "sku": "188",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1364,6 +1558,7 @@
       "sku": "634",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1371,6 +1566,7 @@
       "sku": "643",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1378,6 +1574,7 @@
       "sku": "454",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1385,6 +1582,7 @@
       "sku": "728",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1392,6 +1590,7 @@
       "sku": "710",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1399,6 +1598,7 @@
       "sku": "486",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1406,6 +1606,7 @@
       "sku": "356",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1413,6 +1614,7 @@
       "sku": "404",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1420,6 +1622,7 @@
       "sku": "357",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1427,6 +1630,7 @@
       "sku": "387",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1434,6 +1638,7 @@
       "sku": "388",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1441,6 +1646,7 @@
       "sku": "449",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1448,6 +1654,7 @@
       "sku": "434",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1455,6 +1662,7 @@
       "sku": "97",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1462,6 +1670,7 @@
       "sku": "409",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1469,6 +1678,7 @@
       "sku": "458",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1476,6 +1686,7 @@
       "sku": "709",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1483,6 +1694,7 @@
       "sku": "131",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1490,6 +1702,7 @@
       "sku": "574",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1497,6 +1710,7 @@
       "sku": "780",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1504,6 +1718,7 @@
       "sku": "70",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1511,6 +1726,7 @@
       "sku": "69",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1518,6 +1734,7 @@
       "sku": "45",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1525,6 +1742,7 @@
       "sku": "421",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1532,6 +1750,7 @@
       "sku": "173",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1539,6 +1758,7 @@
       "sku": "288",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 16
     },
     {
@@ -1546,6 +1766,7 @@
       "sku": "420",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1553,6 +1774,7 @@
       "sku": "522",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1560,6 +1782,7 @@
       "sku": "653",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1567,6 +1790,7 @@
       "sku": "149",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1574,6 +1798,7 @@
       "sku": "447",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1581,6 +1806,7 @@
       "sku": "778",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1588,6 +1814,7 @@
       "sku": "679",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1595,6 +1822,7 @@
       "sku": "639",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1602,6 +1830,7 @@
       "sku": "291",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1609,6 +1838,7 @@
       "sku": "99",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1616,6 +1846,7 @@
       "sku": "318",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 7200
     },
     {
@@ -1623,6 +1854,7 @@
       "sku": "200",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1630,6 +1862,7 @@
       "sku": "593",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1637,6 +1870,7 @@
       "sku": "275",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1644,6 +1878,7 @@
       "sku": "100",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1651,6 +1886,7 @@
       "sku": "101",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1658,6 +1894,7 @@
       "sku": "284",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1665,6 +1902,7 @@
       "sku": "699",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1672,6 +1910,7 @@
       "sku": "285",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1679,6 +1918,7 @@
       "sku": "329",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1686,6 +1926,7 @@
       "sku": "494",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1693,6 +1934,7 @@
       "sku": "596",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1700,6 +1942,7 @@
       "sku": "481",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1707,6 +1950,7 @@
       "sku": "700",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1714,6 +1958,7 @@
       "sku": "742",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 150
     },
     {
@@ -1721,6 +1966,7 @@
       "sku": "695",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1728,6 +1974,7 @@
       "sku": "371",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1735,6 +1982,7 @@
       "sku": "514",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1742,6 +1990,7 @@
       "sku": "39",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 90
     },
     {
@@ -1749,6 +1998,7 @@
       "sku": "663",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1756,6 +2006,7 @@
       "sku": "552",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1763,6 +2014,7 @@
       "sku": "605",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1770,6 +2022,7 @@
       "sku": "536",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1777,6 +2030,7 @@
       "sku": "662",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1784,6 +2038,7 @@
       "sku": "108",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1791,6 +2046,7 @@
       "sku": "110",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1798,6 +2054,7 @@
       "sku": "107",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1805,6 +2062,7 @@
       "sku": "98",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1812,6 +2070,7 @@
       "sku": "470",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1819,6 +2078,7 @@
       "sku": "30",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1826,6 +2086,7 @@
       "sku": "31",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1833,6 +2094,7 @@
       "sku": "22",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1840,6 +2102,7 @@
       "sku": "27",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1847,6 +2110,7 @@
       "sku": "23",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1854,6 +2118,7 @@
       "sku": "29",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1861,6 +2126,7 @@
       "sku": "24",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1868,6 +2134,7 @@
       "sku": "418",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1875,6 +2142,7 @@
       "sku": "419",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1882,6 +2150,7 @@
       "sku": "26",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1889,6 +2158,7 @@
       "sku": "21",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1896,6 +2166,7 @@
       "sku": "416",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1903,6 +2174,7 @@
       "sku": "28",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1910,6 +2182,7 @@
       "sku": "719",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1917,6 +2190,7 @@
       "sku": "25",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1924,6 +2198,7 @@
       "sku": "233",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1931,6 +2206,7 @@
       "sku": "20",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1938,6 +2214,7 @@
       "sku": "768",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1945,6 +2222,7 @@
       "sku": "767",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1952,6 +2230,7 @@
       "sku": "211",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1959,6 +2238,7 @@
       "sku": "528",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1966,6 +2246,7 @@
       "sku": "429",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1973,6 +2254,7 @@
       "sku": "637",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1980,6 +2262,7 @@
       "sku": "300",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1987,6 +2270,7 @@
       "sku": "795",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1994,6 +2278,7 @@
       "sku": "782",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2001,6 +2286,7 @@
       "sku": "49",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2008,6 +2294,7 @@
       "sku": "497",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2015,6 +2302,7 @@
       "sku": "82",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 15
     },
     {
@@ -2022,6 +2310,7 @@
       "sku": "469",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2029,6 +2318,7 @@
       "sku": "295",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2036,6 +2326,7 @@
       "sku": "257",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2043,6 +2334,7 @@
       "sku": "712",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2050,6 +2342,7 @@
       "sku": "758",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2057,6 +2350,7 @@
       "sku": "753",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2064,6 +2358,7 @@
       "sku": "802",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2071,6 +2366,7 @@
       "sku": "378",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2078,6 +2374,7 @@
       "sku": "651",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2085,6 +2382,7 @@
       "sku": "193",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 20
     },
     {
@@ -2092,6 +2390,7 @@
       "sku": "691",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2099,6 +2398,7 @@
       "sku": "733",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2106,6 +2406,7 @@
       "sku": "176",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 130
     },
     {
@@ -2113,6 +2414,7 @@
       "sku": "590",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 279
     },
     {
@@ -2120,6 +2422,7 @@
       "sku": "175",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 169
     },
     {
@@ -2127,6 +2430,7 @@
       "sku": "721",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2134,6 +2438,7 @@
       "sku": "720",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 20
     },
     {
@@ -2141,6 +2446,7 @@
       "sku": "84",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2148,6 +2454,7 @@
       "sku": "689",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2155,6 +2462,7 @@
       "sku": "519",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2162,6 +2470,7 @@
       "sku": "686",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2169,6 +2478,7 @@
       "sku": "692",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2176,6 +2486,7 @@
       "sku": "698",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2183,6 +2494,7 @@
       "sku": "520",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2190,6 +2502,7 @@
       "sku": "410",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2197,6 +2510,7 @@
       "sku": "355",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2204,6 +2518,7 @@
       "sku": "137",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2211,6 +2526,7 @@
       "sku": "624",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2218,6 +2534,7 @@
       "sku": "136",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 20
     },
     {
@@ -2225,6 +2542,7 @@
       "sku": "380",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2232,6 +2550,7 @@
       "sku": "510",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2239,6 +2558,7 @@
       "sku": "197",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2246,6 +2566,7 @@
       "sku": "134",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2253,6 +2574,7 @@
       "sku": "428",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2260,6 +2582,7 @@
       "sku": "119",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2267,6 +2590,7 @@
       "sku": "18",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 24
     },
     {
@@ -2274,6 +2598,7 @@
       "sku": "625",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2281,6 +2606,7 @@
       "sku": "670",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2288,6 +2614,7 @@
       "sku": "271",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2295,6 +2622,7 @@
       "sku": "551",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2302,6 +2630,7 @@
       "sku": "365",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2309,6 +2638,7 @@
       "sku": "525",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2316,6 +2646,7 @@
       "sku": "147",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2323,6 +2654,7 @@
       "sku": "623",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2330,6 +2662,7 @@
       "sku": "467",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2337,6 +2670,7 @@
       "sku": "359",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2344,6 +2678,7 @@
       "sku": "301",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2351,6 +2686,7 @@
       "sku": "341",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2358,6 +2694,7 @@
       "sku": "394",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2365,6 +2702,7 @@
       "sku": "524",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2372,6 +2710,7 @@
       "sku": "398",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2379,6 +2718,7 @@
       "sku": "544",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2386,6 +2726,7 @@
       "sku": "395",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2393,6 +2734,7 @@
       "sku": "393",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2400,6 +2742,7 @@
       "sku": "325",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2407,6 +2750,7 @@
       "sku": "586",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2414,6 +2758,7 @@
       "sku": "659",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2421,6 +2766,7 @@
       "sku": "133",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2428,6 +2774,7 @@
       "sku": "562",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2435,6 +2782,7 @@
       "sku": "555",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2442,6 +2790,7 @@
       "sku": "400",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2449,6 +2798,7 @@
       "sku": "402",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2456,6 +2806,7 @@
       "sku": "86",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2463,6 +2814,7 @@
       "sku": "87",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2470,6 +2822,7 @@
       "sku": "316",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2477,6 +2830,7 @@
       "sku": "44",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2484,6 +2838,7 @@
       "sku": "556",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2491,6 +2846,7 @@
       "sku": "73",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2498,6 +2854,7 @@
       "sku": "268",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2505,6 +2862,7 @@
       "sku": "622",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2512,6 +2870,7 @@
       "sku": "784",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2519,6 +2878,7 @@
       "sku": "786",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2526,6 +2886,7 @@
       "sku": "788",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2533,6 +2894,7 @@
       "sku": "787",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2540,6 +2902,7 @@
       "sku": "785",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2547,6 +2910,7 @@
       "sku": "265",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2554,6 +2918,7 @@
       "sku": "576",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2561,6 +2926,7 @@
       "sku": "337",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2568,6 +2934,7 @@
       "sku": "636",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2575,6 +2942,7 @@
       "sku": "423",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2582,6 +2950,7 @@
       "sku": "533",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2589,6 +2958,7 @@
       "sku": "769",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2596,6 +2966,7 @@
       "sku": "92",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2603,6 +2974,7 @@
       "sku": "212",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2610,6 +2982,7 @@
       "sku": "694",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2617,6 +2990,7 @@
       "sku": "683",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2624,6 +2998,7 @@
       "sku": "174",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2631,6 +3006,7 @@
       "sku": "604",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2638,6 +3014,7 @@
       "sku": "190",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2645,6 +3022,7 @@
       "sku": "427",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2652,6 +3030,7 @@
       "sku": "444",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2659,6 +3038,7 @@
       "sku": "681",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2666,6 +3046,7 @@
       "sku": "53",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2673,6 +3054,7 @@
       "sku": "557",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2680,6 +3062,7 @@
       "sku": "64",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2687,6 +3070,7 @@
       "sku": "63",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2694,6 +3078,7 @@
       "sku": "361",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2701,6 +3086,7 @@
       "sku": "491",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2708,6 +3094,7 @@
       "sku": "52",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2715,6 +3102,7 @@
       "sku": "718",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2722,6 +3110,7 @@
       "sku": "717",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2729,6 +3118,7 @@
       "sku": "794",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2736,6 +3126,7 @@
       "sku": "567",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2743,6 +3134,7 @@
       "sku": "280",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2750,6 +3142,7 @@
       "sku": "677",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2757,6 +3150,7 @@
       "sku": "142",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2764,6 +3158,7 @@
       "sku": "492",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2771,6 +3166,7 @@
       "sku": "608",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2778,6 +3174,7 @@
       "sku": "674",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2785,6 +3182,7 @@
       "sku": "330",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2792,6 +3190,7 @@
       "sku": "125",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2799,6 +3198,7 @@
       "sku": "126",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2806,6 +3206,7 @@
       "sku": "129",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2813,6 +3214,7 @@
       "sku": "128",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2820,6 +3222,7 @@
       "sku": "132",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2827,6 +3230,7 @@
       "sku": "401",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2834,6 +3238,7 @@
       "sku": "392",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2841,6 +3246,7 @@
       "sku": "732",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2848,6 +3254,7 @@
       "sku": "776",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2855,6 +3262,7 @@
       "sku": "180",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 50
     },
     {
@@ -2862,6 +3270,7 @@
       "sku": "310",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2869,6 +3278,7 @@
       "sku": "311",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2876,6 +3286,7 @@
       "sku": "238",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 1
     },
     {
@@ -2883,6 +3294,7 @@
       "sku": "309",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2890,6 +3302,7 @@
       "sku": "801",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2897,6 +3310,7 @@
       "sku": "566",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2904,6 +3318,7 @@
       "sku": "424",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2911,6 +3326,7 @@
       "sku": "292",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2918,6 +3334,7 @@
       "sku": "206",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2925,6 +3342,7 @@
       "sku": "619",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2932,6 +3350,7 @@
       "sku": "218",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2939,6 +3358,7 @@
       "sku": "680",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2946,6 +3366,7 @@
       "sku": "799",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2953,6 +3374,7 @@
       "sku": "306",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2960,6 +3382,7 @@
       "sku": "331",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2967,6 +3390,7 @@
       "sku": "577",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2974,6 +3398,7 @@
       "sku": "598",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2981,6 +3406,7 @@
       "sku": "687",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2988,6 +3414,7 @@
       "sku": "690",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2995,6 +3422,7 @@
       "sku": "613",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 300
     },
     {
@@ -3002,6 +3430,7 @@
       "sku": "135",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3009,6 +3438,7 @@
       "sku": "571",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 20
     },
     {
@@ -3016,6 +3446,7 @@
       "sku": "250",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 7
     },
     {
@@ -3023,6 +3454,7 @@
       "sku": "253",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3030,6 +3462,7 @@
       "sku": "249",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 3
     },
     {
@@ -3037,6 +3470,7 @@
       "sku": "248",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3044,6 +3478,7 @@
       "sku": "657",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3051,6 +3486,7 @@
       "sku": "80",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 7
     },
     {
@@ -3058,6 +3494,7 @@
       "sku": "251",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3065,6 +3502,7 @@
       "sku": "583",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 10
     },
     {
@@ -3072,6 +3510,7 @@
       "sku": "615",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3079,6 +3518,7 @@
       "sku": "616",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3086,6 +3526,7 @@
       "sku": "363",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 400
     },
     {
@@ -3093,6 +3534,7 @@
       "sku": "611",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3100,6 +3542,7 @@
       "sku": "367",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3107,6 +3550,7 @@
       "sku": "589",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3114,6 +3558,7 @@
       "sku": "334",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3121,6 +3566,7 @@
       "sku": "130",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3128,6 +3574,7 @@
       "sku": "305",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3135,6 +3582,7 @@
       "sku": "164",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3142,6 +3590,7 @@
       "sku": "396",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3149,6 +3598,7 @@
       "sku": "461",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 15
     },
     {
@@ -3156,6 +3606,7 @@
       "sku": "800",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3163,6 +3614,7 @@
       "sku": "169",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3170,6 +3622,7 @@
       "sku": "168",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3177,6 +3630,7 @@
       "sku": "372",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3184,6 +3638,7 @@
       "sku": "172",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3191,6 +3646,7 @@
       "sku": "171",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3198,6 +3654,7 @@
       "sku": "170",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3205,6 +3662,7 @@
       "sku": "377",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3212,6 +3670,7 @@
       "sku": "722",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3219,6 +3678,7 @@
       "sku": "453",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 180
     },
     {
@@ -3226,6 +3686,7 @@
       "sku": "166",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3233,6 +3694,7 @@
       "sku": "564",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3240,6 +3702,7 @@
       "sku": "563",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3247,6 +3710,7 @@
       "sku": "441",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 54
     },
     {
@@ -3254,6 +3718,7 @@
       "sku": "381",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 18
     },
     {
@@ -3261,6 +3726,7 @@
       "sku": "612",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3268,6 +3734,7 @@
       "sku": "457",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3275,6 +3742,7 @@
       "sku": "463",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3282,6 +3750,7 @@
       "sku": "440",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3289,6 +3758,7 @@
       "sku": "382",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3296,6 +3766,7 @@
       "sku": "379",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3303,6 +3774,7 @@
       "sku": "442",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3310,6 +3782,7 @@
       "sku": "565",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3317,6 +3790,7 @@
       "sku": "223",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3324,6 +3798,7 @@
       "sku": "89",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3331,6 +3806,7 @@
       "sku": "303",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3338,6 +3814,7 @@
       "sku": "90",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3345,6 +3822,7 @@
       "sku": "437",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3352,6 +3830,7 @@
       "sku": "439",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3359,6 +3838,7 @@
       "sku": "438",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3366,6 +3846,7 @@
       "sku": "436",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3373,6 +3854,7 @@
       "sku": "473",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3380,6 +3862,7 @@
       "sku": "790",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3387,6 +3870,7 @@
       "sku": "789",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3394,6 +3878,7 @@
       "sku": "391",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 60
     },
     {
@@ -3401,6 +3886,7 @@
       "sku": "506",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 24
     },
     {
@@ -3408,6 +3894,7 @@
       "sku": "738",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3415,6 +3902,7 @@
       "sku": "240",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3422,6 +3910,7 @@
       "sku": "242",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3429,6 +3918,7 @@
       "sku": "783",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 36
     },
     {
@@ -3436,6 +3926,7 @@
       "sku": "507",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 72
     },
     {
@@ -3443,6 +3934,7 @@
       "sku": "144",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3450,6 +3942,7 @@
       "sku": "676",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3457,6 +3950,7 @@
       "sku": "475",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3464,6 +3958,7 @@
       "sku": "297",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3471,6 +3966,7 @@
       "sku": "678",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3478,6 +3974,7 @@
       "sku": "344",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3485,6 +3982,7 @@
       "sku": "213",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3492,6 +3990,7 @@
       "sku": "526",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3499,6 +3998,7 @@
       "sku": "603",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3506,6 +4006,7 @@
       "sku": "684",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3513,6 +4014,7 @@
       "sku": "57",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3520,6 +4022,7 @@
       "sku": "58",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 59
     },
     {
@@ -3527,6 +4030,7 @@
       "sku": "51",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3534,6 +4038,7 @@
       "sku": "587",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3541,6 +4046,7 @@
       "sku": "320",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3548,6 +4054,7 @@
       "sku": "777",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 10
     },
     {
@@ -3555,6 +4062,7 @@
       "sku": "60",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3562,6 +4070,7 @@
       "sku": "59",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3569,6 +4078,7 @@
       "sku": "50",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3576,6 +4086,7 @@
       "sku": "729",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3583,6 +4094,7 @@
       "sku": "493",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3590,6 +4102,7 @@
       "sku": "540",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3597,6 +4110,7 @@
       "sku": "631",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3604,6 +4118,7 @@
       "sku": "159",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 144
     },
     {
@@ -3611,6 +4126,7 @@
       "sku": "161",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3618,6 +4134,7 @@
       "sku": "478",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3625,6 +4142,7 @@
       "sku": "261",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 108
     },
     {
@@ -3632,6 +4150,7 @@
       "sku": "192",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3639,6 +4158,7 @@
       "sku": "189",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3646,6 +4166,7 @@
       "sku": "496",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3653,6 +4174,7 @@
       "sku": "760",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3660,6 +4182,7 @@
       "sku": "725",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3667,6 +4190,7 @@
       "sku": "260",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 30
     },
     {
@@ -3674,6 +4198,7 @@
       "sku": "792",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3681,6 +4206,7 @@
       "sku": "482",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3688,6 +4214,7 @@
       "sku": "455",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 24
     },
     {
@@ -3695,6 +4222,7 @@
       "sku": "350",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 24
     },
     {
@@ -3702,6 +4230,7 @@
       "sku": "529",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3709,6 +4238,7 @@
       "sku": "78",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3716,6 +4246,7 @@
       "sku": "737",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 25
     },
     {
@@ -3723,6 +4254,7 @@
       "sku": "46",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3730,6 +4262,7 @@
       "sku": "120",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3737,6 +4270,7 @@
       "sku": "549",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3744,6 +4278,7 @@
       "sku": "516",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3751,6 +4286,7 @@
       "sku": "71",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 50
     },
     {
@@ -3758,6 +4294,7 @@
       "sku": "450",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3765,6 +4302,7 @@
       "sku": "451",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3772,6 +4310,7 @@
       "sku": "267",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3779,6 +4318,7 @@
       "sku": "113",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3786,6 +4326,7 @@
       "sku": "75",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3793,6 +4334,7 @@
       "sku": "607",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3800,6 +4342,7 @@
       "sku": "140",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3807,6 +4350,7 @@
       "sku": "203",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3814,6 +4358,7 @@
       "sku": "139",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3821,6 +4366,7 @@
       "sku": "468",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3828,6 +4374,7 @@
       "sku": "328",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3835,6 +4382,7 @@
       "sku": "647",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3842,6 +4390,7 @@
       "sku": "595",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3849,6 +4398,7 @@
       "sku": "269",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3856,6 +4406,7 @@
       "sku": "707",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3863,6 +4414,7 @@
       "sku": "723",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3870,6 +4422,7 @@
       "sku": "666",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3877,6 +4430,7 @@
       "sku": "675",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3884,6 +4438,7 @@
       "sku": "56",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 20
     },
     {
@@ -3891,6 +4446,7 @@
       "sku": "187",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3898,6 +4454,7 @@
       "sku": "425",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3905,6 +4462,7 @@
       "sku": "340",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 15
     },
     {
@@ -3912,6 +4470,7 @@
       "sku": "479",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 36
     },
     {
@@ -3919,6 +4478,7 @@
       "sku": "179",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3926,6 +4486,7 @@
       "sku": "177",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3933,6 +4494,7 @@
       "sku": "214",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3940,6 +4502,7 @@
       "sku": "138",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3947,6 +4510,7 @@
       "sku": "277",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3954,6 +4518,7 @@
       "sku": "588",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3961,6 +4526,7 @@
       "sku": "146",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3968,6 +4534,7 @@
       "sku": "485",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3975,6 +4542,7 @@
       "sku": "642",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3982,6 +4550,7 @@
       "sku": "76",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3989,6 +4558,7 @@
       "sku": "226",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3996,6 +4566,7 @@
       "sku": "535",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4003,6 +4574,7 @@
       "sku": "569",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4010,6 +4582,7 @@
       "sku": "660",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4017,6 +4590,7 @@
       "sku": "414",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 10
     },
     {
@@ -4024,6 +4598,7 @@
       "sku": "246",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4031,6 +4606,7 @@
       "sku": "484",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4038,6 +4614,7 @@
       "sku": "511",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4045,6 +4622,7 @@
       "sku": "512",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4052,6 +4630,7 @@
       "sku": "299",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4059,6 +4638,7 @@
       "sku": "731",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4066,6 +4646,7 @@
       "sku": "430",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 20
     },
     {
@@ -4073,6 +4654,7 @@
       "sku": "181",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4080,6 +4662,7 @@
       "sku": "65",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4087,6 +4670,7 @@
       "sku": "426",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4094,6 +4678,7 @@
       "sku": "633",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4101,6 +4686,7 @@
       "sku": "162",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4108,6 +4694,7 @@
       "sku": "399",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4115,6 +4702,7 @@
       "sku": "665",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4122,6 +4710,7 @@
       "sku": "369",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4129,6 +4718,7 @@
       "sku": "713",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4136,6 +4726,7 @@
       "sku": "270",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4143,6 +4734,7 @@
       "sku": "671",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4150,6 +4742,7 @@
       "sku": "293",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4157,6 +4750,7 @@
       "sku": "346",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4164,6 +4758,7 @@
       "sku": "354",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4171,6 +4766,7 @@
       "sku": "655",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 144
     },
     {
@@ -4178,6 +4774,7 @@
       "sku": "656",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4185,6 +4782,7 @@
       "sku": "282",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 30
     },
     {
@@ -4192,6 +4790,7 @@
       "sku": "35",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 200
     },
     {
@@ -4199,6 +4798,7 @@
       "sku": "283",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4206,6 +4806,7 @@
       "sku": "36",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 150
     },
     {
@@ -4213,6 +4814,7 @@
       "sku": "348",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4220,6 +4822,7 @@
       "sku": "40",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4227,6 +4830,7 @@
       "sku": "302",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4234,6 +4838,7 @@
       "sku": "41",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4241,6 +4846,7 @@
       "sku": "111",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4248,6 +4854,7 @@
       "sku": "797",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 2000
     },
     {
@@ -4255,6 +4862,7 @@
       "sku": "771",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4262,6 +4870,7 @@
       "sku": "791",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4269,6 +4878,7 @@
       "sku": "464",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4276,6 +4886,7 @@
       "sku": "216",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4283,6 +4894,7 @@
       "sku": "465",
       "categoria": "Sin categoría",
       "unidad": "cajas",
+      "ubicacion": "",
       "stock": 11600
     },
     {
@@ -4290,6 +4902,7 @@
       "sku": "102",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4297,6 +4910,7 @@
       "sku": "315",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4304,6 +4918,7 @@
       "sku": "581",
       "categoria": "Sin categoría",
       "unidad": "cajas",
+      "ubicacion": "",
       "stock": 8400
     },
     {
@@ -4311,6 +4926,7 @@
       "sku": "281",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 12000
     },
     {
@@ -4318,6 +4934,7 @@
       "sku": "599",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4325,6 +4942,7 @@
       "sku": "460",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4332,6 +4950,7 @@
       "sku": "757",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4339,6 +4958,7 @@
       "sku": "553",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4346,6 +4966,7 @@
       "sku": "701",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4353,6 +4974,7 @@
       "sku": "703",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4360,6 +4982,7 @@
       "sku": "702",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4367,6 +4990,7 @@
       "sku": "704",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4374,6 +4998,7 @@
       "sku": "157",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 660
     },
     {
@@ -4381,6 +5006,7 @@
       "sku": "155",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4388,6 +5014,7 @@
       "sku": "154",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 175
     },
     {
@@ -4395,6 +5022,7 @@
       "sku": "415",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4402,6 +5030,7 @@
       "sku": "602",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 6
     },
     {
@@ -4409,6 +5038,7 @@
       "sku": "222",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4416,6 +5046,7 @@
       "sku": "232",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4423,6 +5054,7 @@
       "sku": "196",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4430,6 +5062,7 @@
       "sku": "443",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4437,6 +5070,7 @@
       "sku": "385",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4444,6 +5078,7 @@
       "sku": "94",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4451,6 +5086,7 @@
       "sku": "314",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4458,6 +5094,7 @@
       "sku": "523",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4465,6 +5102,7 @@
       "sku": "560",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4472,6 +5110,7 @@
       "sku": "609",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4479,6 +5118,7 @@
       "sku": "47",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 65
     },
     {
@@ -4486,6 +5126,7 @@
       "sku": "606",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4493,6 +5134,7 @@
       "sku": "48",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4500,6 +5142,7 @@
       "sku": "317",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4507,6 +5150,7 @@
       "sku": "383",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4514,6 +5158,7 @@
       "sku": "254",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4521,6 +5166,7 @@
       "sku": "88",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 8
     },
     {
@@ -4528,6 +5174,7 @@
       "sku": "384",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4535,6 +5182,7 @@
       "sku": "219",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4542,6 +5190,7 @@
       "sku": "259",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 15
     },
     {
@@ -4549,6 +5198,7 @@
       "sku": "199",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4556,6 +5206,7 @@
       "sku": "711",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4563,6 +5214,7 @@
       "sku": "669",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4570,6 +5222,7 @@
       "sku": "805",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 30
     },
     {
@@ -4577,6 +5230,7 @@
       "sku": "810",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4584,6 +5238,7 @@
       "sku": "817",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4591,6 +5246,7 @@
       "sku": "818",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 3
     },
     {
@@ -4598,6 +5254,7 @@
       "sku": "807",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4605,6 +5262,7 @@
       "sku": "819",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4612,6 +5270,7 @@
       "sku": "809",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4619,6 +5278,7 @@
       "sku": "806",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4626,6 +5286,7 @@
       "sku": "804",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 25
     },
     {
@@ -4633,6 +5294,7 @@
       "sku": "815",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4640,6 +5302,7 @@
       "sku": "812",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4647,6 +5310,7 @@
       "sku": "821",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4654,6 +5318,7 @@
       "sku": "811",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4661,6 +5326,7 @@
       "sku": "820",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 8
     },
     {
@@ -4668,6 +5334,7 @@
       "sku": "813",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4675,6 +5342,7 @@
       "sku": "816",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4682,6 +5350,7 @@
       "sku": "808",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 24
     },
     {
@@ -4689,6 +5358,7 @@
       "sku": "803",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4696,6 +5366,7 @@
       "sku": "814",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4703,6 +5374,7 @@
       "sku": "833",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 12
     },
     {
@@ -4710,6 +5382,7 @@
       "sku": "842",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 4
     },
     {
@@ -4717,6 +5390,7 @@
       "sku": "840",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 70
     },
     {
@@ -4724,6 +5398,7 @@
       "sku": "PROD-0003",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4731,6 +5406,7 @@
       "sku": "PROD-0004",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4738,6 +5414,7 @@
       "sku": "822",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4745,6 +5422,7 @@
       "sku": "823",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4752,6 +5430,7 @@
       "sku": "824",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4759,6 +5438,7 @@
       "sku": "825",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4766,6 +5446,7 @@
       "sku": "826",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4773,6 +5454,7 @@
       "sku": "827",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4780,6 +5462,7 @@
       "sku": "828",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4787,6 +5470,7 @@
       "sku": "829",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4794,6 +5478,7 @@
       "sku": "830",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4801,6 +5486,7 @@
       "sku": "831",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4808,6 +5494,7 @@
       "sku": "832",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4815,6 +5502,7 @@
       "sku": "834",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4822,6 +5510,7 @@
       "sku": "835",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4829,6 +5518,7 @@
       "sku": "836",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4836,6 +5526,7 @@
       "sku": "837",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 130
     },
     {
@@ -4843,6 +5534,7 @@
       "sku": "838",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4850,6 +5542,7 @@
       "sku": "839",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4857,6 +5550,7 @@
       "sku": "841",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4864,6 +5558,7 @@
       "sku": "843",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4871,6 +5566,7 @@
       "sku": "844",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4878,6 +5574,7 @@
       "sku": "845",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "Baño",
       "stock": 10
     },
     {
@@ -4885,6 +5582,7 @@
       "sku": "846",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 6
     },
     {
@@ -4892,6 +5590,7 @@
       "sku": "307",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 2
     },
     {
@@ -4899,6 +5598,7 @@
       "sku": "PROD-0006",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 20
     },
     {
@@ -4906,6 +5606,7 @@
       "sku": "241",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4913,6 +5614,7 @@
       "sku": "PROD-0008",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 60
     },
     {
@@ -4920,6 +5622,7 @@
       "sku": "239",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 60
     }
   ],
@@ -7222,11 +7925,6 @@
       "cantidad": 1
     },
     {
-      "nombre": "Maquina de Soldar",
-      "sku": "307",
-      "cantidad": 1
-    },
-    {
       "nombre": "Olla arrocera 3lts IMPUD",
       "sku": "811",
       "cantidad": 1
@@ -7327,6 +8025,11 @@
       "cantidad": 2
     },
     {
+      "nombre": "Maquina de Soldar",
+      "sku": "307",
+      "cantidad": 2
+    },
+    {
       "nombre": "Olla de presión 3 válvulas 4lts",
       "sku": "250",
       "cantidad": 2
@@ -7360,11 +8063,6 @@
       "nombre": "Medias",
       "sku": "834",
       "cantidad": 3
-    },
-    {
-      "nombre": "Olla de presión 3 válvulas 5lts",
-      "sku": "249",
-      "cantidad": 6
     },
     {
       "nombre": "Pluma mezcladora fregadero",
@@ -7467,11 +8165,6 @@
       "cantidad": 5
     },
     {
-      "nombre": "Fregadero escurridor boca pequeña",
-      "sku": "82",
-      "cantidad": 10
-    },
-    {
       "nombre": "Juego de sartén de inducción 3/pcs",
       "sku": "341",
       "cantidad": 5
@@ -7522,9 +8215,9 @@
       "cantidad": 6
     },
     {
-      "nombre": "Perchero docena",
-      "sku": "461",
-      "cantidad": 11
+      "nombre": "Olla de presión 3 válvulas 5lts",
+      "sku": "249",
+      "cantidad": 6
     },
     {
       "nombre": "Pintura galón 3.785lts dorado",
@@ -7590,11 +8283,6 @@
       "nombre": "Barra silicona colores",
       "sku": "682",
       "cantidad": 8
-    },
-    {
-      "nombre": "Batidora licuadora 2 en 1",
-      "sku": "845",
-      "cantidad": 10
     },
     {
       "nombre": "Brekera 24 posiciones",
@@ -7667,8 +8355,18 @@
       "cantidad": 9
     },
     {
+      "nombre": "Batidora licuadora 2 en 1",
+      "sku": "845",
+      "cantidad": 10
+    },
+    {
       "nombre": "Cable 8 aluminio",
       "sku": "819",
+      "cantidad": 10
+    },
+    {
+      "nombre": "Fregadero escurridor boca pequeña",
+      "sku": "82",
       "cantidad": 10
     },
     {
@@ -7719,6 +8417,11 @@
     {
       "nombre": "Llavín de puerta/calle pines",
       "sku": "126",
+      "cantidad": 11
+    },
+    {
+      "nombre": "Perchero docena",
+      "sku": "461",
       "cantidad": 11
     },
     {
@@ -7792,11 +8495,6 @@
       "cantidad": 14
     },
     {
-      "nombre": "Llave lavamano zapatilla",
-      "sku": "567",
-      "cantidad": 34
-    },
-    {
       "nombre": "Olla arrocera 1.8 EKO",
       "sku": "571",
       "cantidad": 14
@@ -7830,11 +8528,6 @@
       "nombre": "Casco criollo",
       "sku": "534",
       "cantidad": 16
-    },
-    {
-      "nombre": "Isopo de baño 1800",
-      "sku": "720",
-      "cantidad": 20
     },
     {
       "nombre": "Llavin de calle MAF",
@@ -7962,6 +8655,11 @@
       "cantidad": 20
     },
     {
+      "nombre": "Isopo de baño 1800",
+      "sku": "720",
+      "cantidad": 20
+    },
+    {
       "nombre": "Pintura spray azul diamond brillante proefix",
       "sku": "391",
       "cantidad": 20
@@ -8020,11 +8718,6 @@
       "nombre": "Codo 3/4- 45 grados",
       "sku": "411",
       "cantidad": 23
-    },
-    {
-      "nombre": "Cuchilla manual 2/polos 63A",
-      "sku": "131",
-      "cantidad": 28
     },
     {
       "nombre": "Juego de barrena tungsteno 5pcs",
@@ -8122,6 +8815,11 @@
       "cantidad": 28
     },
     {
+      "nombre": "Cuchilla manual 2/polos 63A",
+      "sku": "131",
+      "cantidad": 28
+    },
+    {
       "nombre": "Toma corriente sencillo",
       "sku": "803",
       "cantidad": 28
@@ -8204,6 +8902,11 @@
     {
       "nombre": "Cinta 3mts",
       "sku": "517",
+      "cantidad": 34
+    },
+    {
+      "nombre": "Llave lavamano zapatilla",
+      "sku": "567",
       "cantidad": 34
     },
     {
@@ -8295,11 +8998,6 @@
       "nombre": "Interruptor sencillo palanca",
       "sku": "175",
       "cantidad": 42
-    },
-    {
-      "nombre": "Pintura spray verde",
-      "sku": "507",
-      "cantidad": 187
     },
     {
       "nombre": "Sálida de tanque de 1\"",
@@ -8612,6 +9310,11 @@
       "cantidad": 187
     },
     {
+      "nombre": "Pintura spray verde",
+      "sku": "507",
+      "cantidad": 187
+    },
+    {
       "nombre": "Conector MC4",
       "sku": "634",
       "cantidad": 192
@@ -8640,11 +9343,6 @@
       "nombre": "Estropajo alambre",
       "sku": "662",
       "cantidad": 314
-    },
-    {
-      "nombre": "Disco de corte metal 115\"mm",
-      "sku": "99",
-      "cantidad": 1131
     },
     {
       "nombre": "Expansor mecánico M8 10mm",
@@ -8695,6 +9393,11 @@
       "nombre": "Lija de agua profesional",
       "sku": "212",
       "cantidad": 1107
+    },
+    {
+      "nombre": "Disco de corte metal 115\"mm",
+      "sku": "99",
+      "cantidad": 1131
     },
     {
       "nombre": "Expansor mecánico M6",
