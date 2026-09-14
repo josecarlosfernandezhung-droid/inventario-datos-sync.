@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-14T13:44:33.605Z",
+  "actualizado": "2026-09-14T13:54:31.821Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -8050,6 +8050,11 @@
       "cantidad": 2
     },
     {
+      "nombre": "Pintura Barniz en Spray",
+      "sku": "851",
+      "cantidad": 2
+    },
+    {
       "nombre": "Set juego de pinza",
       "sku": "707",
       "cantidad": 2
@@ -8137,7 +8142,7 @@
     {
       "nombre": "Fogón de petroleo",
       "sku": "637",
-      "cantidad": 14
+      "cantidad": 4
     },
     {
       "nombre": "Gasolina B94",
@@ -8208,11 +8213,6 @@
       "nombre": "Escuadra angulo plana",
       "sku": "695",
       "cantidad": 5
-    },
-    {
-      "nombre": "Juego de cubo proefix de 46pcs rojo",
-      "sku": "18",
-      "cantidad": 13
     },
     {
       "nombre": "Juego de sartén de inducción 3/pcs",
@@ -8517,6 +8517,11 @@
     {
       "nombre": "Cuello ganso flexible a la pared",
       "sku": "288",
+      "cantidad": 13
+    },
+    {
+      "nombre": "Juego de cubo proefix de 46pcs rojo",
+      "sku": "18",
       "cantidad": 13
     },
     {
