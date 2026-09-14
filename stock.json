@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-14T17:37:08.486Z",
+  "actualizado": "2026-09-14T23:05:22.368Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -191,7 +191,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": 50
+      "stock": 40
     },
     {
       "nombre": "Arandela presion 12mm",
@@ -639,7 +639,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Baño",
-      "stock": 3
+      "stock": 0
     },
     {
       "nombre": "Brekera 8 posiciones",
@@ -8297,7 +8297,7 @@
     {
       "nombre": "Brekera 24 posiciones",
       "sku": "743",
-      "cantidad": 7
+      "cantidad": 10
     },
     {
       "nombre": "Disco tungsteno 125mm liso",
@@ -8552,7 +8552,7 @@
     {
       "nombre": "Aragán",
       "sku": "448",
-      "cantidad": 15
+      "cantidad": 25
     },
     {
       "nombre": "Set de destornilladores SEAL pareja",
