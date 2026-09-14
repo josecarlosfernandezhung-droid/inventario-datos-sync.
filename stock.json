@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-14T14:24:59.371Z",
+  "actualizado": "2026-09-14T14:48:44.777Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -2439,7 +2439,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": 20
+      "stock": 15
     },
     {
       "nombre": "Jarra plásticas sola",
@@ -8402,7 +8402,7 @@
     {
       "nombre": "Isopo de baño 1800",
       "sku": "720",
-      "cantidad": 10
+      "cantidad": 15
     },
     {
       "nombre": "Llavín de puerta/calle pines",
