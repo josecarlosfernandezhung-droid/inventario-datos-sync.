@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-14T13:54:31.821Z",
+  "actualizado": "2026-09-14T13:55:10.859Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -1991,7 +1991,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Baño",
-      "stock": 90
+      "stock": 60
     },
     {
       "nombre": "Esponja fregar",
@@ -4023,7 +4023,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "",
-      "stock": 59
+      "stock": 50
     },
     {
       "nombre": "Pluma cuello ganso tiro rápido por debajo moderna",
@@ -4807,7 +4807,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Baño",
-      "stock": 150
+      "stock": 120
     },
     {
       "nombre": "Toma criollo baquelita",
@@ -4999,7 +4999,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "",
-      "stock": 660
+      "stock": 630
     },
     {
       "nombre": "Tubo led 40/ 1polo",
@@ -5623,7 +5623,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "",
-      "stock": 60
+      "stock": 36
     }
   ],
   "almacenPrincipal": [
@@ -8052,7 +8052,7 @@
     {
       "nombre": "Pintura Barniz en Spray",
       "sku": "851",
-      "cantidad": 2
+      "cantidad": 26
     },
     {
       "nombre": "Set juego de pinza",
@@ -8097,7 +8097,7 @@
     {
       "nombre": "Pluma cuello de ganso por debajo",
       "sku": "58",
-      "cantidad": 3
+      "cantidad": 12
     },
     {
       "nombre": "Pluma mezcladora fregadero",
@@ -8932,7 +8932,7 @@
     {
       "nombre": "Espiga",
       "sku": "39",
-      "cantidad": 32
+      "cantidad": 62
     },
     {
       "nombre": "Mando universal",
@@ -9042,7 +9042,7 @@
     {
       "nombre": "Tubo de 20 led",
       "sku": "157",
-      "cantidad": 42
+      "cantidad": 72
     },
     {
       "nombre": "Sálida de tanque de 1\"",
@@ -9197,7 +9197,7 @@
     {
       "nombre": "Toma corriente universal",
       "sku": "36",
-      "cantidad": 69
+      "cantidad": 99
     },
     {
       "nombre": "Llave de paso 1/2\" plástica",
