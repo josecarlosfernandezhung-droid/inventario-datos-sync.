@@ -1,6 +1,6 @@
 {
   "dispositivo": "José",
-  "actualizado": "2026-09-14T13:30:57.786Z",
+  "actualizado": "2026-09-14T13:32:01.908Z",
   "movimientos": [
     {
       "id": 1787663644087,
@@ -4030,6 +4030,32 @@
       "cantidad": 8,
       "unidad": "piezas",
       "referencia": "18",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1789392682429,
+      "tipo": "transferencia",
+      "fecha": "2026-09-14",
+      "producto": "Fogón de petroleo",
+      "cantidad": 10,
+      "unidad": "piezas",
+      "referencia": "637",
+      "categoria": "Sin categoría",
+      "origen": "📦 Almacén Casa de Carlos",
+      "destino": "Almacén Punto de Venta",
+      "observaciones": "Transferencia: 📦 Almacén Casa de Carlos → Almacén Punto de Venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1789392721166,
+      "tipo": "salida",
+      "fecha": "2026-09-14",
+      "producto": "Fogón de petroleo",
+      "cantidad": 10,
+      "unidad": "piezas",
+      "referencia": "637",
       "categoria": "Sin categoría",
       "observaciones": "Transferencia a piso de venta",
       "registradoPor": ""
