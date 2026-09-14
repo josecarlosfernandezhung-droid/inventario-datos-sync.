@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-14T14:48:44.777Z",
+  "actualizado": "2026-09-14T17:37:08.486Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -5975,7 +5975,7 @@
     {
       "nombre": "Expansor mecánico M8 10mm",
       "sku": "107",
-      "cantidad": 800
+      "cantidad": 0
     },
     {
       "nombre": "Expansor marco-puerta 3\" plástico",
@@ -9292,7 +9292,7 @@
     {
       "nombre": "Expansor mecánico M8 10mm",
       "sku": "107",
-      "cantidad": 127
+      "cantidad": 927
     },
     {
       "nombre": "Palillo docena",
