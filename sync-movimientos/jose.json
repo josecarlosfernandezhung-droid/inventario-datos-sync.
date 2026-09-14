@@ -1,6 +1,6 @@
 {
   "dispositivo": "José",
-  "actualizado": "2026-09-14T14:48:30.888Z",
+  "actualizado": "2026-09-14T16:40:55.271Z",
   "movimientos": [
     {
       "id": 1787663644087,
@@ -4118,6 +4118,32 @@
       "referencia": "851",
       "categoria": "Sin categoría",
       "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1789397324765,
+      "tipo": "salida",
+      "fecha": "2026-09-14",
+      "producto": "Isopo de baño 1800",
+      "cantidad": 5,
+      "unidad": "piezas",
+      "referencia": "720",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1789402484623,
+      "tipo": "transferencia",
+      "fecha": "2026-09-14",
+      "producto": "Expansor mecánico M8 10mm",
+      "cantidad": 800,
+      "unidad": "",
+      "referencia": "107",
+      "categoria": "Sin categoría",
+      "origen": "Almacén Principal",
+      "destino": "Piso de Venta",
+      "observaciones": "Transferencia: Almacén Principal → Piso de Venta",
       "registradoPor": ""
     }
   ]
