@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-13T03:53:20.048Z",
+  "actualizado": "2026-09-14T12:15:22.349Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -5595,7 +5595,7 @@
     },
     {
       "nombre": "Bomba de Aire",
-      "sku": "PROD-0006",
+      "sku": "848",
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
@@ -5611,7 +5611,7 @@
     },
     {
       "nombre": "Pintura en spray Blanco Mate",
-      "sku": "PROD-0008",
+      "sku": "850",
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "",
@@ -5884,7 +5884,7 @@
     },
     {
       "nombre": "Cinta 5mts 1200$",
-      "sku": "422",
+      "sku": "629",
       "cantidad": 252
     },
     {
@@ -9555,6 +9555,6 @@
     }
   ],
   "etiquetas": {
-    "productos": "Almacén del Piso de Venta"
+    "productos": "Almacén de Piso de Venta"
   }
 }
