@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-15T18:51:38.880Z",
+  "actualizado": "2026-09-15T19:27:27.896Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -247,7 +247,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": 25
+      "stock": 15
     },
     {
       "nombre": "Barra de silicona",
@@ -687,7 +687,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": 20
+      "stock": 0
     },
     {
       "nombre": "Brocha 1\"",
@@ -783,7 +783,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": 20
+      "stock": 15
     },
     {
       "nombre": "Cable 12 cobre",
@@ -1847,7 +1847,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": 7200
+      "stock": 6600
     },
     {
       "nombre": "Disco de sierra madera 180mm",
@@ -2439,7 +2439,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": 15
+      "stock": 0
     },
     {
       "nombre": "Jarra plásticas sola",
@@ -3447,7 +3447,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": 7
+      "stock": 4
     },
     {
       "nombre": "Olla de presión 3 válvulas 5.5lts",
@@ -3711,7 +3711,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "",
-      "stock": 54
+      "stock": 18
     },
     {
       "nombre": "Pintura 1/litro blanco",
@@ -3719,7 +3719,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "",
-      "stock": 18
+      "stock": 0
     },
     {
       "nombre": "Pintura 1/litro caoba",
@@ -4143,7 +4143,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "",
-      "stock": 108
+      "stock": 88
     },
     {
       "nombre": "Protector 220 simple/entrada 15A",
@@ -4439,7 +4439,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "",
-      "stock": 20
+      "stock": 0
     },
     {
       "nombre": "Sifa de vaso",
@@ -4591,7 +4591,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "",
-      "stock": 10
+      "stock": 5
     },
     {
       "nombre": "Taladro Saco",
@@ -4895,7 +4895,7 @@
       "categoria": "Sin categoría",
       "unidad": "cajas",
       "ubicacion": "",
-      "stock": 11600
+      "stock": 0
     },
     {
       "nombre": "Tornillo rosca chapa 1\" 10mm",
@@ -5031,7 +5031,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "",
-      "stock": 6
+      "stock": 3
     },
     {
       "nombre": "Úla Úla ula",
@@ -5167,7 +5167,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "",
-      "stock": 8
+      "stock": 0
     },
     {
       "nombre": "Ventilador recargable 16\" pie",
@@ -7987,7 +7987,7 @@
     {
       "nombre": "Olla de presión 3 válvulas 4lts",
       "sku": "250",
-      "cantidad": 1
+      "cantidad": 4
     },
     {
       "nombre": "Pala 4500$",
@@ -8262,17 +8262,17 @@
     {
       "nombre": "Taladro Coofix",
       "sku": "414",
-      "cantidad": 5
+      "cantidad": 10
     },
     {
       "nombre": "Turbina 1/2 HP",
       "sku": "602",
-      "cantidad": 5
+      "cantidad": 8
     },
     {
       "nombre": "Ventilador de pie ciclón 18\"",
       "sku": "88",
-      "cantidad": 5
+      "cantidad": 13
     },
     {
       "nombre": "Batidora licuadora 2 en 1",
@@ -8512,7 +8512,7 @@
     {
       "nombre": "Cable 12 aluminio",
       "sku": "231",
-      "cantidad": 6
+      "cantidad": 11
     },
     {
       "nombre": "Batidora Estelectric",
@@ -8592,7 +8592,7 @@
     {
       "nombre": "Isopo de baño 1800",
       "sku": "720",
-      "cantidad": 13
+      "cantidad": 28
     },
     {
       "nombre": "Juego de cubo proefix de 46pcs rojo",
@@ -8622,7 +8622,7 @@
     {
       "nombre": "Bañadera de bebé",
       "sku": "495",
-      "cantidad": 14
+      "cantidad": 24
     },
     {
       "nombre": "Breker 25A doble AC",
@@ -8782,7 +8782,7 @@
     {
       "nombre": "Pintura 1/litro barniz",
       "sku": "441",
-      "cantidad": 20
+      "cantidad": 56
     },
     {
       "nombre": "Anilla 3/4",
@@ -8812,7 +8812,7 @@
     {
       "nombre": "Protector 110vol 20A",
       "sku": "261",
-      "cantidad": 21
+      "cantidad": 41
     },
     {
       "nombre": "PVC 250ml",
@@ -8867,7 +8867,7 @@
     {
       "nombre": "Sifa de piso poseta",
       "sku": "56",
-      "cantidad": 24
+      "cantidad": 44
     },
     {
       "nombre": "Unión universal 3/4\"",
@@ -8912,7 +8912,7 @@
     {
       "nombre": "Brida 4.8x400mm",
       "sku": "417",
-      "cantidad": 27
+      "cantidad": 47
     },
     {
       "nombre": "Reflector led 50watts",
@@ -9182,7 +9182,7 @@
     {
       "nombre": "Pintura 1/litro blanco",
       "sku": "381",
-      "cantidad": 58
+      "cantidad": 76
     },
     {
       "nombre": "Reducido 3/4-1/2",
@@ -9357,7 +9357,7 @@
     {
       "nombre": "Disco de corte superfuerza 125mm",
       "sku": "318",
-      "cantidad": 226
+      "cantidad": 826
     },
     {
       "nombre": "Cable 16 cobre",
@@ -9457,7 +9457,7 @@
     {
       "nombre": "Tornillo MM 1/2\" SPC cajita de 560",
       "sku": "465",
-      "cantidad": 4756
+      "cantidad": 16356
     },
     {
       "nombre": "Varilla de techo",
