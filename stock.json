@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-15T19:27:27.896Z",
+  "actualizado": "2026-09-15T21:28:00.949Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -1959,7 +1959,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": 150
+      "stock": 145
     },
     {
       "nombre": "Escuadra angulo plana",
@@ -8797,7 +8797,7 @@
     {
       "nombre": "Escobillón 1400",
       "sku": "742",
-      "cantidad": 21
+      "cantidad": 26
     },
     {
       "nombre": "Extensión 9 fts",
