@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-16T18:07:16.196Z",
+  "actualizado": "2026-09-16T18:08:04.315Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -4807,7 +4807,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Baño",
-      "stock": 120
+      "stock": 40
     },
     {
       "nombre": "Toma criollo baquelita",
@@ -9037,7 +9037,7 @@
     {
       "nombre": "Toma corriente universal",
       "sku": "36",
-      "cantidad": 35
+      "cantidad": 115
     },
     {
       "nombre": "Interruptor sencillo original",
