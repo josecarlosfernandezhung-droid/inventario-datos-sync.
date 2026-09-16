@@ -1,6 +1,6 @@
 {
   "dispositivo": "José",
-  "actualizado": "2026-09-16T20:44:22.249Z",
+  "actualizado": "2026-09-16T20:49:27.447Z",
   "movimientos": [
     {
       "id": 1787663644087,
@@ -4632,6 +4632,18 @@
       "fecha": "2026-09-16",
       "producto": "Pintura Barniz en Spray",
       "cantidad": 12,
+      "unidad": "piezas",
+      "referencia": "851",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": "José"
+    },
+    {
+      "id": 1789591466948,
+      "tipo": "salida",
+      "fecha": "2026-09-16",
+      "producto": "Pintura Barniz en Spray",
+      "cantidad": 24,
       "unidad": "piezas",
       "referencia": "851",
       "categoria": "Sin categoría",
