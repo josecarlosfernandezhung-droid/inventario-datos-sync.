@@ -1,6 +1,6 @@
 {
   "dispositivo": "José",
-  "actualizado": "2026-09-16T14:58:22.186Z",
+  "actualizado": "2026-09-16T17:27:01.260Z",
   "movimientos": [
     {
       "id": 1787663644087,
@@ -4526,6 +4526,30 @@
       "cantidad": 3,
       "unidad": "piezas",
       "referencia": "80",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1789570711761,
+      "tipo": "salida",
+      "fecha": "2026-09-16",
+      "producto": "Maquina de Soldar",
+      "cantidad": 1,
+      "unidad": "piezas",
+      "referencia": "307",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1789574486347,
+      "tipo": "salida",
+      "fecha": "2026-09-16",
+      "producto": "Pala 4500$",
+      "cantidad": 2,
+      "unidad": "piezas",
+      "referencia": "583",
       "categoria": "Sin categoría",
       "observaciones": "Transferencia a piso de venta",
       "registradoPor": ""
