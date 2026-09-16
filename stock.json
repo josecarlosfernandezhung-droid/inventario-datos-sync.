@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-16T17:57:45.707Z",
+  "actualizado": "2026-09-16T18:06:08.037Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -295,7 +295,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": 420
+      "stock": 360
     },
     {
       "nombre": "Base de tv 14\"-55\" giratoria",
@@ -5015,7 +5015,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Baño",
-      "stock": 175
+      "stock": 150
     },
     {
       "nombre": "Turbina 1 HP",
@@ -8527,7 +8527,7 @@
     {
       "nombre": "Base de 20 sencilla",
       "sku": "158",
-      "cantidad": 33
+      "cantidad": 93
     },
     {
       "nombre": "Base de 20 doble",
@@ -8992,7 +8992,7 @@
     {
       "nombre": "Tubo led 40/ 2 polo",
       "sku": "154",
-      "cantidad": 31
+      "cantidad": 56
     },
     {
       "nombre": "Interruptor doble",
