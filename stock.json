@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-16T18:06:08.037Z",
+  "actualizado": "2026-09-16T18:07:16.196Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -1991,7 +1991,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Baño",
-      "stock": 30
+      "stock": 0
     },
     {
       "nombre": "Esponja fregar",
@@ -9057,7 +9057,7 @@
     {
       "nombre": "Espiga",
       "sku": "39",
-      "cantidad": 38
+      "cantidad": 68
     },
     {
       "nombre": "Bussin 3/4-1/2\"",
