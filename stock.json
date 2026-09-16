@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-16T14:41:50.727Z",
+  "actualizado": "2026-09-16T14:58:31.773Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -5591,7 +5591,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "",
-      "stock": 2
+      "stock": 1
     },
     {
       "nombre": "Bomba de Aire",
@@ -7977,7 +7977,7 @@
     {
       "nombre": "Maquina de Soldar",
       "sku": "307",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "nombre": "Olla arrocera 3lts IMPUD",
