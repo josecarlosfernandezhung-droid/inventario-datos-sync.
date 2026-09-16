@@ -1,6 +1,6 @@
 {
   "dispositivo": "José",
-  "actualizado": "2026-09-16T13:35:01.108Z",
+  "actualizado": "2026-09-16T14:58:22.186Z",
   "movimientos": [
     {
       "id": 1787663644087,
@@ -4504,6 +4504,30 @@
       "referencia": "803",
       "categoria": "Sin categoría",
       "observaciones": "",
+      "registradoPor": ""
+    },
+    {
+      "id": 1789565706676,
+      "tipo": "salida",
+      "fecha": "2026-09-16",
+      "producto": "Casco criollo",
+      "cantidad": 5,
+      "unidad": "piezas",
+      "referencia": "534",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1789565748460,
+      "tipo": "salida",
+      "fecha": "2026-09-16",
+      "producto": "Olla multipropósito/reina 90min-6lts Esteletric",
+      "cantidad": 3,
+      "unidad": "piezas",
+      "referencia": "80",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
       "registradoPor": ""
     }
   ]
