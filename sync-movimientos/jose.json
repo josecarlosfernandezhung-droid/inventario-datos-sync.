@@ -1,6 +1,6 @@
 {
   "dispositivo": "José",
-  "actualizado": "2026-09-16T19:46:10.874Z",
+  "actualizado": "2026-09-16T20:27:13.398Z",
   "movimientos": [
     {
       "id": 1787663644087,
@@ -4610,6 +4610,30 @@
       "cantidad": 200,
       "unidad": "piezas",
       "referencia": "266",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": "José"
+    },
+    {
+      "id": 1789587984430,
+      "tipo": "salida",
+      "fecha": "2026-09-16",
+      "producto": "Cuello ganso flexible a la pared",
+      "cantidad": 4,
+      "unidad": "piezas",
+      "referencia": "288",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": "José"
+    },
+    {
+      "id": 1789590213741,
+      "tipo": "salida",
+      "fecha": "2026-09-16",
+      "producto": "Pintura Barniz en Spray",
+      "cantidad": 12,
+      "unidad": "piezas",
+      "referencia": "851",
       "categoria": "Sin categoría",
       "observaciones": "Transferencia a piso de venta",
       "registradoPor": "José"
