@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-16T20:28:59.272Z",
+  "actualizado": "2026-09-16T20:44:26.962Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -5623,7 +5623,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": 24
+      "stock": 0
     }
   ],
   "almacenPrincipal": [
@@ -8497,7 +8497,7 @@
     {
       "nombre": "Pintura Barniz en Spray",
       "sku": "851",
-      "cantidad": 22
+      "cantidad": 46
     },
     {
       "nombre": "Pintura en spray Blanco Mate",
