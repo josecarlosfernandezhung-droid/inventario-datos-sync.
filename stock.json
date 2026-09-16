@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-16T19:08:37.278Z",
+  "actualizado": "2026-09-16T19:41:54.671Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -911,7 +911,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": -5
+      "stock": 0
     },
     {
       "nombre": "Cajita 4x4",
@@ -5575,7 +5575,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Baño",
-      "stock": 10
+      "stock": 5
     },
     {
       "nombre": "Olla Arrocera de 1.5L",
@@ -8192,7 +8192,7 @@
     {
       "nombre": "Batidora licuadora 2 en 1",
       "sku": "845",
-      "cantidad": 4
+      "cantidad": 9
     },
     {
       "nombre": "Capacitor",
@@ -9357,7 +9357,7 @@
     {
       "nombre": "Cajita 4x2",
       "sku": "266",
-      "cantidad": 226
+      "cantidad": 426
     },
     {
       "nombre": "Lapicero blanco",
