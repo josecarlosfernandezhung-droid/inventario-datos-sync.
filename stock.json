@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-15T21:34:23.616Z",
+  "actualizado": "2026-09-16T13:11:21.053Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -3879,7 +3879,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": 60
+      "stock": 36
     },
     {
       "nombre": "Pintura spray cromado",
@@ -5354,12 +5354,12 @@
       "stock": 24
     },
     {
-      "nombre": "Toma corriente sencillo",
+      "nombre": "Toma corriente sencillo 20A",
       "sku": "803",
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "",
-      "stock": 0
+      "stock": 150
     },
     {
       "nombre": "Vaso plástico",
@@ -8757,7 +8757,7 @@
     {
       "nombre": "Pintura spray azul diamond brillante proefix",
       "sku": "391",
-      "cantidad": 19
+      "cantidad": 43
     },
     {
       "nombre": "Tornillo M6 3\" 75mm",
