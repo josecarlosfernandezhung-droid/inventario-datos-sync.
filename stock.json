@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-16T19:41:54.671Z",
+  "actualizado": "2026-09-16T20:27:10.695Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -1759,7 +1759,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": 16
+      "stock": 12
     },
     {
       "nombre": "Cuello ganso flexible abajo",
@@ -5623,7 +5623,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": 36
+      "stock": 24
     }
   ],
   "almacenPrincipal": [
@@ -8362,7 +8362,7 @@
     {
       "nombre": "Cuello ganso flexible a la pared",
       "sku": "288",
-      "cantidad": 7
+      "cantidad": 11
     },
     {
       "nombre": "Fogón de petroleo",
@@ -8497,7 +8497,7 @@
     {
       "nombre": "Pintura Barniz en Spray",
       "sku": "851",
-      "cantidad": 10
+      "cantidad": 22
     },
     {
       "nombre": "Pintura en spray Blanco Mate",
