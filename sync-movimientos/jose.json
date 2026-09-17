@@ -1,6 +1,6 @@
 {
   "dispositivo": "José",
-  "actualizado": "2026-09-17T01:25:07.385Z",
+  "actualizado": "2026-09-17T21:52:38.379Z",
   "movimientos": [
     {
       "id": 1787663644087,
@@ -4646,6 +4646,30 @@
       "cantidad": 24,
       "unidad": "piezas",
       "referencia": "851",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": "José"
+    },
+    {
+      "id": 1789678265508,
+      "tipo": "salida",
+      "fecha": "2026-09-17",
+      "producto": "Canaletas fina",
+      "cantidad": 60,
+      "unidad": "piezas",
+      "referencia": "364",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": "José"
+    },
+    {
+      "id": 1789678693706,
+      "tipo": "salida",
+      "fecha": "2026-09-17",
+      "producto": "Mando universal",
+      "cantidad": 20,
+      "unidad": "piezas",
+      "referencia": "180",
       "categoria": "Sin categoría",
       "observaciones": "Transferencia a piso de venta",
       "registradoPor": "José"
