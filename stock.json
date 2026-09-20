@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-20T02:57:12.130Z",
+  "actualizado": "2026-09-20T02:58:19.668Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -5640,14 +5640,6 @@
       "unidad": "piezas",
       "ubicacion": "",
       "stock": 0
-    },
-    {
-      "nombre": "Pala",
-      "sku": "347",
-      "categoria": "Sin categoría",
-      "unidad": "piezas",
-      "ubicacion": "",
-      "stock": 10
     },
     {
       "nombre": "Pintura spray blanco brillante",
