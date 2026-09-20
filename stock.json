@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-20T02:55:18.520Z",
+  "actualizado": "2026-09-20T02:57:12.130Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -5640,14 +5640,6 @@
       "unidad": "piezas",
       "ubicacion": "",
       "stock": 0
-    },
-    {
-      "nombre": "Isopo de baño",
-      "sku": "352",
-      "categoria": "Sin categoría",
-      "unidad": "piezas",
-      "ubicacion": "",
-      "stock": 24
     },
     {
       "nombre": "Pala",
