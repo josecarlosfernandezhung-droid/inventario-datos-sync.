@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-20T02:47:17.928Z",
+  "actualizado": "2026-09-20T02:49:47.293Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -5624,6 +5624,46 @@
       "unidad": "piezas",
       "ubicacion": "Lavadero",
       "stock": 0
+    },
+    {
+      "nombre": "Cable 14 x metros",
+      "sku": "852",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "",
+      "stock": 0
+    },
+    {
+      "nombre": "Cajita decodificadora TV",
+      "sku": "847",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "",
+      "stock": 0
+    },
+    {
+      "nombre": "Isopo de baño",
+      "sku": "352",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "",
+      "stock": 24
+    },
+    {
+      "nombre": "Pala",
+      "sku": "347",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "",
+      "stock": 10
+    },
+    {
+      "nombre": "Pintura spray blanco brillante",
+      "sku": "849",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "",
+      "stock": 0
     }
   ],
   "almacenPrincipal": [
@@ -6050,9 +6090,19 @@
       "cantidad": -73
     },
     {
+      "nombre": "Isopo de baño",
+      "sku": "352",
+      "cantidad": -24
+    },
+    {
       "nombre": "Silicona de cristal",
       "sku": "177",
       "cantidad": -24
+    },
+    {
+      "nombre": "Pala",
+      "sku": "347",
+      "cantidad": -10
     },
     {
       "nombre": "PVC 500gr azul",
@@ -6327,6 +6377,11 @@
     {
       "nombre": "Cable 12 cobre",
       "sku": "749",
+      "cantidad": 0
+    },
+    {
+      "nombre": "Cable 14 x metros",
+      "sku": "852",
       "cantidad": 0
     },
     {
@@ -7535,6 +7590,11 @@
       "cantidad": 0
     },
     {
+      "nombre": "Pintura spray blanco brillante",
+      "sku": "849",
+      "cantidad": 0
+    },
+    {
       "nombre": "Pintura spray dorado",
       "sku": "738",
       "cantidad": 0
@@ -8592,6 +8652,11 @@
     {
       "nombre": "Breker 25A doble AC",
       "sku": "746",
+      "cantidad": 13
+    },
+    {
+      "nombre": "Cajita decodificadora TV",
+      "sku": "847",
       "cantidad": 13
     },
     {
