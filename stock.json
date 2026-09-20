@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-20T02:49:47.293Z",
+  "actualizado": "2026-09-20T02:54:32.279Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -5660,6 +5660,70 @@
     {
       "nombre": "Pintura spray blanco brillante",
       "sku": "849",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "",
+      "stock": 0
+    },
+    {
+      "nombre": "Bicicleta electrica",
+      "sku": "859",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "",
+      "stock": 0
+    },
+    {
+      "nombre": "Cable fotovoltaico calibre 10 x metro",
+      "sku": "854",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "",
+      "stock": 0
+    },
+    {
+      "nombre": "Cubo plastico para pintar",
+      "sku": "860",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "",
+      "stock": 0
+    },
+    {
+      "nombre": "Expansor mecanico m10",
+      "sku": "855",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "",
+      "stock": 0
+    },
+    {
+      "nombre": "Plastik loka",
+      "sku": "858",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "",
+      "stock": 0
+    },
+    {
+      "nombre": "Rollo lija",
+      "sku": "853",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "",
+      "stock": 0
+    },
+    {
+      "nombre": "Tornillo allen",
+      "sku": "856",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "",
+      "stock": 0
+    },
+    {
+      "nombre": "Ventilador recargable F60 robotico",
+      "sku": "857",
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "",
