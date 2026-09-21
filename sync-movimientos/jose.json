@@ -1,6 +1,6 @@
 {
   "dispositivo": "José",
-  "actualizado": "2026-09-21T21:02:16.558Z",
+  "actualizado": "2026-09-21T21:15:05.003Z",
   "movimientos": [
     {
       "id": 1787663644087,
@@ -5118,6 +5118,20 @@
       "referencia": "534",
       "categoria": "Sin categoría",
       "observaciones": "Transferencia a piso de venta",
+      "registradoPor": "José"
+    },
+    {
+      "id": 1790025300842,
+      "tipo": "transferencia",
+      "fecha": "2026-09-21",
+      "producto": "Set de destornilladores MAXI pareja",
+      "cantidad": 10,
+      "unidad": "piezas",
+      "referencia": "468",
+      "categoria": "Sin categoría",
+      "origen": "Almacén Principal",
+      "destino": "Almacén Punto de Venta",
+      "observaciones": "Transferencia: Almacén Principal → Almacén Punto de Venta",
       "registradoPor": "José"
     }
   ]
