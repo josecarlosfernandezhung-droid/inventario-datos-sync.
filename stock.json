@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-21T14:55:40.160Z",
+  "actualizado": "2026-09-21T17:16:12.647Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -6108,25 +6108,20 @@
     {
       "nombre": "Manguera de gas",
       "sku": "238",
-      "cantidad": 60
+      "cantidad": 50
     },
     {
       "nombre": "Resistencia eléctrica 4 vueltas",
       "sku": "71",
       "cantidad": 100
+    },
+    {
+      "nombre": "Cinta 5 mts",
+      "sku": "629",
+      "cantidad": 252
     }
   ],
   "pisoVenta": [
-    {
-      "nombre": "Isopo de baño",
-      "sku": "352",
-      "cantidad": -24
-    },
-    {
-      "nombre": "Pala",
-      "sku": "347",
-      "cantidad": -10
-    },
     {
       "nombre": "Afilador de cuchillo",
       "sku": "278",
@@ -6536,11 +6531,6 @@
       "nombre": "Cartera bandolero",
       "sku": "652",
       "cantidad": 0
-    },
-    {
-      "nombre": "Casco criollo",
-      "sku": "534",
-      "cantidad": 10
     },
     {
       "nombre": "Casco criollo vicera",
@@ -7983,6 +7973,11 @@
       "cantidad": 0
     },
     {
+      "nombre": "Tubo led 40/ 1polo",
+      "sku": "155",
+      "cantidad": 0
+    },
+    {
       "nombre": "Turbina 1 HP",
       "sku": "415",
       "cantidad": 0
@@ -8418,11 +8413,6 @@
       "cantidad": 4
     },
     {
-      "nombre": "Tubo led 40/ 1polo",
-      "sku": "155",
-      "cantidad": 4
-    },
-    {
       "nombre": "Anafre grande",
       "sku": "445",
       "cantidad": 5
@@ -8611,6 +8601,11 @@
       "nombre": "Reflector led 100watts",
       "sku": "737",
       "cantidad": 9
+    },
+    {
+      "nombre": "Casco criollo",
+      "sku": "534",
+      "cantidad": 10
     },
     {
       "nombre": "Mochila",
@@ -9278,14 +9273,14 @@
       "cantidad": 53
     },
     {
-      "nombre": "Tubo led 40/ 2 polo",
-      "sku": "154",
-      "cantidad": 53
-    },
-    {
       "nombre": "Manguera corrugada",
       "sku": "310",
       "cantidad": 55
+    },
+    {
+      "nombre": "Tubo led 40/ 2 polo",
+      "sku": "154",
+      "cantidad": 57
     },
     {
       "nombre": "Canaletas fina",
@@ -9713,6 +9708,31 @@
           "nombre": "Pintura spray verde",
           "sku": "507",
           "cantidad": 288
+        },
+        {
+          "nombre": "Base de 20 sencilla",
+          "sku": "158",
+          "cantidad": 120
+        },
+        {
+          "nombre": "Olla arrocera 1.5lts",
+          "sku": "846",
+          "cantidad": 36
+        },
+        {
+          "nombre": "Resistencia eléctrica 4 vueltas",
+          "sku": "71",
+          "cantidad": 50
+        },
+        {
+          "nombre": "Tubo de 20 led",
+          "sku": "157",
+          "cantidad": 210
+        },
+        {
+          "nombre": "Tubo led 40/ 2 polo",
+          "sku": "154",
+          "cantidad": 75
         }
       ]
     }
