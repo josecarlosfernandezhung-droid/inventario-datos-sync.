@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-21T14:54:34.124Z",
+  "actualizado": "2026-09-21T14:55:40.160Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -1119,7 +1119,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": 145
+      "stock": 135
     },
     {
       "nombre": "Casco criollo vicera",
@@ -6540,7 +6540,7 @@
     {
       "nombre": "Casco criollo",
       "sku": "534",
-      "cantidad": 0
+      "cantidad": 10
     },
     {
       "nombre": "Casco criollo vicera",
