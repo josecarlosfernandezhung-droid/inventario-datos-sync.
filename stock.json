@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-21T21:15:01.955Z",
+  "actualizado": "2026-09-21T21:29:51.765Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -687,7 +687,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": 0
+      "stock": 30
     },
     {
       "nombre": "Brocha 1\"",
@@ -1367,7 +1367,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "",
-      "stock": 0
+      "stock": 24
     },
     {
       "nombre": "Cinta 5mts 1000$",
@@ -1991,7 +1991,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Baño",
-      "stock": 0
+      "stock": 300
     },
     {
       "nombre": "Esponja fregar",
@@ -2159,7 +2159,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "",
-      "stock": 0
+      "stock": 20
     },
     {
       "nombre": "Extensión 5mts regleta",
@@ -2183,7 +2183,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "",
-      "stock": 0
+      "stock": 20
     },
     {
       "nombre": "Extensión de 20mts simple",
@@ -3127,7 +3127,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "",
-      "stock": 0
+      "stock": 20
     },
     {
       "nombre": "Llave paso 1/2 métalica",
@@ -3215,7 +3215,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "",
-      "stock": 0
+      "stock": 20
     },
     {
       "nombre": "Llavín picaporte sin llave",
@@ -4063,7 +4063,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "",
-      "stock": 0
+      "stock": 30
     },
     {
       "nombre": "Pluma plástica de jardín 1/2 zapatilla",
@@ -4439,7 +4439,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "",
-      "stock": 0
+      "stock": 20
     },
     {
       "nombre": "Sifa de vaso",
@@ -4463,7 +4463,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": 5
+      "stock": 25
     },
     {
       "nombre": "Silicona de alta temperatura 700",
@@ -4503,7 +4503,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "",
-      "stock": 0
+      "stock": 60
     },
     {
       "nombre": "Sócalo redondo",
@@ -4807,7 +4807,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Baño",
-      "stock": 0
+      "stock": 200
     },
     {
       "nombre": "Toma criollo baquelita",
@@ -5119,7 +5119,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "",
-      "stock": 0
+      "stock": 195
     },
     {
       "nombre": "Vela pequeña 4/unidades",
@@ -5813,7 +5813,7 @@
     {
       "nombre": "Llavín picaporte",
       "sku": "128",
-      "cantidad": 40
+      "cantidad": 20
     },
     {
       "nombre": "Candado anti-sisalla 70mm",
@@ -5853,7 +5853,7 @@
     {
       "nombre": "Llave lavamano zapatilla",
       "sku": "567",
-      "cantidad": 34
+      "cantidad": 14
     },
     {
       "nombre": "Cheque de plástico 1\"",
@@ -5863,7 +5863,7 @@
     {
       "nombre": "Extensión 9 fts",
       "sku": "719",
-      "cantidad": 40
+      "cantidad": 20
     },
     {
       "nombre": "PVC 250ml",
@@ -5888,7 +5888,7 @@
     {
       "nombre": "Pluma plástica de jardín 1/2 tiro rápido",
       "sku": "60",
-      "cantidad": 100
+      "cantidad": 70
     },
     {
       "nombre": "Aragán",
@@ -5913,7 +5913,7 @@
     {
       "nombre": "Brida 4.8x400mm",
       "sku": "417",
-      "cantidad": 50
+      "cantidad": 20
     },
     {
       "nombre": "Cinta 3mts",
@@ -5923,12 +5923,12 @@
     {
       "nombre": "Espiga",
       "sku": "39",
-      "cantidad": 320
+      "cantidad": 20
     },
     {
       "nombre": "Sifa de piso poseta",
       "sku": "56",
-      "cantidad": 135
+      "cantidad": 115
     },
     {
       "nombre": "Lima 900",
@@ -5938,7 +5938,7 @@
     {
       "nombre": "Sifa fregadero flexible boca chica",
       "sku": "340",
-      "cantidad": 130
+      "cantidad": 110
     },
     {
       "nombre": "Brekera 2 posiciones",
@@ -5988,7 +5988,7 @@
     {
       "nombre": "Sócalo de bombillo normal",
       "sku": "138",
-      "cantidad": 320
+      "cantidad": 260
     },
     {
       "nombre": "Interruptor sencillo palanca",
@@ -5998,7 +5998,7 @@
     {
       "nombre": "Toma corriente universal",
       "sku": "36",
-      "cantidad": 200
+      "cantidad": 0
     },
     {
       "nombre": "Lima",
@@ -6018,7 +6018,7 @@
     {
       "nombre": "Vela grande 8/unidades",
       "sku": "47",
-      "cantidad": 390
+      "cantidad": 195
     },
     {
       "nombre": "Precinta transparente",
@@ -6103,7 +6103,7 @@
     {
       "nombre": "Extensión de 3m Regleta",
       "sku": "21",
-      "cantidad": 40
+      "cantidad": 20
     },
     {
       "nombre": "Manguera de gas",
@@ -6118,7 +6118,7 @@
     {
       "nombre": "Cinta 5 mts",
       "sku": "629",
-      "cantidad": 252
+      "cantidad": 228
     }
   ],
   "pisoVenta": [
