@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-21T21:02:01.484Z",
+  "actualizado": "2026-09-21T21:15:01.955Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -4367,7 +4367,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "",
-      "stock": 0
+      "stock": 10
     },
     {
       "nombre": "Set de destornilladores SEAL pareja",
@@ -5843,7 +5843,7 @@
     {
       "nombre": "Set de destornilladores MAXI pareja",
       "sku": "468",
-      "cantidad": 30
+      "cantidad": 20
     },
     {
       "nombre": "Disco de sierra madera115mm",
