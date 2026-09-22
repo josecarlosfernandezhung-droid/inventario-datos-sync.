@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-22T14:49:49.687Z",
+  "actualizado": "2026-09-22T14:53:54.709Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -327,7 +327,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": 50
+      "stock": 30
     },
     {
       "nombre": "Batería 10/kwh Lithium valley",
@@ -8950,7 +8950,7 @@
     {
       "nombre": "Bases de resistencia de aluminio",
       "sku": "207",
-      "cantidad": 22
+      "cantidad": 42
     },
     {
       "nombre": "Disco tungsteno 115mm liso",
