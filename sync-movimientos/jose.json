@@ -1,6 +1,6 @@
 {
   "dispositivo": "José",
-  "actualizado": "2026-09-22T14:49:56.367Z",
+  "actualizado": "2026-09-22T14:54:03.766Z",
   "movimientos": [
     {
       "id": 1787663644087,
@@ -5314,6 +5314,18 @@
       "origen": "Almacén Principal",
       "destino": "Almacén Punto de Venta",
       "observaciones": "Transferencia: Almacén Principal → Almacén Punto de Venta",
+      "registradoPor": "José"
+    },
+    {
+      "id": 1790088616083,
+      "tipo": "salida",
+      "fecha": "2026-09-22",
+      "producto": "Bases de resistencia de aluminio",
+      "cantidad": 20,
+      "unidad": "piezas",
+      "referencia": "207",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
       "registradoPor": "José"
     }
   ]
