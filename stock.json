@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-22T14:53:54.709Z",
+  "actualizado": "2026-09-22T15:10:15.584Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -783,7 +783,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": 15
+      "stock": 10
     },
     {
       "nombre": "Cable 12 cobre",
@@ -1247,7 +1247,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": 10
+      "stock": 0
     },
     {
       "nombre": "Cesta de compra",
@@ -1759,7 +1759,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": 12
+      "stock": 0
     },
     {
       "nombre": "Cuello ganso flexible abajo",
@@ -1847,7 +1847,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": 6600
+      "stock": 6000
     },
     {
       "nombre": "Disco de sierra madera 180mm",
@@ -2255,7 +2255,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "",
-      "stock": 6
+      "stock": 0
     },
     {
       "nombre": "Forro mueble",
@@ -3487,7 +3487,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Baño",
-      "stock": 3
+      "stock": 1
     },
     {
       "nombre": "Paca nylon cubalse",
@@ -3887,7 +3887,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": 24
+      "stock": 12
     },
     {
       "nombre": "Pintura spray dorado",
@@ -4767,7 +4767,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Baño",
-      "stock": 144
+      "stock": 108
     },
     {
       "nombre": "Toallita cocina",
@@ -5615,7 +5615,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": 36
+      "stock": 24
     },
     {
       "nombre": "Pintura Barniz en Spray",
@@ -8485,7 +8485,7 @@
     {
       "nombre": "Olla multipropósito/reina 90min-6lts Esteletric",
       "sku": "80",
-      "cantidad": 6
+      "cantidad": 8
     },
     {
       "nombre": "Palangana criolla",
@@ -8625,7 +8625,7 @@
     {
       "nombre": "Pintura spray cromado",
       "sku": "506",
-      "cantidad": 10
+      "cantidad": 22
     },
     {
       "nombre": "Plastik loka",
@@ -8650,7 +8650,7 @@
     {
       "nombre": "Cable 12 aluminio",
       "sku": "231",
-      "cantidad": 6
+      "cantidad": 11
     },
     {
       "nombre": "Batidora Estelectric",
@@ -8665,7 +8665,7 @@
     {
       "nombre": "Cerrucho",
       "sku": "201",
-      "cantidad": 11
+      "cantidad": 21
     },
     {
       "nombre": "Codo de 50",
@@ -8675,12 +8675,12 @@
     {
       "nombre": "Cuello ganso flexible a la pared",
       "sku": "288",
-      "cantidad": 11
+      "cantidad": 23
     },
     {
       "nombre": "Fogón de petroleo",
       "sku": "637",
-      "cantidad": 11
+      "cantidad": 17
     },
     {
       "nombre": "Pintura Barniz en Spray",
@@ -8690,7 +8690,7 @@
     {
       "nombre": "Pintura en spray Blanco Mate",
       "sku": "850",
-      "cantidad": 11
+      "cantidad": 23
     },
     {
       "nombre": "Cajita decodificadora TV",
@@ -8865,7 +8865,7 @@
     {
       "nombre": "Toalla húmeda",
       "sku": "655",
-      "cantidad": 17
+      "cantidad": 53
     },
     {
       "nombre": "Bañadera de bebé",
@@ -9510,7 +9510,7 @@
     {
       "nombre": "Disco de corte superfuerza 125mm",
       "sku": "318",
-      "cantidad": 375
+      "cantidad": 975
     },
     {
       "nombre": "Clavo x libra",
