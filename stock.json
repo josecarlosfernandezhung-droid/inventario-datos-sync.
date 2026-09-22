@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-22T15:10:15.584Z",
+  "actualizado": "2026-09-22T15:10:23.005Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -4999,7 +4999,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": 540
+      "stock": 510
     },
     {
       "nombre": "Tubo led 40/ 1polo",
@@ -9295,7 +9295,7 @@
     {
       "nombre": "Tubo de 20 led",
       "sku": "157",
-      "cantidad": 60
+      "cantidad": 90
     },
     {
       "nombre": "Sócalo de bombillo normal",
