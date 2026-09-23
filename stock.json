@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-23T14:11:12.021Z",
+  "actualizado": "2026-09-23T14:41:56.940Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -191,7 +191,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": 35
+      "stock": 25
     },
     {
       "nombre": "Arandela presion 12mm",
@@ -327,7 +327,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": 50
+      "stock": 30
     },
     {
       "nombre": "Batería 10/kwh Lithium valley",
@@ -655,7 +655,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "",
-      "stock": 0
+      "stock": 27
     },
     {
       "nombre": "Brekera combinada 600v/25A",
@@ -783,7 +783,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": 15
+      "stock": 10
     },
     {
       "nombre": "Cable 12 cobre",
@@ -1119,7 +1119,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": 135
+      "stock": 125
     },
     {
       "nombre": "Casco criollo vicera",
@@ -1247,7 +1247,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": 10
+      "stock": 0
     },
     {
       "nombre": "Cesta de compra",
@@ -1759,7 +1759,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": 12
+      "stock": 0
     },
     {
       "nombre": "Cuello ganso flexible abajo",
@@ -1847,7 +1847,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": 6600
+      "stock": 6000
     },
     {
       "nombre": "Disco de sierra madera 180mm",
@@ -1959,7 +1959,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": 135
+      "stock": 100
     },
     {
       "nombre": "Escuadra angulo plana",
@@ -2255,7 +2255,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "",
-      "stock": 6
+      "stock": 12
     },
     {
       "nombre": "Forro mueble",
@@ -3479,7 +3479,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "",
-      "stock": 0
+      "stock": 8
     },
     {
       "nombre": "Olla multipropósito/reina 90min-6lts Esteletric",
@@ -3487,7 +3487,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Baño",
-      "stock": 3
+      "stock": 1
     },
     {
       "nombre": "Paca nylon cubalse",
@@ -3887,7 +3887,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": 24
+      "stock": 12
     },
     {
       "nombre": "Pintura spray dorado",
@@ -3919,7 +3919,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": 24
+      "stock": 72
     },
     {
       "nombre": "Pintura spray verde",
@@ -4487,7 +4487,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "",
-      "stock": 24
+      "stock": 0
     },
     {
       "nombre": "Silicona de spray",
@@ -4767,7 +4767,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Baño",
-      "stock": 144
+      "stock": 108
     },
     {
       "nombre": "Toallita cocina",
@@ -4999,7 +4999,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": 540
+      "stock": 510
     },
     {
       "nombre": "Tubo led 40/ 1polo",
@@ -5119,7 +5119,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "",
-      "stock": 195
+      "stock": 130
     },
     {
       "nombre": "Vela pequeña 4/unidades",
@@ -5375,7 +5375,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": 12
+      "stock": 6
     },
     {
       "nombre": "Tridente",
@@ -5615,7 +5615,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": 36
+      "stock": 24
     },
     {
       "nombre": "Pintura Barniz en Spray",
@@ -7335,7 +7335,7 @@
     {
       "nombre": "Vela grande 8/unidades",
       "sku": "47",
-      "cantidad": 61
+      "cantidad": 126
     },
     {
       "nombre": "T 1\"",
@@ -7670,21 +7670,6 @@
       "icono": "📦",
       "productos": [
         {
-          "nombre": "Varilla de soldar 6013 de 3,2mm 35cm",
-          "sku": "94",
-          "cantidad": 74980
-        },
-        {
-          "nombre": "Base de split",
-          "sku": "833",
-          "cantidad": 32
-        },
-        {
-          "nombre": "Brekera 9 posiciones",
-          "sku": "772",
-          "cantidad": 45
-        },
-        {
           "nombre": "Casco criollo",
           "sku": "534",
           "cantidad": 800
@@ -7692,7 +7677,37 @@
         {
           "nombre": "Fogón de petroleo",
           "sku": "637",
-          "cantidad": 45
+          "cantidad": 30
+        },
+        {
+          "nombre": "Olla arrocera 1.5lts",
+          "sku": "846",
+          "cantidad": 36
+        },
+        {
+          "nombre": "Olla arrocera 1.8 EKO",
+          "sku": "571",
+          "cantidad": 20
+        },
+        {
+          "nombre": "Pintura spray rojo",
+          "sku": "783",
+          "cantidad": 24
+        },
+        {
+          "nombre": "Base de 20 sencilla",
+          "sku": "158",
+          "cantidad": 120
+        },
+        {
+          "nombre": "Tubo de 20 led",
+          "sku": "157",
+          "cantidad": 210
+        },
+        {
+          "nombre": "Tubo led 40",
+          "sku": "154",
+          "cantidad": 75
         },
         {
           "nombre": "Herraje de baño",
@@ -7705,6 +7720,21 @@
           "cantidad": 60
         },
         {
+          "nombre": "Pintura spray verde",
+          "sku": "507",
+          "cantidad": 288
+        },
+        {
+          "nombre": "Silicona de alta temperat",
+          "sku": "479",
+          "cantidad": 144
+        },
+        {
+          "nombre": "Varilla de Soldar 6013 de 3,2mm 35cm",
+          "sku": "94",
+          "cantidad": 74980
+        },
+        {
           "nombre": "Varilla de techo",
           "sku": "314",
           "cantidad": 10000
@@ -7715,59 +7745,14 @@
           "cantidad": 40
         },
         {
-          "nombre": "Olla arrocera 1.8 EKO",
-          "sku": "571",
-          "cantidad": 20
-        },
-        {
-          "nombre": "Olla multipropósito/reina 90min-6lts Esteletric",
+          "nombre": "Olla multipropósito/rein",
           "sku": "80",
-          "cantidad": 18
+          "cantidad": 10
         },
         {
-          "nombre": "Silicona de alta temperatura 700",
-          "sku": "479",
-          "cantidad": 144
-        },
-        {
-          "nombre": "Pintura 1/litro blanco",
-          "sku": "381",
-          "cantidad": 0
-        },
-        {
-          "nombre": "Pintura spray rojo",
-          "sku": "783",
-          "cantidad": 84
-        },
-        {
-          "nombre": "Pintura spray verde",
-          "sku": "507",
-          "cantidad": 288
-        },
-        {
-          "nombre": "Base de 20 sencilla",
-          "sku": "158",
-          "cantidad": 120
-        },
-        {
-          "nombre": "Olla arrocera 1.5lts",
-          "sku": "846",
-          "cantidad": 36
-        },
-        {
-          "nombre": "Resistencia eléctrica 4 vueltas",
+          "nombre": "Resistencia eléctrica 4",
           "sku": "71",
           "cantidad": 50
-        },
-        {
-          "nombre": "Tubo de 20 led",
-          "sku": "157",
-          "cantidad": 210
-        },
-        {
-          "nombre": "Tubo led 40/ 2 polo",
-          "sku": "154",
-          "cantidad": 75
         }
       ]
     }
