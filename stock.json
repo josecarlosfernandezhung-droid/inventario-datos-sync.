@@ -1,11 +1,12 @@
 {
-  "actualizado": "2026-09-23T13:32:10.295Z",
+  "actualizado": "2026-09-23T14:06:01.459Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
       "sku": "716",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -13,6 +14,7 @@
       "sku": "42",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -20,6 +22,7 @@
       "sku": "163",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -27,6 +30,7 @@
       "sku": "278",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -34,6 +38,7 @@
       "sku": "648",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -41,6 +46,7 @@
       "sku": "627",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -48,6 +54,7 @@
       "sku": "650",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -55,6 +62,7 @@
       "sku": "375",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -62,6 +70,7 @@
       "sku": "649",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -69,6 +78,7 @@
       "sku": "793",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -76,6 +86,7 @@
       "sku": "373",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -83,6 +94,7 @@
       "sku": "406",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -90,6 +102,7 @@
       "sku": "403",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -97,6 +110,7 @@
       "sku": "397",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -104,6 +118,7 @@
       "sku": "568",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -111,6 +126,7 @@
       "sku": "688",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -118,6 +134,7 @@
       "sku": "693",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -125,6 +142,7 @@
       "sku": "445",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -132,6 +150,7 @@
       "sku": "370",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "Lavadero",
       "stock": 95
     },
     {
@@ -139,6 +158,7 @@
       "sku": "594",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -146,6 +166,7 @@
       "sku": "617",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "Lavadero",
       "stock": 200
     },
     {
@@ -153,6 +174,7 @@
       "sku": "324",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -160,6 +182,7 @@
       "sku": "658",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -167,13 +190,15 @@
       "sku": "448",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 35
+      "ubicacion": "Lavadero",
+      "stock": 25
     },
     {
       "nombre": "Arandela presion 12mm",
       "sku": "696",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -181,6 +206,7 @@
       "sku": "476",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -188,6 +214,7 @@
       "sku": "432",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -195,6 +222,7 @@
       "sku": "488",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -202,6 +230,7 @@
       "sku": "452",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -209,6 +238,7 @@
       "sku": "487",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -216,6 +246,7 @@
       "sku": "495",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "Lavadero",
       "stock": 15
     },
     {
@@ -223,6 +254,7 @@
       "sku": "209",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -230,6 +262,7 @@
       "sku": "682",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -237,6 +270,7 @@
       "sku": "697",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -244,6 +278,7 @@
       "sku": "225",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -251,6 +286,7 @@
       "sku": "575",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "Lavadero",
       "stock": 60
     },
     {
@@ -258,6 +294,7 @@
       "sku": "158",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "Lavadero",
       "stock": 360
     },
     {
@@ -265,6 +302,7 @@
       "sku": "333",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -272,13 +310,15 @@
       "sku": "19",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -20
+      "ubicacion": "Lavadero",
+      "stock": 20
     },
     {
       "nombre": "Base de tv 26-63 pulgadas",
       "sku": "781",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -286,6 +326,7 @@
       "sku": "207",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "Lavadero",
       "stock": 30
     },
     {
@@ -293,6 +334,7 @@
       "sku": "668",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -300,6 +342,7 @@
       "sku": "645",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -307,6 +350,7 @@
       "sku": "343",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "Baño",
       "stock": 13
     },
     {
@@ -314,6 +358,7 @@
       "sku": "374",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -321,6 +366,7 @@
       "sku": "490",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -328,6 +374,7 @@
       "sku": "294",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -335,6 +382,7 @@
       "sku": "559",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -342,6 +390,7 @@
       "sku": "272",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "Lavadero",
       "stock": 30
     },
     {
@@ -349,6 +398,7 @@
       "sku": "274",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -356,6 +406,7 @@
       "sku": "570",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -363,6 +414,7 @@
       "sku": "646",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -370,6 +422,7 @@
       "sku": "91",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -377,6 +430,7 @@
       "sku": "43",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -384,6 +438,7 @@
       "sku": "191",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -391,6 +446,7 @@
       "sku": "74",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 100
     },
     {
@@ -398,6 +454,7 @@
       "sku": "545",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -405,6 +462,7 @@
       "sku": "72",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -412,6 +470,7 @@
       "sku": "471",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -419,6 +478,7 @@
       "sku": "591",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -426,6 +486,7 @@
       "sku": "220",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -433,6 +494,7 @@
       "sku": "635",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -440,6 +502,7 @@
       "sku": "630",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -447,6 +510,7 @@
       "sku": "38",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -454,6 +518,7 @@
       "sku": "746",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -461,6 +526,7 @@
       "sku": "744",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "Baño",
       "stock": 24
     },
     {
@@ -468,6 +534,7 @@
       "sku": "745",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -475,6 +542,7 @@
       "sku": "779",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -482,6 +550,7 @@
       "sku": "765",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -489,6 +558,7 @@
       "sku": "766",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -496,6 +566,7 @@
       "sku": "759",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -503,6 +574,7 @@
       "sku": "754",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -510,6 +582,7 @@
       "sku": "763",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -517,6 +590,7 @@
       "sku": "762",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -524,6 +598,7 @@
       "sku": "761",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -531,6 +606,7 @@
       "sku": "750",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -538,6 +614,7 @@
       "sku": "773",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -545,6 +622,7 @@
       "sku": "752",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -552,6 +630,7 @@
       "sku": "741",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "Lavadero",
       "stock": 53
     },
     {
@@ -559,6 +638,7 @@
       "sku": "743",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "Baño",
       "stock": 0
     },
     {
@@ -566,6 +646,7 @@
       "sku": "751",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -573,13 +654,15 @@
       "sku": "772",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "ubicacion": "",
+      "stock": 27
     },
     {
       "nombre": "Brekera combinada 600v/25A",
       "sku": "756",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -587,6 +670,7 @@
       "sku": "755",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -594,20 +678,23 @@
       "sku": "531",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -84
+      "ubicacion": "",
+      "stock": 0
     },
     {
       "nombre": "Brida 4.8x400mm",
       "sku": "417",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -170
+      "ubicacion": "Lavadero",
+      "stock": 30
     },
     {
       "nombre": "Brocha 1\"",
       "sku": "118",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "Lavadero",
       "stock": 132
     },
     {
@@ -615,6 +702,7 @@
       "sku": "117",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -622,6 +710,7 @@
       "sku": "116",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "Lavadero",
       "stock": 168
     },
     {
@@ -629,6 +718,7 @@
       "sku": "601",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "Lavadero",
       "stock": 128
     },
     {
@@ -636,6 +726,7 @@
       "sku": "115",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "Lavadero",
       "stock": 36
     },
     {
@@ -643,6 +734,7 @@
       "sku": "96",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -650,6 +742,7 @@
       "sku": "95",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -657,6 +750,7 @@
       "sku": "79",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -664,6 +758,7 @@
       "sku": "234",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "Lavadero",
       "stock": 150
     },
     {
@@ -671,6 +766,7 @@
       "sku": "230",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -678,6 +774,7 @@
       "sku": "748",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 4
     },
     {
@@ -685,13 +782,15 @@
       "sku": "231",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 15
+      "ubicacion": "Lavadero",
+      "stock": 10
     },
     {
       "nombre": "Cable 12 cobre",
       "sku": "749",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -699,6 +798,7 @@
       "sku": "747",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -706,6 +806,7 @@
       "sku": "775",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -713,6 +814,7 @@
       "sku": "770",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -720,6 +822,7 @@
       "sku": "796",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -727,6 +830,7 @@
       "sku": "764",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -734,6 +838,7 @@
       "sku": "156",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -741,6 +846,7 @@
       "sku": "152",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "Lavadero",
       "stock": 6
     },
     {
@@ -748,6 +854,7 @@
       "sku": "368",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -755,6 +862,7 @@
       "sku": "582",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -762,6 +870,7 @@
       "sku": "237",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -769,6 +878,7 @@
       "sku": "109",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -776,6 +886,7 @@
       "sku": "229",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -783,6 +894,7 @@
       "sku": "227",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -790,6 +902,7 @@
       "sku": "16",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -797,13 +910,15 @@
       "sku": "266",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -205
+      "ubicacion": "Lavadero",
+      "stock": 0
     },
     {
       "nombre": "Cajita 4x4",
       "sku": "93",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "Lavadero",
       "stock": 100
     },
     {
@@ -811,6 +926,7 @@
       "sku": "708",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -818,6 +934,7 @@
       "sku": "376",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -825,6 +942,7 @@
       "sku": "165",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -832,6 +950,7 @@
       "sku": "597",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -839,6 +958,7 @@
       "sku": "183",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -846,6 +966,7 @@
       "sku": "618",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -853,6 +974,7 @@
       "sku": "466",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -860,6 +982,7 @@
       "sku": "798",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "Baño",
       "stock": 240
     },
     {
@@ -867,6 +990,7 @@
       "sku": "364",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "Baño",
       "stock": 300
     },
     {
@@ -874,6 +998,7 @@
       "sku": "592",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -881,6 +1006,7 @@
       "sku": "67",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -888,6 +1014,7 @@
       "sku": "736",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -895,6 +1022,7 @@
       "sku": "734",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -902,6 +1030,7 @@
       "sku": "739",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -909,6 +1038,7 @@
       "sku": "672",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -916,6 +1046,7 @@
       "sku": "735",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -923,13 +1054,15 @@
       "sku": "774",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -72
+      "ubicacion": "",
+      "stock": 0
     },
     {
       "nombre": "Candado anti-sisalla 80mm",
       "sku": "477",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -937,6 +1070,7 @@
       "sku": "705",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -944,6 +1078,7 @@
       "sku": "724",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -951,6 +1086,7 @@
       "sku": "532",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -958,6 +1094,7 @@
       "sku": "644",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -965,6 +1102,7 @@
       "sku": "85",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -972,6 +1110,7 @@
       "sku": "652",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -979,13 +1118,15 @@
       "sku": "534",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 135
+      "ubicacion": "Lavadero",
+      "stock": 125
     },
     {
       "nombre": "Casco criollo vicera",
       "sku": "664",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -993,6 +1134,7 @@
       "sku": "83",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1000,6 +1142,7 @@
       "sku": "184",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1007,6 +1150,7 @@
       "sku": "489",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1014,6 +1158,7 @@
       "sku": "167",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1021,6 +1166,7 @@
       "sku": "236",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1028,6 +1174,7 @@
       "sku": "141",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1035,6 +1182,7 @@
       "sku": "685",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1042,6 +1190,7 @@
       "sku": "585",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1049,6 +1198,7 @@
       "sku": "548",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1056,6 +1206,7 @@
       "sku": "530",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1063,6 +1214,7 @@
       "sku": "654",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1070,6 +1222,7 @@
       "sku": "351",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1077,6 +1230,7 @@
       "sku": "673",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1084,6 +1238,7 @@
       "sku": "304",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "Lavadero",
       "stock": 24
     },
     {
@@ -1091,13 +1246,15 @@
       "sku": "201",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -10
+      "ubicacion": "Lavadero",
+      "stock": 0
     },
     {
       "nombre": "Cesta de compra",
       "sku": "296",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1105,6 +1262,7 @@
       "sku": "521",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1112,13 +1270,15 @@
       "sku": "408",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -10
+      "ubicacion": "",
+      "stock": 0
     },
     {
       "nombre": "Cesto de basura redondo",
       "sku": "407",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1126,6 +1286,7 @@
       "sku": "349",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1133,6 +1294,7 @@
       "sku": "614",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1140,6 +1302,7 @@
       "sku": "405",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1147,6 +1310,7 @@
       "sku": "446",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1154,6 +1318,7 @@
       "sku": "61",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1161,13 +1326,15 @@
       "sku": "345",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -40
+      "ubicacion": "Lavadero",
+      "stock": 20
     },
     {
       "nombre": "Chirri 2\" fino",
       "sku": "433",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1175,6 +1342,7 @@
       "sku": "431",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1182,6 +1350,7 @@
       "sku": "143",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1189,27 +1358,31 @@
       "sku": "517",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -40
+      "ubicacion": "",
+      "stock": 0
     },
     {
       "nombre": "Cinta 5 mts",
       "sku": "629",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -24
+      "ubicacion": "",
+      "stock": 24
     },
     {
       "nombre": "Cinta 5mts 1000$",
       "sku": "542",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
       "nombre": "Cinta 5mts 1200$",
-      "sku": "422",
+      "sku": "2662y2",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1217,13 +1390,15 @@
       "sku": "205",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -60
+      "ubicacion": "Baño",
+      "stock": 0
     },
     {
       "nombre": "Cinta aluminio split",
       "sku": "160",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1231,6 +1406,7 @@
       "sku": "474",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1238,6 +1414,7 @@
       "sku": "127",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1245,6 +1422,7 @@
       "sku": "620",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1252,6 +1430,7 @@
       "sku": "714",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1259,6 +1438,7 @@
       "sku": "715",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1266,6 +1446,7 @@
       "sku": "740",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1273,6 +1454,7 @@
       "sku": "667",
       "categoria": "Sin categoría",
       "unidad": "cajas",
+      "ubicacion": "Lavadero",
       "stock": 1
     },
     {
@@ -1280,6 +1462,7 @@
       "sku": "541",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1287,6 +1470,7 @@
       "sku": "17",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1294,6 +1478,7 @@
       "sku": "632",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1301,13 +1486,15 @@
       "sku": "194",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -20
+      "ubicacion": "",
+      "stock": 0
     },
     {
       "nombre": "Codo 1/2 - 45 grados",
       "sku": "413",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1315,13 +1502,15 @@
       "sku": "195",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -200
+      "ubicacion": "",
+      "stock": 0
     },
     {
       "nombre": "Codo 3/4\"",
       "sku": "77",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1329,6 +1518,7 @@
       "sku": "411",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1336,13 +1526,15 @@
       "sku": "546",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -60
+      "ubicacion": "",
+      "stock": 0
     },
     {
       "nombre": "Coladera",
       "sku": "358",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1350,6 +1542,7 @@
       "sku": "362",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1357,6 +1550,7 @@
       "sku": "188",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1364,13 +1558,15 @@
       "sku": "634",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -300
+      "ubicacion": "",
+      "stock": 0
     },
     {
       "nombre": "Conector Y",
       "sku": "643",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1378,6 +1574,7 @@
       "sku": "454",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1385,6 +1582,7 @@
       "sku": "728",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1392,6 +1590,7 @@
       "sku": "710",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1399,6 +1598,7 @@
       "sku": "486",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1406,6 +1606,7 @@
       "sku": "356",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1413,6 +1614,7 @@
       "sku": "404",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1420,6 +1622,7 @@
       "sku": "357",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1427,6 +1630,7 @@
       "sku": "387",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1434,6 +1638,7 @@
       "sku": "388",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1441,6 +1646,7 @@
       "sku": "449",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1448,6 +1654,7 @@
       "sku": "434",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1455,6 +1662,7 @@
       "sku": "97",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1462,6 +1670,7 @@
       "sku": "409",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1469,6 +1678,7 @@
       "sku": "458",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1476,6 +1686,7 @@
       "sku": "709",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1483,13 +1694,15 @@
       "sku": "131",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -40
+      "ubicacion": "",
+      "stock": 0
     },
     {
       "nombre": "Cuchilla manual 3/polos 100A",
       "sku": "574",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1497,13 +1710,15 @@
       "sku": "780",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -48
+      "ubicacion": "",
+      "stock": 0
     },
     {
       "nombre": "Cuchillo 10\"",
       "sku": "70",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1511,6 +1726,7 @@
       "sku": "69",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1518,6 +1734,7 @@
       "sku": "45",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1525,6 +1742,7 @@
       "sku": "421",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1532,6 +1750,7 @@
       "sku": "173",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1539,13 +1758,15 @@
       "sku": "288",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -24
+      "ubicacion": "Lavadero",
+      "stock": 0
     },
     {
       "nombre": "Cuello ganso flexible abajo",
       "sku": "420",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1553,6 +1774,7 @@
       "sku": "522",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1560,6 +1782,7 @@
       "sku": "653",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1567,6 +1790,7 @@
       "sku": "149",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1574,6 +1798,7 @@
       "sku": "447",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1581,6 +1806,7 @@
       "sku": "778",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1588,6 +1814,7 @@
       "sku": "679",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1595,6 +1822,7 @@
       "sku": "639",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1602,6 +1830,7 @@
       "sku": "291",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1609,6 +1838,7 @@
       "sku": "99",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1616,13 +1846,15 @@
       "sku": "318",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 6600
+      "ubicacion": "Lavadero",
+      "stock": 6000
     },
     {
       "nombre": "Disco de sierra madera 180mm",
       "sku": "200",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1630,6 +1862,7 @@
       "sku": "593",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1637,6 +1870,7 @@
       "sku": "275",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 100
     },
     {
@@ -1644,6 +1878,7 @@
       "sku": "100",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1651,6 +1886,7 @@
       "sku": "101",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1658,6 +1894,7 @@
       "sku": "284",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 240
     },
     {
@@ -1665,6 +1902,7 @@
       "sku": "699",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1672,6 +1910,7 @@
       "sku": "285",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1679,6 +1918,7 @@
       "sku": "329",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1686,6 +1926,7 @@
       "sku": "494",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1693,6 +1934,7 @@
       "sku": "596",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1700,6 +1942,7 @@
       "sku": "481",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1707,6 +1950,7 @@
       "sku": "700",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1714,13 +1958,15 @@
       "sku": "742",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 135
+      "ubicacion": "Lavadero",
+      "stock": 100
     },
     {
       "nombre": "Escuadra angulo plana",
       "sku": "695",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1728,6 +1974,7 @@
       "sku": "371",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1735,6 +1982,7 @@
       "sku": "514",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1742,13 +1990,15 @@
       "sku": "39",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -540
+      "ubicacion": "Baño",
+      "stock": 300
     },
     {
       "nombre": "Esponja fregar",
       "sku": "663",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1756,6 +2006,7 @@
       "sku": "552",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1763,6 +2014,7 @@
       "sku": "605",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1770,6 +2022,7 @@
       "sku": "536",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1777,34 +2030,39 @@
       "sku": "662",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -960
+      "ubicacion": "",
+      "stock": 0
     },
     {
       "nombre": "Expansor marco-puerta 3\" plástico",
       "sku": "108",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -950
+      "ubicacion": "",
+      "stock": 0
     },
     {
       "nombre": "Expansor mecánico M6",
       "sku": "110",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -2400
+      "ubicacion": "",
+      "stock": 0
     },
     {
       "nombre": "Expansor mecánico M8 10mm",
       "sku": "107",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -2600
+      "ubicacion": "",
+      "stock": 0
     },
     {
       "nombre": "Expansores plásticos 6x40",
       "sku": "98",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1812,6 +2070,7 @@
       "sku": "470",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1819,6 +2078,7 @@
       "sku": "30",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1826,6 +2086,7 @@
       "sku": "31",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1833,6 +2094,7 @@
       "sku": "22",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1840,6 +2102,7 @@
       "sku": "27",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1847,6 +2110,7 @@
       "sku": "23",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1854,6 +2118,7 @@
       "sku": "29",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1861,6 +2126,7 @@
       "sku": "24",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1868,6 +2134,7 @@
       "sku": "418",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1875,6 +2142,7 @@
       "sku": "419",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1882,6 +2150,7 @@
       "sku": "26",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1889,13 +2158,15 @@
       "sku": "21",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -60
+      "ubicacion": "",
+      "stock": 20
     },
     {
       "nombre": "Extensión 5mts regleta",
       "sku": "416",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1903,6 +2174,7 @@
       "sku": "28",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1910,13 +2182,15 @@
       "sku": "719",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -60
+      "ubicacion": "",
+      "stock": 20
     },
     {
       "nombre": "Extensión de 20mts simple",
       "sku": "25",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1924,6 +2198,7 @@
       "sku": "233",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1931,6 +2206,7 @@
       "sku": "20",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1938,6 +2214,7 @@
       "sku": "768",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1945,6 +2222,7 @@
       "sku": "767",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1952,6 +2230,7 @@
       "sku": "211",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1959,6 +2238,7 @@
       "sku": "528",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1966,6 +2246,7 @@
       "sku": "429",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1973,13 +2254,15 @@
       "sku": "637",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -24
+      "ubicacion": "",
+      "stock": 12
     },
     {
       "nombre": "Forro mueble",
       "sku": "300",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1987,6 +2270,7 @@
       "sku": "795",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -1994,6 +2278,7 @@
       "sku": "782",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2001,6 +2286,7 @@
       "sku": "49",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2008,6 +2294,7 @@
       "sku": "497",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2015,6 +2302,7 @@
       "sku": "82",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "Lavadero",
       "stock": 15
     },
     {
@@ -2022,13 +2310,15 @@
       "sku": "469",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -10
+      "ubicacion": "",
+      "stock": 0
     },
     {
       "nombre": "Fregona",
       "sku": "295",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2036,6 +2326,7 @@
       "sku": "257",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2043,6 +2334,7 @@
       "sku": "712",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2050,6 +2342,7 @@
       "sku": "758",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2057,6 +2350,7 @@
       "sku": "753",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2064,6 +2358,7 @@
       "sku": "802",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2071,6 +2366,7 @@
       "sku": "378",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2078,6 +2374,7 @@
       "sku": "651",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2085,13 +2382,15 @@
       "sku": "193",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -25
+      "ubicacion": "Lavadero",
+      "stock": 15
     },
     {
       "nombre": "Herramienta recogida magnetica",
       "sku": "691",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2099,6 +2398,7 @@
       "sku": "733",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2106,6 +2406,7 @@
       "sku": "176",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "Baño",
       "stock": 110
     },
     {
@@ -2113,6 +2414,7 @@
       "sku": "590",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "Baño",
       "stock": 259
     },
     {
@@ -2120,27 +2422,23 @@
       "sku": "175",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "Baño",
       "stock": 169
-    },
-    {
-      "nombre": "Isopo de baño",
-      "sku": "352",
-      "categoria": "Sin categoría",
-      "unidad": "piezas",
-      "stock": 24
     },
     {
       "nombre": "Isopo de baño 1350",
       "sku": "721",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
-      "nombre": "Isopo de baño 1700",
+      "nombre": "Isopo de baño 1800",
       "sku": "720",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "Lavadero",
       "stock": 0
     },
     {
@@ -2148,6 +2446,7 @@
       "sku": "84",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2155,6 +2454,7 @@
       "sku": "689",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2162,6 +2462,7 @@
       "sku": "519",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2169,6 +2470,7 @@
       "sku": "686",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2176,6 +2478,7 @@
       "sku": "692",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2183,6 +2486,7 @@
       "sku": "698",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2190,6 +2494,7 @@
       "sku": "520",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2197,6 +2502,7 @@
       "sku": "410",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2204,6 +2510,7 @@
       "sku": "355",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2211,6 +2518,7 @@
       "sku": "137",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2218,6 +2526,7 @@
       "sku": "624",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2225,13 +2534,15 @@
       "sku": "136",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -60
+      "ubicacion": "Lavadero",
+      "stock": 20
     },
     {
       "nombre": "Juego de cazuela de inducción 10 pcs",
       "sku": "380",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2239,6 +2550,7 @@
       "sku": "510",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2246,6 +2558,7 @@
       "sku": "197",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2253,6 +2566,7 @@
       "sku": "134",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2260,6 +2574,7 @@
       "sku": "428",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2267,6 +2582,7 @@
       "sku": "119",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2274,13 +2590,15 @@
       "sku": "18",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -32
+      "ubicacion": "Lavadero",
+      "stock": 16
     },
     {
       "nombre": "Juego de cucharon",
       "sku": "625",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2288,6 +2606,7 @@
       "sku": "670",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2295,6 +2614,7 @@
       "sku": "271",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2302,6 +2622,7 @@
       "sku": "551",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2309,6 +2630,7 @@
       "sku": "365",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2316,6 +2638,7 @@
       "sku": "525",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2323,13 +2646,15 @@
       "sku": "147",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -48
+      "ubicacion": "",
+      "stock": 0
     },
     {
       "nombre": "Juego de llave allen 9pcs largo",
       "sku": "623",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2337,6 +2662,7 @@
       "sku": "467",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2344,6 +2670,7 @@
       "sku": "359",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2351,6 +2678,7 @@
       "sku": "301",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2358,6 +2686,7 @@
       "sku": "341",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2365,6 +2694,7 @@
       "sku": "394",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2372,6 +2702,7 @@
       "sku": "524",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2379,6 +2710,7 @@
       "sku": "398",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2386,6 +2718,7 @@
       "sku": "544",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2393,6 +2726,7 @@
       "sku": "395",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2400,6 +2734,7 @@
       "sku": "393",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2407,6 +2742,7 @@
       "sku": "325",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2414,6 +2750,7 @@
       "sku": "586",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2421,6 +2758,7 @@
       "sku": "659",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2428,6 +2766,7 @@
       "sku": "133",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2435,6 +2774,7 @@
       "sku": "562",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2442,6 +2782,7 @@
       "sku": "555",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2449,6 +2790,7 @@
       "sku": "400",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2456,6 +2798,7 @@
       "sku": "402",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2463,6 +2806,7 @@
       "sku": "86",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2470,6 +2814,7 @@
       "sku": "87",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2477,6 +2822,7 @@
       "sku": "316",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2484,6 +2830,7 @@
       "sku": "44",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2491,6 +2838,7 @@
       "sku": "556",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2498,6 +2846,7 @@
       "sku": "73",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2505,6 +2854,7 @@
       "sku": "268",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2512,6 +2862,7 @@
       "sku": "622",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2519,6 +2870,7 @@
       "sku": "784",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2526,6 +2878,7 @@
       "sku": "786",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2533,6 +2886,7 @@
       "sku": "788",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2540,6 +2894,7 @@
       "sku": "787",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2547,6 +2902,7 @@
       "sku": "785",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2554,6 +2910,7 @@
       "sku": "265",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2561,6 +2918,7 @@
       "sku": "576",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2568,6 +2926,7 @@
       "sku": "337",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2575,6 +2934,7 @@
       "sku": "636",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2582,6 +2942,7 @@
       "sku": "423",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2589,6 +2950,7 @@
       "sku": "533",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 1900
     },
     {
@@ -2596,6 +2958,7 @@
       "sku": "769",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2603,6 +2966,7 @@
       "sku": "92",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2610,6 +2974,7 @@
       "sku": "212",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2617,6 +2982,7 @@
       "sku": "694",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2624,6 +2990,7 @@
       "sku": "683",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2631,13 +2998,15 @@
       "sku": "174",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -72
+      "ubicacion": "",
+      "stock": 0
     },
     {
       "nombre": "Lima 900",
       "sku": "604",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2645,6 +3014,7 @@
       "sku": "190",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2652,6 +3022,7 @@
       "sku": "427",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2659,6 +3030,7 @@
       "sku": "444",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2666,6 +3038,7 @@
       "sku": "681",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2673,6 +3046,7 @@
       "sku": "53",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2680,13 +3054,15 @@
       "sku": "557",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -30
+      "ubicacion": "",
+      "stock": 0
     },
     {
       "nombre": "Llave de lavamano tiro rápido",
       "sku": "64",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2694,13 +3070,15 @@
       "sku": "63",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -52
+      "ubicacion": "",
+      "stock": 0
     },
     {
       "nombre": "Llave de paso 1/2\" plástica",
       "sku": "361",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2708,6 +3086,7 @@
       "sku": "491",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2715,6 +3094,7 @@
       "sku": "52",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2722,6 +3102,7 @@
       "sku": "718",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2729,6 +3110,7 @@
       "sku": "717",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2736,6 +3118,7 @@
       "sku": "794",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2743,13 +3126,15 @@
       "sku": "567",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -60
+      "ubicacion": "",
+      "stock": 20
     },
     {
       "nombre": "Llave paso 1/2 métalica",
       "sku": "280",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2757,6 +3142,7 @@
       "sku": "677",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2764,6 +3150,7 @@
       "sku": "142",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2771,6 +3158,7 @@
       "sku": "492",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2778,6 +3166,7 @@
       "sku": "608",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2785,6 +3174,7 @@
       "sku": "674",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2792,13 +3182,15 @@
       "sku": "330",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -20
+      "ubicacion": "",
+      "stock": 0
     },
     {
       "nombre": "Llavín de puerta calle/cerradura plana SPC",
       "sku": "125",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2806,6 +3198,7 @@
       "sku": "126",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2813,6 +3206,7 @@
       "sku": "129",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2820,13 +3214,15 @@
       "sku": "128",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -20
+      "ubicacion": "",
+      "stock": 20
     },
     {
       "nombre": "Llavín picaporte sin llave",
       "sku": "132",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2834,6 +3230,7 @@
       "sku": "401",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2841,6 +3238,7 @@
       "sku": "392",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2848,6 +3246,7 @@
       "sku": "732",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2855,6 +3254,7 @@
       "sku": "776",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2862,13 +3262,15 @@
       "sku": "180",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -100
+      "ubicacion": "Lavadero",
+      "stock": 30
     },
     {
       "nombre": "Manguera corrugada",
       "sku": "310",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2876,20 +3278,23 @@
       "sku": "311",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
       "nombre": "Manguera de gas",
       "sku": "238",
       "categoria": "Sin categoría",
-      "unidad": "piezas",
-      "stock": -49
+      "unidad": "metros",
+      "ubicacion": "Lavadero",
+      "stock": 0
     },
     {
       "nombre": "Manguera gas x rollo 50mts",
       "sku": "309",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2897,13 +3302,7 @@
       "sku": "801",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
-    },
-    {
-      "nombre": "Máquina de soldar",
-      "sku": "307",
-      "categoria": "Sin categoría",
-      "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2911,6 +3310,7 @@
       "sku": "566",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2918,6 +3318,7 @@
       "sku": "424",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2925,6 +3326,7 @@
       "sku": "292",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2932,6 +3334,7 @@
       "sku": "206",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2939,6 +3342,7 @@
       "sku": "619",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2946,6 +3350,7 @@
       "sku": "218",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2953,6 +3358,7 @@
       "sku": "680",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2960,6 +3366,7 @@
       "sku": "799",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2967,6 +3374,7 @@
       "sku": "306",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2974,6 +3382,7 @@
       "sku": "331",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2981,6 +3390,7 @@
       "sku": "577",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2988,6 +3398,7 @@
       "sku": "598",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -2995,6 +3406,7 @@
       "sku": "687",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3002,6 +3414,7 @@
       "sku": "690",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3009,6 +3422,7 @@
       "sku": "613",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "Lavadero",
       "stock": 300
     },
     {
@@ -3016,6 +3430,7 @@
       "sku": "135",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3023,6 +3438,7 @@
       "sku": "571",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "Lavadero",
       "stock": 20
     },
     {
@@ -3030,6 +3446,7 @@
       "sku": "250",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "Lavadero",
       "stock": 4
     },
     {
@@ -3037,6 +3454,7 @@
       "sku": "253",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3044,6 +3462,7 @@
       "sku": "249",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "Lavadero",
       "stock": 3
     },
     {
@@ -3051,6 +3470,7 @@
       "sku": "248",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3058,41 +3478,39 @@
       "sku": "657",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 0
+      "ubicacion": "",
+      "stock": 8
     },
     {
       "nombre": "Olla multipropósito/reina 90min-6lts Esteletric",
       "sku": "80",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 3
+      "ubicacion": "Baño",
+      "stock": 1
     },
     {
       "nombre": "Paca nylon cubalse",
       "sku": "251",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
-    },
-    {
-      "nombre": "Pala",
-      "sku": "347",
-      "categoria": "Sin categoría",
-      "unidad": "piezas",
-      "stock": 10
     },
     {
       "nombre": "Pala 4500$",
       "sku": "583",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -4
+      "ubicacion": "Lavadero",
+      "stock": 6
     },
     {
       "nombre": "Palangana frutero",
       "sku": "615",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3100,6 +3518,7 @@
       "sku": "616",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3107,6 +3526,7 @@
       "sku": "363",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "Lavadero",
       "stock": 400
     },
     {
@@ -3114,6 +3534,7 @@
       "sku": "611",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3121,6 +3542,7 @@
       "sku": "367",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3128,6 +3550,7 @@
       "sku": "589",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3135,6 +3558,7 @@
       "sku": "334",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3142,6 +3566,7 @@
       "sku": "130",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3149,6 +3574,7 @@
       "sku": "305",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3156,6 +3582,7 @@
       "sku": "164",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3163,6 +3590,7 @@
       "sku": "396",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3170,6 +3598,7 @@
       "sku": "461",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "Lavadero",
       "stock": 15
     },
     {
@@ -3177,6 +3606,7 @@
       "sku": "800",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3184,6 +3614,7 @@
       "sku": "169",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3191,6 +3622,7 @@
       "sku": "168",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3198,6 +3630,7 @@
       "sku": "372",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3205,6 +3638,7 @@
       "sku": "172",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3212,6 +3646,7 @@
       "sku": "171",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3219,6 +3654,7 @@
       "sku": "170",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3226,6 +3662,7 @@
       "sku": "377",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3233,6 +3670,7 @@
       "sku": "722",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3240,20 +3678,23 @@
       "sku": "453",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -180
+      "ubicacion": "Lavadero",
+      "stock": 180
     },
     {
       "nombre": "Pila AAA",
       "sku": "166",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -1080
+      "ubicacion": "",
+      "stock": 0
     },
     {
       "nombre": "Pintura 1/litro azul claro",
       "sku": "564",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3261,6 +3702,7 @@
       "sku": "563",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3268,6 +3710,7 @@
       "sku": "441",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "Lavadero",
       "stock": 18
     },
     {
@@ -3275,6 +3718,7 @@
       "sku": "381",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3282,6 +3726,7 @@
       "sku": "612",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3289,6 +3734,7 @@
       "sku": "457",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3296,6 +3742,7 @@
       "sku": "463",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3303,6 +3750,7 @@
       "sku": "440",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3310,6 +3758,7 @@
       "sku": "382",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3317,6 +3766,7 @@
       "sku": "379",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3324,6 +3774,7 @@
       "sku": "442",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3331,6 +3782,7 @@
       "sku": "565",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3338,6 +3790,7 @@
       "sku": "223",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3345,6 +3798,7 @@
       "sku": "89",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3352,6 +3806,7 @@
       "sku": "303",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3359,6 +3814,7 @@
       "sku": "90",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3366,6 +3822,7 @@
       "sku": "437",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3373,6 +3830,7 @@
       "sku": "439",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3380,6 +3838,7 @@
       "sku": "438",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3387,6 +3846,7 @@
       "sku": "436",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3394,6 +3854,7 @@
       "sku": "473",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3401,6 +3862,7 @@
       "sku": "790",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3408,6 +3870,7 @@
       "sku": "789",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3415,6 +3878,7 @@
       "sku": "391",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "Lavadero",
       "stock": 24
     },
     {
@@ -3422,13 +3886,15 @@
       "sku": "506",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 24
+      "ubicacion": "Lavadero",
+      "stock": 12
     },
     {
       "nombre": "Pintura spray dorado",
       "sku": "738",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3436,6 +3902,7 @@
       "sku": "240",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3443,6 +3910,7 @@
       "sku": "242",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3450,13 +3918,15 @@
       "sku": "783",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 24
+      "ubicacion": "Lavadero",
+      "stock": 72
     },
     {
       "nombre": "Pintura spray verde",
       "sku": "507",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "Lavadero",
       "stock": 72
     },
     {
@@ -3464,6 +3934,7 @@
       "sku": "144",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3471,6 +3942,7 @@
       "sku": "676",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3478,6 +3950,7 @@
       "sku": "475",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3485,6 +3958,7 @@
       "sku": "297",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3492,6 +3966,7 @@
       "sku": "678",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3499,6 +3974,7 @@
       "sku": "344",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3506,6 +3982,7 @@
       "sku": "213",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3513,6 +3990,7 @@
       "sku": "526",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3520,6 +3998,7 @@
       "sku": "603",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3527,6 +4006,7 @@
       "sku": "684",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3534,6 +4014,7 @@
       "sku": "57",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3541,6 +4022,7 @@
       "sku": "58",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "Lavadero",
       "stock": 40
     },
     {
@@ -3548,6 +4030,7 @@
       "sku": "51",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3555,6 +4038,7 @@
       "sku": "587",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3562,6 +4046,7 @@
       "sku": "320",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3569,6 +4054,7 @@
       "sku": "777",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "Lavadero",
       "stock": 10
     },
     {
@@ -3576,13 +4062,15 @@
       "sku": "60",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -30
+      "ubicacion": "",
+      "stock": 30
     },
     {
       "nombre": "Pluma plástica de jardín 1/2 zapatilla",
       "sku": "59",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3590,6 +4078,7 @@
       "sku": "50",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3597,6 +4086,7 @@
       "sku": "729",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3604,6 +4094,7 @@
       "sku": "493",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3611,6 +4102,7 @@
       "sku": "540",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3618,6 +4110,7 @@
       "sku": "631",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3625,6 +4118,7 @@
       "sku": "159",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "Lavadero",
       "stock": 144
     },
     {
@@ -3632,27 +4126,31 @@
       "sku": "161",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -288
+      "ubicacion": "",
+      "stock": 0
     },
     {
       "nombre": "Presurizador 35lts",
       "sku": "478",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -16
+      "ubicacion": "",
+      "stock": 0
     },
     {
       "nombre": "Protector 110vol 20A",
       "sku": "261",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -76
+      "ubicacion": "Lavadero",
+      "stock": 68
     },
     {
       "nombre": "Protector 220 simple/entrada 15A",
       "sku": "192",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3660,6 +4158,7 @@
       "sku": "189",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3667,6 +4166,7 @@
       "sku": "496",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3674,6 +4174,7 @@
       "sku": "760",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3681,6 +4182,7 @@
       "sku": "725",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3688,13 +4190,15 @@
       "sku": "260",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -40
+      "ubicacion": "Lavadero",
+      "stock": 20
     },
     {
       "nombre": "Pulidora SACO 900watts",
       "sku": "792",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3702,6 +4206,7 @@
       "sku": "482",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3709,13 +4214,15 @@
       "sku": "455",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -24
+      "ubicacion": "Lavadero",
+      "stock": 24
     },
     {
       "nombre": "PVC 500gr azul",
       "sku": "350",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "Lavadero",
       "stock": 48
     },
     {
@@ -3723,6 +4230,7 @@
       "sku": "529",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3730,6 +4238,7 @@
       "sku": "78",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3737,6 +4246,7 @@
       "sku": "737",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "Lavadero",
       "stock": 20
     },
     {
@@ -3744,6 +4254,7 @@
       "sku": "46",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3751,6 +4262,7 @@
       "sku": "120",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3758,6 +4270,7 @@
       "sku": "549",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3765,6 +4278,7 @@
       "sku": "516",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3772,6 +4286,7 @@
       "sku": "71",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "Lavadero",
       "stock": 50
     },
     {
@@ -3779,6 +4294,7 @@
       "sku": "450",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3786,6 +4302,7 @@
       "sku": "451",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3793,6 +4310,7 @@
       "sku": "267",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3800,6 +4318,7 @@
       "sku": "113",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3807,6 +4326,7 @@
       "sku": "75",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3814,6 +4334,7 @@
       "sku": "607",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3821,6 +4342,7 @@
       "sku": "140",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3828,6 +4350,7 @@
       "sku": "203",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3835,6 +4358,7 @@
       "sku": "139",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3842,13 +4366,15 @@
       "sku": "468",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -30
+      "ubicacion": "",
+      "stock": 10
     },
     {
       "nombre": "Set de destornilladores SEAL pareja",
       "sku": "328",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3856,6 +4382,7 @@
       "sku": "647",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3863,6 +4390,7 @@
       "sku": "595",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3870,6 +4398,7 @@
       "sku": "269",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3877,6 +4406,7 @@
       "sku": "707",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3884,6 +4414,7 @@
       "sku": "723",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3891,6 +4422,7 @@
       "sku": "666",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3898,6 +4430,7 @@
       "sku": "675",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3905,13 +4438,15 @@
       "sku": "56",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -75
+      "ubicacion": "",
+      "stock": 20
     },
     {
       "nombre": "Sifa de vaso",
       "sku": "187",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3919,6 +4454,7 @@
       "sku": "425",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3926,20 +4462,23 @@
       "sku": "340",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -85
+      "ubicacion": "Lavadero",
+      "stock": 25
     },
     {
       "nombre": "Silicona de alta temperatura 700",
       "sku": "479",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -60
+      "ubicacion": "Lavadero",
+      "stock": 36
     },
     {
       "nombre": "Silicona de alta temperatura proefix",
       "sku": "179",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3947,13 +4486,15 @@
       "sku": "177",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 24
+      "ubicacion": "",
+      "stock": 0
     },
     {
       "nombre": "Silicona de spray",
       "sku": "214",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3961,13 +4502,15 @@
       "sku": "138",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -60
+      "ubicacion": "",
+      "stock": 60
     },
     {
       "nombre": "Sócalo redondo",
       "sku": "277",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3975,6 +4518,7 @@
       "sku": "588",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3982,6 +4526,7 @@
       "sku": "146",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3989,6 +4534,7 @@
       "sku": "485",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -3996,6 +4542,7 @@
       "sku": "642",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4003,20 +4550,23 @@
       "sku": "76",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -30
+      "ubicacion": "",
+      "stock": 0
     },
     {
       "nombre": "T 1/2",
       "sku": "226",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -40
+      "ubicacion": "",
+      "stock": 0
     },
     {
       "nombre": "Tabla de cocina",
       "sku": "535",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4024,6 +4574,7 @@
       "sku": "569",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4031,6 +4582,7 @@
       "sku": "660",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4038,6 +4590,7 @@
       "sku": "414",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "Lavadero",
       "stock": 15
     },
     {
@@ -4045,6 +4598,7 @@
       "sku": "246",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4052,6 +4606,7 @@
       "sku": "484",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4059,6 +4614,7 @@
       "sku": "511",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4066,6 +4622,7 @@
       "sku": "512",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4073,6 +4630,7 @@
       "sku": "299",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4080,6 +4638,7 @@
       "sku": "731",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4087,13 +4646,15 @@
       "sku": "430",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -35
+      "ubicacion": "Lavadero",
+      "stock": 15
     },
     {
       "nombre": "Teflón",
       "sku": "181",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4101,6 +4662,7 @@
       "sku": "65",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4108,13 +4670,15 @@
       "sku": "426",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -60
+      "ubicacion": "",
+      "stock": 0
     },
     {
       "nombre": "Terminal cobre",
       "sku": "633",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4122,13 +4686,15 @@
       "sku": "162",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -20
+      "ubicacion": "",
+      "stock": 0
     },
     {
       "nombre": "Termo 1 lts grande",
       "sku": "399",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4136,6 +4702,7 @@
       "sku": "665",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4143,6 +4710,7 @@
       "sku": "369",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4150,6 +4718,7 @@
       "sku": "713",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4157,6 +4726,7 @@
       "sku": "270",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4164,6 +4734,7 @@
       "sku": "671",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4171,6 +4742,7 @@
       "sku": "293",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4178,6 +4750,7 @@
       "sku": "346",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4185,6 +4758,7 @@
       "sku": "354",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4192,13 +4766,15 @@
       "sku": "655",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 144
+      "ubicacion": "Baño",
+      "stock": 108
     },
     {
       "nombre": "Toallita cocina",
       "sku": "656",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4206,6 +4782,7 @@
       "sku": "282",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "Baño",
       "stock": 0
     },
     {
@@ -4213,13 +4790,15 @@
       "sku": "35",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -200
+      "ubicacion": "Baño",
+      "stock": 200
     },
     {
       "nombre": "Toma corriente plano original",
       "sku": "283",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4227,13 +4806,15 @@
       "sku": "36",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -600
+      "ubicacion": "Baño",
+      "stock": 200
     },
     {
       "nombre": "Toma criollo baquelita",
       "sku": "348",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4241,6 +4822,7 @@
       "sku": "40",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4248,6 +4830,7 @@
       "sku": "302",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4255,6 +4838,7 @@
       "sku": "41",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4262,6 +4846,7 @@
       "sku": "111",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4269,6 +4854,7 @@
       "sku": "797",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "Lavadero",
       "stock": 2000
     },
     {
@@ -4276,6 +4862,7 @@
       "sku": "771",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4283,6 +4870,7 @@
       "sku": "791",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4290,6 +4878,7 @@
       "sku": "464",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4297,6 +4886,7 @@
       "sku": "216",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4304,13 +4894,15 @@
       "sku": "465",
       "categoria": "Sin categoría",
       "unidad": "cajas",
-      "stock": -23200
+      "ubicacion": "",
+      "stock": 0
     },
     {
       "nombre": "Tornillo rosca chapa 1\" 10mm",
       "sku": "102",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4318,6 +4910,7 @@
       "sku": "315",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4325,27 +4918,31 @@
       "sku": "581",
       "categoria": "Sin categoría",
       "unidad": "cajas",
-      "stock": -8400
+      "ubicacion": "Lavadero",
+      "stock": 8400
     },
     {
       "nombre": "Tornillo tira-fondo pladur 1\"/25mm x caja 600",
       "sku": "281",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -36000
+      "ubicacion": "Lavadero",
+      "stock": 12000
     },
     {
       "nombre": "Tornillo tira-fondo pladur 1\"3/4\"/45mm x caja 360",
       "sku": "599",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -7200
+      "ubicacion": "",
+      "stock": 0
     },
     {
       "nombre": "Tornillo tira-fondo pladur 2\"/50mm",
       "sku": "460",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4353,6 +4950,7 @@
       "sku": "757",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4360,6 +4958,7 @@
       "sku": "553",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4367,6 +4966,7 @@
       "sku": "701",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4374,6 +4974,7 @@
       "sku": "703",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4381,6 +4982,7 @@
       "sku": "702",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4388,6 +4990,7 @@
       "sku": "704",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4395,13 +4998,15 @@
       "sku": "157",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": 570
+      "ubicacion": "Lavadero",
+      "stock": 510
     },
     {
       "nombre": "Tubo led 40/ 1polo",
       "sku": "155",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4409,6 +5014,7 @@
       "sku": "154",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "Baño",
       "stock": 150
     },
     {
@@ -4416,6 +5022,7 @@
       "sku": "415",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4423,13 +5030,15 @@
       "sku": "602",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -3
+      "ubicacion": "Lavadero",
+      "stock": 3
     },
     {
       "nombre": "Úla Úla ula",
       "sku": "222",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4437,13 +5046,15 @@
       "sku": "232",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -15
+      "ubicacion": "",
+      "stock": 0
     },
     {
       "nombre": "Unión universal 1/2\"",
       "sku": "196",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4451,6 +5062,7 @@
       "sku": "443",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4458,20 +5070,23 @@
       "sku": "385",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
       "nombre": "Varilla de soldar 6013/3.2mm 35cm",
       "sku": "94",
       "categoria": "Sin categoría",
-      "unidad": "cajas",
-      "stock": -6726
+      "unidad": "piezas",
+      "ubicacion": "",
+      "stock": 0
     },
     {
       "nombre": "Varilla de techo",
       "sku": "314",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4479,6 +5094,7 @@
       "sku": "523",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4486,6 +5102,7 @@
       "sku": "560",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4493,6 +5110,7 @@
       "sku": "609",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4500,13 +5118,15 @@
       "sku": "47",
       "categoria": "Sin categoría",
       "unidad": "piezas",
-      "stock": -455
+      "ubicacion": "",
+      "stock": 195
     },
     {
       "nombre": "Vela pequeña 4/unidades",
       "sku": "606",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4514,6 +5134,7 @@
       "sku": "48",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4521,6 +5142,7 @@
       "sku": "317",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4528,6 +5150,7 @@
       "sku": "383",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4535,6 +5158,7 @@
       "sku": "254",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4542,6 +5166,7 @@
       "sku": "88",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4549,6 +5174,7 @@
       "sku": "384",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4556,6 +5182,7 @@
       "sku": "219",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4563,6 +5190,7 @@
       "sku": "259",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "Lavadero",
       "stock": 15
     },
     {
@@ -4570,6 +5198,7 @@
       "sku": "199",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4577,6 +5206,7 @@
       "sku": "711",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4584,6 +5214,7 @@
       "sku": "669",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     },
     {
@@ -4591,6 +5222,7 @@
       "sku": "805",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "Baño",
       "stock": 0
     },
     {
@@ -4598,7 +5230,2534 @@
       "sku": "810",
       "categoria": "Sin categoría",
       "unidad": "piezas",
+      "ubicacion": "",
+      "stock": 0
+    },
+    {
+      "nombre": "Bocina chica",
+      "sku": "817",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "",
+      "stock": 0
+    },
+    {
+      "nombre": "Bocina grande",
+      "sku": "818",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "Lavadero",
+      "stock": 2
+    },
+    {
+      "nombre": "Bombillo recargable 12w",
+      "sku": "807",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "",
+      "stock": 0
+    },
+    {
+      "nombre": "Cable 8 aluminio",
+      "sku": "819",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "",
+      "stock": 0
+    },
+    {
+      "nombre": "Capacitor",
+      "sku": "809",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "",
+      "stock": 0
+    },
+    {
+      "nombre": "Interruptor LIOA",
+      "sku": "806",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "",
+      "stock": 0
+    },
+    {
+      "nombre": "Interruptor triple",
+      "sku": "804",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "Lavadero",
+      "stock": 25
+    },
+    {
+      "nombre": "Lapicero blanco",
+      "sku": "815",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "",
+      "stock": 0
+    },
+    {
+      "nombre": "Manguera de agua",
+      "sku": "812",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "",
+      "stock": 0
+    },
+    {
+      "nombre": "Olla arrocera 2.2lts",
+      "sku": "821",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "",
+      "stock": 0
+    },
+    {
+      "nombre": "Olla arrocera 3lts IMPUD",
+      "sku": "811",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "",
+      "stock": 0
+    },
+    {
+      "nombre": "Olla de presión 3 válvulas 11lts",
+      "sku": "820",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "Lavadero",
+      "stock": 8
+    },
+    {
+      "nombre": "Palangana criolla",
+      "sku": "813",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "",
+      "stock": 0
+    },
+    {
+      "nombre": "Pintura galón 3.785lts dorado",
+      "sku": "816",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "",
+      "stock": 0
+    },
+    {
+      "nombre": "Spray anti ponche",
+      "sku": "808",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "Lavadero",
+      "stock": 24
+    },
+    {
+      "nombre": "Toma corriente sencillo 20A",
+      "sku": "803",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "",
+      "stock": 150
+    },
+    {
+      "nombre": "Vaso plástico",
+      "sku": "814",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "",
+      "stock": 0
+    },
+    {
+      "nombre": "Soporte de Instalación para Split",
+      "sku": "833",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "Lavadero",
+      "stock": 6
+    },
+    {
+      "nombre": "Tridente",
+      "sku": "842",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "Lavadero",
+      "stock": 4
+    },
+    {
+      "nombre": "Interruptor de Timbre",
+      "sku": "840",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "Baño",
+      "stock": 70
+    },
+    {
+      "nombre": "Tijera de jardinería",
+      "sku": "PROD-0003",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "",
+      "stock": 0
+    },
+    {
+      "nombre": "Cepillo de carpintero",
+      "sku": "PROD-0004",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "",
+      "stock": 0
+    },
+    {
+      "nombre": "Breker 40A sencillo DC",
+      "sku": "822",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "",
+      "stock": 0
+    },
+    {
+      "nombre": "Cable 8 aluminio x metros",
+      "sku": "823",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "",
+      "stock": 0
+    },
+    {
+      "nombre": "Set de pozuelo 3 pcs",
+      "sku": "824",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "",
+      "stock": 0
+    },
+    {
+      "nombre": "Llavin de calle MAF",
+      "sku": "825",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "",
+      "stock": 0
+    },
+    {
+      "nombre": "Breker 16A doble AC",
+      "sku": "826",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "",
+      "stock": 0
+    },
+    {
+      "nombre": "Disco debaste 125\"mm",
+      "sku": "827",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "",
+      "stock": 0
+    },
+    {
+      "nombre": "Toma corriente doble 20A",
+      "sku": "828",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "",
+      "stock": 0
+    },
+    {
+      "nombre": "Mochila",
+      "sku": "829",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "",
+      "stock": 0
+    },
+    {
+      "nombre": "Cable 16 cobre",
+      "sku": "830",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "",
+      "stock": 0
+    },
+    {
+      "nombre": "Tornillo tira-fondo cabeza plana",
+      "sku": "831",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "",
+      "stock": 0
+    },
+    {
+      "nombre": "Junquillo",
+      "sku": "832",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "",
+      "stock": 0
+    },
+    {
+      "nombre": "Medias",
+      "sku": "834",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "",
+      "stock": 0
+    },
+    {
+      "nombre": "Biberón",
+      "sku": "835",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "",
+      "stock": 0
+    },
+    {
+      "nombre": "Niple 3/4",
+      "sku": "836",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "",
+      "stock": 0
+    },
+    {
+      "nombre": "Reducido 3/4-1/2",
+      "sku": "837",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "Lavadero",
+      "stock": 130
+    },
+    {
+      "nombre": "Ducha de telefono",
+      "sku": "838",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "",
+      "stock": 0
+    },
+    {
+      "nombre": "Sifa doble de desague bañadera",
+      "sku": "839",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "",
+      "stock": 0
+    },
+    {
+      "nombre": "Cabeza de ducha",
+      "sku": "841",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "",
+      "stock": 0
+    },
+    {
+      "nombre": "Cepillo carpintero",
+      "sku": "843",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "",
+      "stock": 0
+    },
+    {
+      "nombre": "Tijera césped",
+      "sku": "844",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "",
+      "stock": 0
+    },
+    {
+      "nombre": "Batidora licuadora 2 en 1",
+      "sku": "845",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "Baño",
+      "stock": 5
+    },
+    {
+      "nombre": "Olla Arrocera de 1.5L",
+      "sku": "846",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "Lavadero",
+      "stock": 6
+    },
+    {
+      "nombre": "Maquina de Soldar",
+      "sku": "307",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "",
+      "stock": 0
+    },
+    {
+      "nombre": "Bomba de Aire",
+      "sku": "848",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "Lavadero",
+      "stock": 15
+    },
+    {
+      "nombre": "Pintura en Spray Blanco Brillante",
+      "sku": "241",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "",
+      "stock": 0
+    },
+    {
+      "nombre": "Pintura en spray Blanco Mate",
+      "sku": "850",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "Lavadero",
+      "stock": 24
+    },
+    {
+      "nombre": "Pintura Barniz en Spray",
+      "sku": "851",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "Lavadero",
+      "stock": 0
+    },
+    {
+      "nombre": "Cable 14 x metros",
+      "sku": "852",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "",
+      "stock": 0
+    },
+    {
+      "nombre": "Cajita decodificadora TV",
+      "sku": "847",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "",
+      "stock": 0
+    },
+    {
+      "nombre": "Pintura spray blanco brillante",
+      "sku": "849",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "",
+      "stock": 0
+    },
+    {
+      "nombre": "Bicicleta electrica",
+      "sku": "859",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "",
+      "stock": 0
+    },
+    {
+      "nombre": "Cable fotovoltaico calibre 10 x metro",
+      "sku": "854",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "",
+      "stock": 0
+    },
+    {
+      "nombre": "Cubo plastico para pintar",
+      "sku": "860",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "",
+      "stock": 0
+    },
+    {
+      "nombre": "Expansor mecanico m10",
+      "sku": "855",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "",
+      "stock": 0
+    },
+    {
+      "nombre": "Plastik loka",
+      "sku": "858",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "",
+      "stock": 0
+    },
+    {
+      "nombre": "Rollo lija",
+      "sku": "853",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "",
+      "stock": 0
+    },
+    {
+      "nombre": "Tornillo allen",
+      "sku": "856",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "",
+      "stock": 0
+    },
+    {
+      "nombre": "Ventilador recargable F60 robotico",
+      "sku": "857",
+      "categoria": "Sin categoría",
+      "unidad": "piezas",
+      "ubicacion": "",
       "stock": 0
     }
-  ]
+  ],
+  "almacenPrincipal": [
+    {
+      "nombre": "Presurizador 35lts",
+      "sku": "478",
+      "cantidad": 0
+    },
+    {
+      "nombre": "Fregadero sencillo",
+      "sku": "469",
+      "cantidad": 0
+    },
+    {
+      "nombre": "Spray afloja-todo",
+      "sku": "146",
+      "cantidad": 0
+    },
+    {
+      "nombre": "Llave de ángulo 1/2 macho",
+      "sku": "557",
+      "cantidad": 0
+    },
+    {
+      "nombre": "Regulador de gas",
+      "sku": "120",
+      "cantidad": 19
+    },
+    {
+      "nombre": "Llavín de calle anticopia",
+      "sku": "330",
+      "cantidad": 0
+    },
+    {
+      "nombre": "Cerrucho",
+      "sku": "201",
+      "cantidad": 10
+    },
+    {
+      "nombre": "Cuchilla manual 2/polos 63A",
+      "sku": "131",
+      "cantidad": 0
+    },
+    {
+      "nombre": "Cuello ganso flexible a la pared",
+      "sku": "288",
+      "cantidad": 3
+    },
+    {
+      "nombre": "Juego de llave allen 9pcs corto",
+      "sku": "147",
+      "cantidad": 0
+    },
+    {
+      "nombre": "Juego de cubo proefix de 46pcs rojo",
+      "sku": "18",
+      "cantidad": 0
+    },
+    {
+      "nombre": "Cuchilla manual 3/polos 63A",
+      "sku": "780",
+      "cantidad": 0
+    },
+    {
+      "nombre": "Llave de paso 1\" plástica",
+      "sku": "63",
+      "cantidad": 0
+    },
+    {
+      "nombre": "Tarraja plástica",
+      "sku": "430",
+      "cantidad": 0
+    },
+    {
+      "nombre": "Pulidora Coofix 750watts",
+      "sku": "260",
+      "cantidad": 0
+    },
+    {
+      "nombre": "Tenaza de soldar 600Amp",
+      "sku": "426",
+      "cantidad": 0
+    },
+    {
+      "nombre": "Cinta 7.5mts",
+      "sku": "205",
+      "cantidad": 0
+    },
+    {
+      "nombre": "Cable 12 aluminio",
+      "sku": "231",
+      "cantidad": 30
+    },
+    {
+      "nombre": "Supresor de voltaje 110v",
+      "sku": "485",
+      "cantidad": 36
+    },
+    {
+      "nombre": "Llavín picaporte",
+      "sku": "128",
+      "cantidad": 20
+    },
+    {
+      "nombre": "Candado anti-sisalla 70mm",
+      "sku": "774",
+      "cantidad": 0
+    },
+    {
+      "nombre": "Base de tv 14-42 pulgadas",
+      "sku": "19",
+      "cantidad": 20
+    },
+    {
+      "nombre": "Cepillo de copa normal 800$",
+      "sku": "548",
+      "cantidad": 40
+    },
+    {
+      "nombre": "Juego de barrena tungsteno 5pcs",
+      "sku": "136",
+      "cantidad": 0
+    },
+    {
+      "nombre": "Brida 4.8x300mm",
+      "sku": "531",
+      "cantidad": 0
+    },
+    {
+      "nombre": "Set de destornilladores MAXI pareja",
+      "sku": "468",
+      "cantidad": 20
+    },
+    {
+      "nombre": "Disco de sierra madera115mm",
+      "sku": "593",
+      "cantidad": 50
+    },
+    {
+      "nombre": "Llave lavamano zapatilla",
+      "sku": "567",
+      "cantidad": 14
+    },
+    {
+      "nombre": "Cheque de plástico 1\"",
+      "sku": "345",
+      "cantidad": 30
+    },
+    {
+      "nombre": "Extensión 9 fts",
+      "sku": "719",
+      "cantidad": 20
+    },
+    {
+      "nombre": "PVC 250ml",
+      "sku": "455",
+      "cantidad": 48
+    },
+    {
+      "nombre": "Llave empotrada de ducha",
+      "sku": "52",
+      "cantidad": 80
+    },
+    {
+      "nombre": "Herraje de baño",
+      "sku": "193",
+      "cantidad": 65
+    },
+    {
+      "nombre": "Disco tungsteno 115mm liso",
+      "sku": "285",
+      "cantidad": 100
+    },
+    {
+      "nombre": "Pluma plástica de jardín 1/2 tiro rápido",
+      "sku": "60",
+      "cantidad": 70
+    },
+    {
+      "nombre": "Aragán",
+      "sku": "448",
+      "cantidad": 100
+    },
+    {
+      "nombre": "Terminal para baterías/bornes",
+      "sku": "162",
+      "cantidad": 80
+    },
+    {
+      "nombre": "T 1\"",
+      "sku": "76",
+      "cantidad": 75
+    },
+    {
+      "nombre": "Protector 110vol 20A",
+      "sku": "261",
+      "cantidad": 84
+    },
+    {
+      "nombre": "Brida 4.8x400mm",
+      "sku": "417",
+      "cantidad": 20
+    },
+    {
+      "nombre": "Cinta 3mts",
+      "sku": "517",
+      "cantidad": 148
+    },
+    {
+      "nombre": "Espiga",
+      "sku": "39",
+      "cantidad": 20
+    },
+    {
+      "nombre": "Sifa de piso poseta",
+      "sku": "56",
+      "cantidad": 115
+    },
+    {
+      "nombre": "Lima 900",
+      "sku": "604",
+      "cantidad": 180
+    },
+    {
+      "nombre": "Sifa fregadero flexible boca chica",
+      "sku": "340",
+      "cantidad": 110
+    },
+    {
+      "nombre": "Brekera 2 posiciones",
+      "sku": "741",
+      "cantidad": 200
+    },
+    {
+      "nombre": "T 1/2",
+      "sku": "226",
+      "cantidad": 560
+    },
+    {
+      "nombre": "Conector MC4",
+      "sku": "634",
+      "cantidad": 0
+    },
+    {
+      "nombre": "Codo de 50",
+      "sku": "546",
+      "cantidad": 160
+    },
+    {
+      "nombre": "Brocha 1\"",
+      "sku": "118",
+      "cantidad": 216
+    },
+    {
+      "nombre": "Mando universal",
+      "sku": "180",
+      "cantidad": 170
+    },
+    {
+      "nombre": "Cinta 5mts 1200$",
+      "sku": "422",
+      "cantidad": 252
+    },
+    {
+      "nombre": "Unión universal 1\"",
+      "sku": "232",
+      "cantidad": 250
+    },
+    {
+      "nombre": "Latiguillo",
+      "sku": "769",
+      "cantidad": 300
+    },
+    {
+      "nombre": "Sócalo de bombillo normal",
+      "sku": "138",
+      "cantidad": 260
+    },
+    {
+      "nombre": "Interruptor sencillo palanca",
+      "sku": "175",
+      "cantidad": 350
+    },
+    {
+      "nombre": "Toma corriente universal",
+      "sku": "36",
+      "cantidad": 0
+    },
+    {
+      "nombre": "Lima",
+      "sku": "174",
+      "cantidad": 384
+    },
+    {
+      "nombre": "Codo 1\"",
+      "sku": "194",
+      "cantidad": 500
+    },
+    {
+      "nombre": "Silicona de alta temperatura 700",
+      "sku": "479",
+      "cantidad": 600
+    },
+    {
+      "nombre": "Vela grande 8/unidades",
+      "sku": "47",
+      "cantidad": 195
+    },
+    {
+      "nombre": "Precinta transparente",
+      "sku": "161",
+      "cantidad": 554
+    },
+    {
+      "nombre": "Estropajo alambre",
+      "sku": "662",
+      "cantidad": 240
+    },
+    {
+      "nombre": "Pila AAA",
+      "sku": "166",
+      "cantidad": 360
+    },
+    {
+      "nombre": "Pila AA",
+      "sku": "453",
+      "cantidad": 760
+    },
+    {
+      "nombre": "Expansor mecánico M6",
+      "sku": "110",
+      "cantidad": 0
+    },
+    {
+      "nombre": "Fosforera magneto grande",
+      "sku": "782",
+      "cantidad": 1000
+    },
+    {
+      "nombre": "Toma corriente plano normal",
+      "sku": "35",
+      "cantidad": 1800
+    },
+    {
+      "nombre": "Codo 1/2\"",
+      "sku": "195",
+      "cantidad": 2500
+    },
+    {
+      "nombre": "Expansor mecánico M8 10mm",
+      "sku": "107",
+      "cantidad": 0
+    },
+    {
+      "nombre": "Expansor marco-puerta 3\" plástico",
+      "sku": "108",
+      "cantidad": 2550
+    },
+    {
+      "nombre": "Disco de corte metal 115\"mm",
+      "sku": "99",
+      "cantidad": 4000
+    },
+    {
+      "nombre": "Tornillo tira-fondo pladur 1\"3/4\"/45mm x caja 360",
+      "sku": "599",
+      "cantidad": 0
+    },
+    {
+      "nombre": "Chirri 2\" fino",
+      "sku": "433",
+      "cantidad": 10000
+    },
+    {
+      "nombre": "Tornillo MM 1/2\" SPC cajita de 580",
+      "sku": "465",
+      "cantidad": 22000
+    },
+    {
+      "nombre": "Tornillo tira-fondo pladur 1\"/25mm x caja 600",
+      "sku": "281",
+      "cantidad": 0
+    },
+    {
+      "nombre": "Tornillo tira-fondo pladur 1 1/2\"/35mm x caja 420",
+      "sku": "581",
+      "cantidad": 33600
+    },
+    {
+      "nombre": "Extensión de 3m Regleta",
+      "sku": "21",
+      "cantidad": 20
+    },
+    {
+      "nombre": "Manguera de gas",
+      "sku": "238",
+      "cantidad": 50
+    },
+    {
+      "nombre": "Resistencia eléctrica 4 vueltas",
+      "sku": "71",
+      "cantidad": 100
+    },
+    {
+      "nombre": "Cinta 5 mts",
+      "sku": "629",
+      "cantidad": 228
+    }
+  ],
+  "pisoVenta": [
+    {
+      "nombre": "Llavin de calle MAF",
+      "sku": "825",
+      "cantidad": 0
+    },
+    {
+      "nombre": "Bicicleta electrica",
+      "sku": "859",
+      "cantidad": 1
+    },
+    {
+      "nombre": "Breker 16A doble AC",
+      "sku": "826",
+      "cantidad": 1
+    },
+    {
+      "nombre": "Breker SACO 32A y 63A DC",
+      "sku": "761",
+      "cantidad": 1
+    },
+    {
+      "nombre": "Candado de alarma",
+      "sku": "724",
+      "cantidad": 1
+    },
+    {
+      "nombre": "Disco corte 230mm",
+      "sku": "778",
+      "cantidad": 1
+    },
+    {
+      "nombre": "Fumigadora",
+      "sku": "712",
+      "cantidad": 1
+    },
+    {
+      "nombre": "Fusible solar 25A sencillo DC",
+      "sku": "758",
+      "cantidad": 1
+    },
+    {
+      "nombre": "Guante",
+      "sku": "651",
+      "cantidad": 1
+    },
+    {
+      "nombre": "Herramienta recogida magnetica",
+      "sku": "691",
+      "cantidad": 1
+    },
+    {
+      "nombre": "Infrarojo",
+      "sku": "733",
+      "cantidad": 1
+    },
+    {
+      "nombre": "Juego 5 piedra grano 60",
+      "sku": "689",
+      "cantidad": 1
+    },
+    {
+      "nombre": "Juego set de peine y espejo",
+      "sku": "562",
+      "cantidad": 1
+    },
+    {
+      "nombre": "Lija taladro",
+      "sku": "683",
+      "cantidad": 1
+    },
+    {
+      "nombre": "Maquina de afeitar",
+      "sku": "801",
+      "cantidad": 1
+    },
+    {
+      "nombre": "Olla de presión 3 válvulas 11lts",
+      "sku": "820",
+      "cantidad": 1
+    },
+    {
+      "nombre": "Pala 4500$",
+      "sku": "583",
+      "cantidad": 1
+    },
+    {
+      "nombre": "Palangana criolla",
+      "sku": "813",
+      "cantidad": 1
+    },
+    {
+      "nombre": "Pie de rey",
+      "sku": "722",
+      "cantidad": 1
+    },
+    {
+      "nombre": "Set juego de pinza",
+      "sku": "707",
+      "cantidad": 1
+    },
+    {
+      "nombre": "Tridente",
+      "sku": "842",
+      "cantidad": 1
+    },
+    {
+      "nombre": "Trincha 32mm",
+      "sku": "703",
+      "cantidad": 1
+    },
+    {
+      "nombre": "Cable 10 aluminio",
+      "sku": "230",
+      "cantidad": 1
+    },
+    {
+      "nombre": "Cable royalcold 3vía calibre/12",
+      "sku": "152",
+      "cantidad": 1
+    },
+    {
+      "nombre": "Lampara solar con detector de movimiento",
+      "sku": "337",
+      "cantidad": 1
+    },
+    {
+      "nombre": "Tapa de taza de baño cierre lento",
+      "sku": "512",
+      "cantidad": 1
+    },
+    {
+      "nombre": "Termo pequeño",
+      "sku": "369",
+      "cantidad": 1
+    },
+    {
+      "nombre": "Accesorio de baño",
+      "sku": "716",
+      "cantidad": 2
+    },
+    {
+      "nombre": "Batidora EKO",
+      "sku": "645",
+      "cantidad": 2
+    },
+    {
+      "nombre": "Biberón",
+      "sku": "835",
+      "cantidad": 2
+    },
+    {
+      "nombre": "Bocina grande",
+      "sku": "818",
+      "cantidad": 2
+    },
+    {
+      "nombre": "Brekera 24 posiciones",
+      "sku": "743",
+      "cantidad": 2
+    },
+    {
+      "nombre": "Brekera combinada 600v/25A",
+      "sku": "756",
+      "cantidad": 2
+    },
+    {
+      "nombre": "Controlador solar MTTP",
+      "sku": "728",
+      "cantidad": 2
+    },
+    {
+      "nombre": "Disco sierra 230mm",
+      "sku": "699",
+      "cantidad": 2
+    },
+    {
+      "nombre": "Isopo de baño 1350",
+      "sku": "721",
+      "cantidad": 2
+    },
+    {
+      "nombre": "Juego 6 minimuela",
+      "sku": "692",
+      "cantidad": 2
+    },
+    {
+      "nombre": "Juego 8 minigubias",
+      "sku": "698",
+      "cantidad": 2
+    },
+    {
+      "nombre": "Manguera de agua",
+      "sku": "812",
+      "cantidad": 2
+    },
+    {
+      "nombre": "pintura spray amarilla",
+      "sku": "790",
+      "cantidad": 2
+    },
+    {
+      "nombre": "Rollo lija",
+      "sku": "853",
+      "cantidad": 2
+    },
+    {
+      "nombre": "Spray afloja-todo",
+      "sku": "146",
+      "cantidad": 2
+    },
+    {
+      "nombre": "Set de destornillador USA",
+      "sku": "139",
+      "cantidad": 2
+    },
+    {
+      "nombre": "Agarradera paquete",
+      "sku": "375",
+      "cantidad": 2
+    },
+    {
+      "nombre": "Olla de presión 3 válvulas 4lts",
+      "sku": "250",
+      "cantidad": 2
+    },
+    {
+      "nombre": "Grampa paquete",
+      "sku": "378",
+      "cantidad": 2
+    },
+    {
+      "nombre": "Bocina chica",
+      "sku": "817",
+      "cantidad": 3
+    },
+    {
+      "nombre": "Cable 8 cobre",
+      "sku": "747",
+      "cantidad": 3
+    },
+    {
+      "nombre": "Juego de vaso 240ml IMG",
+      "sku": "393",
+      "cantidad": 3
+    },
+    {
+      "nombre": "Medias",
+      "sku": "834",
+      "cantidad": 3
+    },
+    {
+      "nombre": "Pluma mezcladora fregadero",
+      "sku": "777",
+      "cantidad": 3
+    },
+    {
+      "nombre": "Tornillo M6 3\" 75mm",
+      "sku": "791",
+      "cantidad": 3
+    },
+    {
+      "nombre": "Trincha 38mm",
+      "sku": "702",
+      "cantidad": 3
+    },
+    {
+      "nombre": "Trincha 8mm",
+      "sku": "704",
+      "cantidad": 3
+    },
+    {
+      "nombre": "Turbina 1/2 HP",
+      "sku": "602",
+      "cantidad": 3
+    },
+    {
+      "nombre": "Ventilador recargable F60 robotico",
+      "sku": "857",
+      "cantidad": 3
+    },
+    {
+      "nombre": "Bombillo 12w normal",
+      "sku": "191",
+      "cantidad": 3
+    },
+    {
+      "nombre": "Lunchera normal",
+      "sku": "392",
+      "cantidad": 3
+    },
+    {
+      "nombre": "Brekera 13 posiciones",
+      "sku": "773",
+      "cantidad": 4
+    },
+    {
+      "nombre": "Capacitor",
+      "sku": "809",
+      "cantidad": 4
+    },
+    {
+      "nombre": "clavo etecsa grande",
+      "sku": "715",
+      "cantidad": 4
+    },
+    {
+      "nombre": "Ducha de telefono",
+      "sku": "838",
+      "cantidad": 4
+    },
+    {
+      "nombre": "Ecofina",
+      "sku": "700",
+      "cantidad": 4
+    },
+    {
+      "nombre": "Gasolina B94",
+      "sku": "802",
+      "cantidad": 4
+    },
+    {
+      "nombre": "Llave de ángulo 1/2 macho",
+      "sku": "557",
+      "cantidad": 4
+    },
+    {
+      "nombre": "Micrometro",
+      "sku": "680",
+      "cantidad": 4
+    },
+    {
+      "nombre": "Olla arrocera 2.2lts",
+      "sku": "821",
+      "cantidad": 4
+    },
+    {
+      "nombre": "Tijera césped",
+      "sku": "844",
+      "cantidad": 4
+    },
+    {
+      "nombre": "Juego de sartén de inducción 3/pcs",
+      "sku": "341",
+      "cantidad": 4
+    },
+    {
+      "nombre": "Atornilladora de bateria Coofix",
+      "sku": "432",
+      "cantidad": 4
+    },
+    {
+      "nombre": "Llave tyson/tubo 18\"",
+      "sku": "492",
+      "cantidad": 4
+    },
+    {
+      "nombre": "Olla de presión 3 válvulas 5lts",
+      "sku": "249",
+      "cantidad": 4
+    },
+    {
+      "nombre": "Tornillo M9 con tuerca",
+      "sku": "216",
+      "cantidad": 4
+    },
+    {
+      "nombre": "Brekera de 16 Posiciones",
+      "sku": "810",
+      "cantidad": 5
+    },
+    {
+      "nombre": "Cable fotovoltaico calibre 10 rollo 100mts",
+      "sku": "770",
+      "cantidad": 5
+    },
+    {
+      "nombre": "Escuadra angulo plana",
+      "sku": "695",
+      "cantidad": 5
+    },
+    {
+      "nombre": "Lija redonda pqte",
+      "sku": "694",
+      "cantidad": 5
+    },
+    {
+      "nombre": "Pintura galón 3.785lts dorado",
+      "sku": "816",
+      "cantidad": 5
+    },
+    {
+      "nombre": "Pintura Barniz en Spray",
+      "sku": "851",
+      "cantidad": 5
+    },
+    {
+      "nombre": "Sifa doble de desague bañadera",
+      "sku": "839",
+      "cantidad": 5
+    },
+    {
+      "nombre": "Juego de barrena métal 13pcs",
+      "sku": "137",
+      "cantidad": 5
+    },
+    {
+      "nombre": "Presurizador 35lts",
+      "sku": "478",
+      "cantidad": 5
+    },
+    {
+      "nombre": "Anafre grande",
+      "sku": "445",
+      "cantidad": 5
+    },
+    {
+      "nombre": "Cepillo carpintero",
+      "sku": "843",
+      "cantidad": 6
+    },
+    {
+      "nombre": "Palangana grande",
+      "sku": "616",
+      "cantidad": 6
+    },
+    {
+      "nombre": "Transfer automático",
+      "sku": "553",
+      "cantidad": 6
+    },
+    {
+      "nombre": "Taladro Coofix",
+      "sku": "414",
+      "cantidad": 6
+    },
+    {
+      "nombre": "Llana ranurada",
+      "sku": "444",
+      "cantidad": 6
+    },
+    {
+      "nombre": "Disco tungsteno 125mm liso",
+      "sku": "494",
+      "cantidad": 6
+    },
+    {
+      "nombre": "Ventilador de pie ciclón 18\"",
+      "sku": "88",
+      "cantidad": 6
+    },
+    {
+      "nombre": "Ventilador recargable F6 robótico",
+      "sku": "259",
+      "cantidad": 6
+    },
+    {
+      "nombre": "Lampara recargable 30cm",
+      "sku": "73",
+      "cantidad": 7
+    },
+    {
+      "nombre": "Varilla de soldar 6013/3.2mm 30cm",
+      "sku": "385",
+      "cantidad": 7
+    },
+    {
+      "nombre": "Fregadero escurridor boca pequeña",
+      "sku": "82",
+      "cantidad": 7
+    },
+    {
+      "nombre": "Cesto de basura rectangular",
+      "sku": "408",
+      "cantidad": 7
+    },
+    {
+      "nombre": "Bisagra 4x3 libro interior",
+      "sku": "272",
+      "cantidad": 7
+    },
+    {
+      "nombre": "Barra silicona colores",
+      "sku": "682",
+      "cantidad": 8
+    },
+    {
+      "nombre": "Soporte de Instalación para Split",
+      "sku": "833",
+      "cantidad": 8
+    },
+    {
+      "nombre": "Cable 10 cobre",
+      "sku": "748",
+      "cantidad": 8
+    },
+    {
+      "nombre": "Cable 8 aluminio",
+      "sku": "819",
+      "cantidad": 8
+    },
+    {
+      "nombre": "Plastik loka",
+      "sku": "858",
+      "cantidad": 8
+    },
+    {
+      "nombre": "Fosforera magneto pequeña",
+      "sku": "49",
+      "cantidad": 8
+    },
+    {
+      "nombre": "Batidora licuadora 2 en 1",
+      "sku": "845",
+      "cantidad": 9
+    },
+    {
+      "nombre": "Reflector led 100watts",
+      "sku": "737",
+      "cantidad": 9
+    },
+    {
+      "nombre": "Bisagra 4x3 intaliana",
+      "sku": "559",
+      "cantidad": 9
+    },
+    {
+      "nombre": "Aplicador",
+      "sku": "658",
+      "cantidad": 10
+    },
+    {
+      "nombre": "Cuchilla manual 3/polos 100A",
+      "sku": "574",
+      "cantidad": 10
+    },
+    {
+      "nombre": "Extensión 9 fts",
+      "sku": "719",
+      "cantidad": 10
+    },
+    {
+      "nombre": "Mochila",
+      "sku": "829",
+      "cantidad": 10
+    },
+    {
+      "nombre": "Olla arrocera 1.8 EKO",
+      "sku": "571",
+      "cantidad": 10
+    },
+    {
+      "nombre": "Perchero docena",
+      "sku": "461",
+      "cantidad": 10
+    },
+    {
+      "nombre": "Transfer ATS unizuki",
+      "sku": "757",
+      "cantidad": 10
+    },
+    {
+      "nombre": "Base de 20 doble",
+      "sku": "575",
+      "cantidad": 55
+    },
+    {
+      "nombre": "Olla Arrocera de 1.5L",
+      "sku": "846",
+      "cantidad": 3
+    },
+    {
+      "nombre": "Batidora Estelectric",
+      "sku": "343",
+      "cantidad": 9
+    },
+    {
+      "nombre": "Cable 12 aluminio",
+      "sku": "231",
+      "cantidad": 10
+    },
+    {
+      "nombre": "Bomba de Aire",
+      "sku": "848",
+      "cantidad": 11
+    },
+    {
+      "nombre": "Cajita decodificadora TV",
+      "sku": "847",
+      "cantidad": 11
+    },
+    {
+      "nombre": "Cuchilla manual 3/polos 63A",
+      "sku": "780",
+      "cantidad": 11
+    },
+    {
+      "nombre": "Base de tv 14-42 pulgadas",
+      "sku": "19",
+      "cantidad": 11
+    },
+    {
+      "nombre": "Casco criollo",
+      "sku": "534",
+      "cantidad": 12
+    },
+    {
+      "nombre": "Set juego de plumón",
+      "sku": "723",
+      "cantidad": 12
+    },
+    {
+      "nombre": "Juego de 7 pozuelo normal",
+      "sku": "410",
+      "cantidad": 12
+    },
+    {
+      "nombre": "Pluma cuello de ganso por debajo",
+      "sku": "58",
+      "cantidad": 12
+    },
+    {
+      "nombre": "Pulidora Coofix 750watts",
+      "sku": "260",
+      "cantidad": 12
+    },
+    {
+      "nombre": "Juego de cubo proefix de 46pcs rojo",
+      "sku": "18",
+      "cantidad": 12
+    },
+    {
+      "nombre": "Set de destornillador golpe",
+      "sku": "140",
+      "cantidad": 12
+    },
+    {
+      "nombre": "Set de destornilladores SEAL pareja",
+      "sku": "328",
+      "cantidad": 12
+    },
+    {
+      "nombre": "Alambre de amarrar cabilla",
+      "sku": "793",
+      "cantidad": 13
+    },
+    {
+      "nombre": "Breker 25A doble AC",
+      "sku": "746",
+      "cantidad": 13
+    },
+    {
+      "nombre": "Resistencia eléctrica 4 vueltas",
+      "sku": "71",
+      "cantidad": 13
+    },
+    {
+      "nombre": "Set de herrmaientas mixto",
+      "sku": "647",
+      "cantidad": 14
+    },
+    {
+      "nombre": "Sifa fregadero flexible boca chica",
+      "sku": "340",
+      "cantidad": 14
+    },
+    {
+      "nombre": "Regulador de gas",
+      "sku": "120",
+      "cantidad": 14
+    },
+    {
+      "nombre": "Herraje de baño",
+      "sku": "193",
+      "cantidad": 14
+    },
+    {
+      "nombre": "Olla multipropósito/reina 90min-6lts Esteletric",
+      "sku": "80",
+      "cantidad": 14
+    },
+    {
+      "nombre": "Anafres chiquito",
+      "sku": "370",
+      "cantidad": 14
+    },
+    {
+      "nombre": "Cascos originales",
+      "sku": "83",
+      "cantidad": 14
+    },
+    {
+      "nombre": "Agarradera mediana dorada",
+      "sku": "627",
+      "cantidad": 15
+    },
+    {
+      "nombre": "Isopo de baño 1800",
+      "sku": "720",
+      "cantidad": 15
+    },
+    {
+      "nombre": "Precinta color marrón grande",
+      "sku": "159",
+      "cantidad": 15
+    },
+    {
+      "nombre": "Tarraja plástica",
+      "sku": "430",
+      "cantidad": 15
+    },
+    {
+      "nombre": "Cuello ganso flexible a la pared",
+      "sku": "288",
+      "cantidad": 16
+    },
+    {
+      "nombre": "Juego de barrena tungsteno 5pcs",
+      "sku": "136",
+      "cantidad": 16
+    },
+    {
+      "nombre": "Disco corte metal 180mm",
+      "sku": "291",
+      "cantidad": 16
+    },
+    {
+      "nombre": "Brida 4.8x400mm",
+      "sku": "417",
+      "cantidad": 16
+    },
+    {
+      "nombre": "Cheque de plástico 1\"",
+      "sku": "345",
+      "cantidad": 16
+    },
+    {
+      "nombre": "Fregadero sencillo",
+      "sku": "469",
+      "cantidad": 16
+    },
+    {
+      "nombre": "Pintura en spray Blanco Mate",
+      "sku": "850",
+      "cantidad": 17
+    },
+    {
+      "nombre": "Aragán",
+      "sku": "448",
+      "cantidad": 17
+    },
+    {
+      "nombre": "Cuchilla manual 2/polos 63A",
+      "sku": "131",
+      "cantidad": 17
+    },
+    {
+      "nombre": "Pluma cuello de ganso a la pared",
+      "sku": "57",
+      "cantidad": 17
+    },
+    {
+      "nombre": "PVC 250ml",
+      "sku": "455",
+      "cantidad": 17
+    },
+    {
+      "nombre": "PVC 500gr azul",
+      "sku": "350",
+      "cantidad": 17
+    },
+    {
+      "nombre": "Breker 25A triple AC",
+      "sku": "744",
+      "cantidad": 18
+    },
+    {
+      "nombre": "Extensión 3mts regleta",
+      "sku": "21",
+      "cantidad": 18
+    },
+    {
+      "nombre": "Disco debaste 180\"mm",
+      "sku": "100",
+      "cantidad": 18
+    },
+    {
+      "nombre": "Bañadera de bebé",
+      "sku": "495",
+      "cantidad": 18
+    },
+    {
+      "nombre": "Cepillo de lavar madera",
+      "sku": "673",
+      "cantidad": 19
+    },
+    {
+      "nombre": "Interruptor sencillo palanca",
+      "sku": "175",
+      "cantidad": 19
+    },
+    {
+      "nombre": "Cerrucho",
+      "sku": "201",
+      "cantidad": 19
+    },
+    {
+      "nombre": "Pintura spray cromado",
+      "sku": "506",
+      "cantidad": 19
+    },
+    {
+      "nombre": "Cepillo de copa normal 800$",
+      "sku": "548",
+      "cantidad": 20
+    },
+    {
+      "nombre": "Reflector led 50watts",
+      "sku": "46",
+      "cantidad": 20
+    },
+    {
+      "nombre": "Pintura spray azul diamond brillante proefix",
+      "sku": "391",
+      "cantidad": 20
+    },
+    {
+      "nombre": "Silicona de alta temperatura 700",
+      "sku": "479",
+      "cantidad": 20
+    },
+    {
+      "nombre": "Fogón de petroleo",
+      "sku": "637",
+      "cantidad": 21
+    },
+    {
+      "nombre": "Anilla 3/4",
+      "sku": "324",
+      "cantidad": 21
+    },
+    {
+      "nombre": "Unión universal 3/4\"",
+      "sku": "443",
+      "cantidad": 21
+    },
+    {
+      "nombre": "Llavín picaporte plateado",
+      "sku": "128",
+      "cantidad": 21
+    },
+    {
+      "nombre": "Conector Y",
+      "sku": "643",
+      "cantidad": 22
+    },
+    {
+      "nombre": "Interruptor de Timbre",
+      "sku": "840",
+      "cantidad": 22
+    },
+    {
+      "nombre": "Spray anti ponche",
+      "sku": "808",
+      "cantidad": 22
+    },
+    {
+      "nombre": "Toma corriente sencillo 20A",
+      "sku": "803",
+      "cantidad": 22
+    },
+    {
+      "nombre": "Cepillo de lavar plástico",
+      "sku": "304",
+      "cantidad": 22
+    },
+    {
+      "nombre": "Juego de llave allen 9pcs corto",
+      "sku": "147",
+      "cantidad": 22
+    },
+    {
+      "nombre": "Breker 63A y 32A doble DC",
+      "sku": "759",
+      "cantidad": 23
+    },
+    {
+      "nombre": "Codo 3/4- 45 grados",
+      "sku": "411",
+      "cantidad": 23
+    },
+    {
+      "nombre": "Cinta 5 mts",
+      "sku": "629",
+      "cantidad": 24
+    },
+    {
+      "nombre": "Brocha 3\"",
+      "sku": "601",
+      "cantidad": 25
+    },
+    {
+      "nombre": "Codo de 50",
+      "sku": "546",
+      "cantidad": 26
+    },
+    {
+      "nombre": "Breker 32A doble AC",
+      "sku": "745",
+      "cantidad": 27
+    },
+    {
+      "nombre": "Llave de paso 1\" plástica",
+      "sku": "63",
+      "cantidad": 27
+    },
+    {
+      "nombre": "Bases de resistencia de aluminio",
+      "sku": "207",
+      "cantidad": 27
+    },
+    {
+      "nombre": "Escobillón 1400",
+      "sku": "742",
+      "cantidad": 28
+    },
+    {
+      "nombre": "Interruptor doble",
+      "sku": "176",
+      "cantidad": 28
+    },
+    {
+      "nombre": "Terminal para baterías/bornes",
+      "sku": "162",
+      "cantidad": 28
+    },
+    {
+      "nombre": "Llave empotrada de ducha",
+      "sku": "52",
+      "cantidad": 28
+    },
+    {
+      "nombre": "Llave lavamano zapatilla",
+      "sku": "567",
+      "cantidad": 29
+    },
+    {
+      "nombre": "Cinta 7.5mts",
+      "sku": "205",
+      "cantidad": 29
+    },
+    {
+      "nombre": "Pintura 1/litro barniz",
+      "sku": "441",
+      "cantidad": 29
+    },
+    {
+      "nombre": "Pintura 1/litro blanco",
+      "sku": "381",
+      "cantidad": 29
+    },
+    {
+      "nombre": "Silicona de cristal",
+      "sku": "177",
+      "cantidad": 29
+    },
+    {
+      "nombre": "Lima 900",
+      "sku": "604",
+      "cantidad": 30
+    },
+    {
+      "nombre": "Mando universal",
+      "sku": "180",
+      "cantidad": 30
+    },
+    {
+      "nombre": "Sifa de piso poseta",
+      "sku": "56",
+      "cantidad": 30
+    },
+    {
+      "nombre": "Brida 4.8x300mm",
+      "sku": "531",
+      "cantidad": 31
+    },
+    {
+      "nombre": "Cajita 4x4",
+      "sku": "93",
+      "cantidad": 31
+    },
+    {
+      "nombre": "Tenaza de soldar 600Amp",
+      "sku": "426",
+      "cantidad": 31
+    },
+    {
+      "nombre": "Sifa fregadero flexible boca ancha",
+      "sku": "425",
+      "cantidad": 31
+    },
+    {
+      "nombre": "Cepillo de diente niño",
+      "sku": "654",
+      "cantidad": 32
+    },
+    {
+      "nombre": "Fosforera de piedra",
+      "sku": "795",
+      "cantidad": 32
+    },
+    {
+      "nombre": "Codo 3/4\"",
+      "sku": "77",
+      "cantidad": 33
+    },
+    {
+      "nombre": "Set de destornilladores MAXI pareja",
+      "sku": "468",
+      "cantidad": 33
+    },
+    {
+      "nombre": "Canaletas fina",
+      "sku": "364",
+      "cantidad": 34
+    },
+    {
+      "nombre": "Cheque de bronce 1\"",
+      "sku": "61",
+      "cantidad": 34
+    },
+    {
+      "nombre": "Brocha 4\"",
+      "sku": "115",
+      "cantidad": 34
+    },
+    {
+      "nombre": "Bussin 3/4-1/2\"",
+      "sku": "234",
+      "cantidad": 35
+    },
+    {
+      "nombre": "Pintura spray verde",
+      "sku": "507",
+      "cantidad": 35
+    },
+    {
+      "nombre": "Tomacorrientes Mixto Amarillo",
+      "sku": "805",
+      "cantidad": 36
+    },
+    {
+      "nombre": "Interruptor sencillo original",
+      "sku": "590",
+      "cantidad": 37
+    },
+    {
+      "nombre": "Precilla grande",
+      "sku": "631",
+      "cantidad": 37
+    },
+    {
+      "nombre": "Toma corriente combinado mixto",
+      "sku": "282",
+      "cantidad": 37
+    },
+    {
+      "nombre": "Pluma plástica de jardín 1/2 tiro rápido",
+      "sku": "60",
+      "cantidad": 37
+    },
+    {
+      "nombre": "Brekera 2 posiciones",
+      "sku": "741",
+      "cantidad": 38
+    },
+    {
+      "nombre": "Niple 1/2",
+      "sku": "613",
+      "cantidad": 38
+    },
+    {
+      "nombre": "Llave de paso 1/2\" plástica",
+      "sku": "361",
+      "cantidad": 40
+    },
+    {
+      "nombre": "Unión universal 1\"",
+      "sku": "232",
+      "cantidad": 40
+    },
+    {
+      "nombre": "Brocha 6\"",
+      "sku": "95",
+      "cantidad": 40
+    },
+    {
+      "nombre": "Protector 110vol 20A",
+      "sku": "261",
+      "cantidad": 41
+    },
+    {
+      "nombre": "Disco tungsteno 115mm liso",
+      "sku": "285",
+      "cantidad": 42
+    },
+    {
+      "nombre": "Sálida de tanque de 1\"",
+      "sku": "75",
+      "cantidad": 43
+    },
+    {
+      "nombre": "Espiga",
+      "sku": "39",
+      "cantidad": 44
+    },
+    {
+      "nombre": "Toalla húmeda",
+      "sku": "655",
+      "cantidad": 45
+    },
+    {
+      "nombre": "Pelota",
+      "sku": "396",
+      "cantidad": 45
+    },
+    {
+      "nombre": "Supresor de voltaje 110v",
+      "sku": "485",
+      "cantidad": 46
+    },
+    {
+      "nombre": "Tornillo M8 con tuerca",
+      "sku": "464",
+      "cantidad": 46
+    },
+    {
+      "nombre": "Brekera 9 posiciones",
+      "sku": "772",
+      "cantidad": 47
+    },
+    {
+      "nombre": "Manguera de gas",
+      "sku": "238",
+      "cantidad": 47
+    },
+    {
+      "nombre": "Llave de ángulo 1/2 hembra",
+      "sku": "53",
+      "cantidad": 48
+    },
+    {
+      "nombre": "Cinta 3mts",
+      "sku": "517",
+      "cantidad": 50
+    },
+    {
+      "nombre": "Interruptor triple",
+      "sku": "804",
+      "cantidad": 51
+    },
+    {
+      "nombre": "Tubo led 40/ 2 polo",
+      "sku": "154",
+      "cantidad": 51
+    },
+    {
+      "nombre": "Silicona de alta temperatura proefix",
+      "sku": "179",
+      "cantidad": 51
+    },
+    {
+      "nombre": "Reducido 3/4-1/2",
+      "sku": "837",
+      "cantidad": 53
+    },
+    {
+      "nombre": "Disco mil-hoja",
+      "sku": "284",
+      "cantidad": 53
+    },
+    {
+      "nombre": "Manguera corrugada",
+      "sku": "310",
+      "cantidad": 55
+    },
+    {
+      "nombre": "Adaptador redondo-plano",
+      "sku": "42",
+      "cantidad": 56
+    },
+    {
+      "nombre": "Bombillo led 9watts normal",
+      "sku": "74",
+      "cantidad": 56
+    },
+    {
+      "nombre": "Teype 10mts",
+      "sku": "713",
+      "cantidad": 58
+    },
+    {
+      "nombre": "Vaso plástico",
+      "sku": "814",
+      "cantidad": 60
+    },
+    {
+      "nombre": "Sócalo de bombillo normal",
+      "sku": "138",
+      "cantidad": 60
+    },
+    {
+      "nombre": "Vela grande 8/unidades",
+      "sku": "47",
+      "cantidad": 61
+    },
+    {
+      "nombre": "T 1\"",
+      "sku": "76",
+      "cantidad": 62
+    },
+    {
+      "nombre": "Base de 20 sencilla",
+      "sku": "158",
+      "cantidad": 63
+    },
+    {
+      "nombre": "Interruptor LIOA",
+      "sku": "806",
+      "cantidad": 64
+    },
+    {
+      "nombre": "Disco de sierra madera115mm",
+      "sku": "593",
+      "cantidad": 66
+    },
+    {
+      "nombre": "Pila AA",
+      "sku": "453",
+      "cantidad": 66
+    },
+    {
+      "nombre": "Codo 1\"",
+      "sku": "194",
+      "cantidad": 67
+    },
+    {
+      "nombre": "Lámpara recargable 50cm",
+      "sku": "268",
+      "cantidad": 69
+    },
+    {
+      "nombre": "Pintura spray rojo",
+      "sku": "783",
+      "cantidad": 72
+    },
+    {
+      "nombre": "Botonera",
+      "sku": "635",
+      "cantidad": 74
+    },
+    {
+      "nombre": "Tubo de 20 led",
+      "sku": "157",
+      "cantidad": 76
+    },
+    {
+      "nombre": "Lima",
+      "sku": "174",
+      "cantidad": 76
+    },
+    {
+      "nombre": "T 1/2",
+      "sku": "226",
+      "cantidad": 77
+    },
+    {
+      "nombre": "Anilla 1/2",
+      "sku": "617",
+      "cantidad": 79
+    },
+    {
+      "nombre": "Cable fotovoltaico calibre 10 x metro",
+      "sku": "854",
+      "cantidad": 80
+    },
+    {
+      "nombre": "Precinta transparente",
+      "sku": "161",
+      "cantidad": 80
+    },
+    {
+      "nombre": "Canaleta extra-fina",
+      "sku": "798",
+      "cantidad": 81
+    },
+    {
+      "nombre": "Bombillo recargable 2 baterías/pilas",
+      "sku": "545",
+      "cantidad": 84
+    },
+    {
+      "nombre": "Brocha 2\"",
+      "sku": "116",
+      "cantidad": 87
+    },
+    {
+      "nombre": "Lapicero",
+      "sku": "533",
+      "cantidad": 88
+    },
+    {
+      "nombre": "Pega uña",
+      "sku": "130",
+      "cantidad": 90
+    },
+    {
+      "nombre": "Disco debaste 115\"mm",
+      "sku": "275",
+      "cantidad": 91
+    },
+    {
+      "nombre": "Cemento blanco 1kg",
+      "sku": "236",
+      "cantidad": 95
+    },
+    {
+      "nombre": "Niple 3/4",
+      "sku": "836",
+      "cantidad": 99
+    },
+    {
+      "nombre": "Adaptador universal",
+      "sku": "163",
+      "cantidad": 99
+    },
+    {
+      "nombre": "Teflón",
+      "sku": "181",
+      "cantidad": 101
+    },
+    {
+      "nombre": "Agarradera pequeña",
+      "sku": "649",
+      "cantidad": 105
+    },
+    {
+      "nombre": "Toma corriente plano normal",
+      "sku": "35",
+      "cantidad": 110
+    },
+    {
+      "nombre": "Latiguillo",
+      "sku": "769",
+      "cantidad": 114
+    },
+    {
+      "nombre": "Toma corriente universal",
+      "sku": "36",
+      "cantidad": 115
+    },
+    {
+      "nombre": "Palillo docena",
+      "sku": "363",
+      "cantidad": 122
+    },
+    {
+      "nombre": "Cajita 4x2",
+      "sku": "266",
+      "cantidad": 130
+    },
+    {
+      "nombre": "Disco corte jumlee 125mm",
+      "sku": "639",
+      "cantidad": 137
+    },
+    {
+      "nombre": "Junquillo",
+      "sku": "832",
+      "cantidad": 149
+    },
+    {
+      "nombre": "Barra de silicona",
+      "sku": "209",
+      "cantidad": 153
+    },
+    {
+      "nombre": "Conector MC4",
+      "sku": "634",
+      "cantidad": 171
+    },
+    {
+      "nombre": "Cable 16 cobre",
+      "sku": "830",
+      "cantidad": 176
+    },
+    {
+      "nombre": "Codo 1/2\"",
+      "sku": "195",
+      "cantidad": 177
+    },
+    {
+      "nombre": "Brocha 1\"",
+      "sku": "118",
+      "cantidad": 180
+    },
+    {
+      "nombre": "Lapicero blanco",
+      "sku": "815",
+      "cantidad": 184
+    },
+    {
+      "nombre": "Estropajo alambre",
+      "sku": "662",
+      "cantidad": 213
+    },
+    {
+      "nombre": "Expansor mecanico m10",
+      "sku": "855",
+      "cantidad": 216
+    },
+    {
+      "nombre": "Clavo x libra",
+      "sku": "541",
+      "cantidad": 393
+    },
+    {
+      "nombre": "Expansor marco-puerta 3\" plástico",
+      "sku": "108",
+      "cantidad": 407
+    },
+    {
+      "nombre": "Pila AAA",
+      "sku": "166",
+      "cantidad": 538
+    },
+    {
+      "nombre": "Clavo techo 4\"",
+      "sku": "740",
+      "cantidad": 790
+    },
+    {
+      "nombre": "Disco de corte metal 115\"mm",
+      "sku": "99",
+      "cantidad": 845
+    },
+    {
+      "nombre": "Disco de corte superfuerza 125mm",
+      "sku": "318",
+      "cantidad": 876
+    },
+    {
+      "nombre": "Pozuelo 200",
+      "sku": "540",
+      "cantidad": 899
+    },
+    {
+      "nombre": "Expansor mecánico M6",
+      "sku": "110",
+      "cantidad": 908
+    },
+    {
+      "nombre": "Tornillo allen",
+      "sku": "856",
+      "cantidad": 946
+    },
+    {
+      "nombre": "Fosforera magneto grande",
+      "sku": "782",
+      "cantidad": 968
+    },
+    {
+      "nombre": "Lija de agua profesional",
+      "sku": "212",
+      "cantidad": 1091
+    },
+    {
+      "nombre": "Tornillo M5 2\" con tuerca",
+      "sku": "797",
+      "cantidad": 1643
+    },
+    {
+      "nombre": "Tornillo M6 2\" 50mm",
+      "sku": "771",
+      "cantidad": 1878
+    },
+    {
+      "nombre": "Clavo techo 5\"",
+      "sku": "667",
+      "cantidad": 2146
+    },
+    {
+      "nombre": "Tornillo rosca chapa 1\" 10mm",
+      "sku": "102",
+      "cantidad": 2205
+    },
+    {
+      "nombre": "Tornillo tira-fondo pladur 1\"3/4\"/45mm x caja 360",
+      "sku": "599",
+      "cantidad": 3701
+    },
+    {
+      "nombre": "Varilla de techo",
+      "sku": "314",
+      "cantidad": 6729
+    },
+    {
+      "nombre": "Tornillo tira-fondo pladur 1\"/25mm x caja 600",
+      "sku": "281",
+      "cantidad": 8853
+    },
+    {
+      "nombre": "Chirri 2\" fino",
+      "sku": "433",
+      "cantidad": 9194
+    },
+    {
+      "nombre": "Tornillo tira-fondo pladur 1 1/2\"/35mm x caja 420",
+      "sku": "581",
+      "cantidad": 9409
+    },
+    {
+      "nombre": "Varilla de soldar 6013/3.2mm 35cm",
+      "sku": "94",
+      "cantidad": 9662
+    },
+    {
+      "nombre": "Tornillo tira-fondo cabeza plana",
+      "sku": "831",
+      "cantidad": 10000
+    },
+    {
+      "nombre": "Tornillo MM 1/2\" SPC cajita de 560",
+      "sku": "465",
+      "cantidad": 10491
+    },
+    {
+      "nombre": "Expansores plásticos 6x40",
+      "sku": "98",
+      "cantidad": 61495
+    }
+  ],
+  "almacenesExtra": [
+    {
+      "id": "alm_mtht8sw03fl4",
+      "nombre": "Almacén Casa de Carlos",
+      "icono": "📦",
+      "productos": [
+        {
+          "nombre": "Casco criollo",
+          "sku": "534",
+          "cantidad": 800
+        },
+        {
+          "nombre": "Fogón de petroleo",
+          "sku": "637",
+          "cantidad": 30
+        },
+        {
+          "nombre": "Olla arrocera 1.5lts",
+          "sku": "846",
+          "cantidad": 36
+        },
+        {
+          "nombre": "Olla arrocera 1.8 EKO",
+          "sku": "571",
+          "cantidad": 20
+        },
+        {
+          "nombre": "Pintura spray rojo",
+          "sku": "783",
+          "cantidad": 24
+        },
+        {
+          "nombre": "Base de 20 sencilla",
+          "sku": "158",
+          "cantidad": 120
+        },
+        {
+          "nombre": "Tubo de 20 led",
+          "sku": "157",
+          "cantidad": 210
+        },
+        {
+          "nombre": "Tubo led 40",
+          "sku": "154",
+          "cantidad": 75
+        },
+        {
+          "nombre": "Herraje de baño",
+          "sku": "193",
+          "cantidad": 50
+        },
+        {
+          "nombre": "Llave empotrada de ducha",
+          "sku": "52",
+          "cantidad": 60
+        },
+        {
+          "nombre": "Pintura spray verde",
+          "sku": "507",
+          "cantidad": 288
+        },
+        {
+          "nombre": "Silicona de alta temperat",
+          "sku": "479",
+          "cantidad": 144
+        },
+        {
+          "nombre": "Varilla de Soldar 6013 de 3,2mm 35cm",
+          "sku": "94",
+          "cantidad": 74980
+        },
+        {
+          "nombre": "Varilla de techo",
+          "sku": "314",
+          "cantidad": 10000
+        },
+        {
+          "nombre": "Batidora Estelectric",
+          "sku": "343",
+          "cantidad": 40
+        },
+        {
+          "nombre": "Olla multipropósito/rein",
+          "sku": "80",
+          "cantidad": 10
+        },
+        {
+          "nombre": "Resistencia eléctrica 4",
+          "sku": "71",
+          "cantidad": 50
+        }
+      ]
+    }
+  ],
+  "etiquetas": {
+    "productos": "Almacén de Piso de Venta"
+  }
 }
