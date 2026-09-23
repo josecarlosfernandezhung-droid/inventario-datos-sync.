@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-23T14:41:56.940Z",
+  "actualizado": "2026-09-23T16:43:51.128Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -1119,7 +1119,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": 125
+      "stock": 105
     },
     {
       "nombre": "Casco criollo vicera",
@@ -6725,7 +6725,7 @@
     {
       "nombre": "Casco criollo",
       "sku": "534",
-      "cantidad": 12
+      "cantidad": 32
     },
     {
       "nombre": "Set juego de plumón",
