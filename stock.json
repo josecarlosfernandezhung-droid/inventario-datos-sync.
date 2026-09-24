@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-24T14:18:36.500Z",
+  "actualizado": "2026-09-24T14:31:41.588Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -687,7 +687,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": 30
+      "stock": 10
     },
     {
       "nombre": "Brocha 1\"",
@@ -1991,7 +1991,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Baño",
-      "stock": 300
+      "stock": 270
     },
     {
       "nombre": "Esponja fregar",
@@ -2255,7 +2255,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "",
-      "stock": 12
+      "stock": 9
     },
     {
       "nombre": "Forro mueble",
@@ -2383,7 +2383,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": 15
+      "stock": 10
     },
     {
       "nombre": "Herramienta recogida magnetica",
@@ -3263,7 +3263,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": 30
+      "stock": 0
     },
     {
       "nombre": "Manguera corrugada",
@@ -3911,7 +3911,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": 72
+      "stock": 60
     },
     {
       "nombre": "Pintura spray verde",
@@ -4135,7 +4135,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": 68
+      "stock": 48
     },
     {
       "nombre": "Protector 220 simple/entrada 15A",
@@ -4455,7 +4455,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": 25
+      "stock": 20
     },
     {
       "nombre": "Silicona de alta temperatura 700",
@@ -4463,7 +4463,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": 36
+      "stock": 0
     },
     {
       "nombre": "Silicona de alta temperatura proefix",
@@ -4991,7 +4991,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": 510
+      "stock": 480
     },
     {
       "nombre": "Tubo led 40/ 1polo",
@@ -5575,7 +5575,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": 6
+      "stock": 0
     },
     {
       "nombre": "Maquina de Soldar",
@@ -5607,7 +5607,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": 24
+      "stock": 12
     },
     {
       "nombre": "Pintura Barniz en Spray",
@@ -6682,7 +6682,7 @@
     {
       "nombre": "Olla Arrocera de 1.5L",
       "sku": "846",
-      "cantidad": 3
+      "cantidad": 9
     },
     {
       "nombre": "Batidora Estelectric",
@@ -6777,7 +6777,7 @@
     {
       "nombre": "Sifa fregadero flexible boca chica",
       "sku": "340",
-      "cantidad": 14
+      "cantidad": 19
     },
     {
       "nombre": "Regulador de gas",
@@ -6787,7 +6787,7 @@
     {
       "nombre": "Herraje de baño",
       "sku": "193",
-      "cantidad": 14
+      "cantidad": 19
     },
     {
       "nombre": "Olla multipropósito/reina 90min-6lts Esteletric",
@@ -6842,7 +6842,7 @@
     {
       "nombre": "Brida 4.8x400mm",
       "sku": "417",
-      "cantidad": 16
+      "cantidad": 36
     },
     {
       "nombre": "Cheque de plástico 1\"",
@@ -6857,7 +6857,7 @@
     {
       "nombre": "Pintura en spray Blanco Mate",
       "sku": "850",
-      "cantidad": 17
+      "cantidad": 29
     },
     {
       "nombre": "Aragán",
@@ -6942,12 +6942,12 @@
     {
       "nombre": "Silicona de alta temperatura 700",
       "sku": "479",
-      "cantidad": 20
+      "cantidad": 56
     },
     {
       "nombre": "Fogón de petroleo",
       "sku": "637",
-      "cantidad": 21
+      "cantidad": 24
     },
     {
       "nombre": "Anilla 3/4",
@@ -7087,7 +7087,7 @@
     {
       "nombre": "Mando universal",
       "sku": "180",
-      "cantidad": 30
+      "cantidad": 60
     },
     {
       "nombre": "Sifa de piso poseta",
@@ -7212,7 +7212,7 @@
     {
       "nombre": "Protector 110vol 20A",
       "sku": "261",
-      "cantidad": 41
+      "cantidad": 61
     },
     {
       "nombre": "Disco tungsteno 115mm liso",
@@ -7227,7 +7227,7 @@
     {
       "nombre": "Espiga",
       "sku": "39",
-      "cantidad": 44
+      "cantidad": 74
     },
     {
       "nombre": "Toalla húmeda",
@@ -7367,7 +7367,7 @@
     {
       "nombre": "Pintura spray rojo",
       "sku": "783",
-      "cantidad": 72
+      "cantidad": 84
     },
     {
       "nombre": "Botonera",
@@ -7377,7 +7377,7 @@
     {
       "nombre": "Tubo de 20 led",
       "sku": "157",
-      "cantidad": 76
+      "cantidad": 106
     },
     {
       "nombre": "Lima",
