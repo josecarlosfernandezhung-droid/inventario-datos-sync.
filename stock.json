@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-24T14:18:27.244Z",
+  "actualizado": "2026-09-24T14:18:36.500Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -1959,7 +1959,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": 100
+      "stock": 85
     },
     {
       "nombre": "Escuadra angulo plana",
@@ -7037,7 +7037,7 @@
     {
       "nombre": "Escobillón 1400",
       "sku": "742",
-      "cantidad": 28
+      "cantidad": 43
     },
     {
       "nombre": "Interruptor doble",
