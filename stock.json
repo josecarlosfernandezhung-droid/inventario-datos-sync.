@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-24T17:19:38.590Z",
+  "actualizado": "2026-09-24T17:25:56.703Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -295,7 +295,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": 360
+      "stock": 300
     },
     {
       "nombre": "Base de tv 14\"-55\" giratoria",
@@ -447,7 +447,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "",
-      "stock": 100
+      "stock": 0
     },
     {
       "nombre": "Bombillo recargable 2 baterías/pilas",
@@ -2535,7 +2535,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": 20
+      "stock": 0
     },
     {
       "nombre": "Juego de cazuela de inducción 10 pcs",
@@ -4183,7 +4183,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": 20
+      "stock": 10
     },
     {
       "nombre": "Pulidora SACO 900watts",
@@ -4207,7 +4207,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": 24
+      "stock": 0
     },
     {
       "nombre": "PVC 500gr azul",
@@ -4583,7 +4583,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": 15
+      "stock": 10
     },
     {
       "nombre": "Taladro Saco",
@@ -5023,7 +5023,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": 3
+      "stock": 0
     },
     {
       "nombre": "Úla Úla ula",
@@ -5319,7 +5319,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": 8
+      "stock": 6
     },
     {
       "nombre": "Palangana criolla",
@@ -6212,7 +6212,7 @@
     {
       "nombre": "Olla de presión 3 válvulas 11lts",
       "sku": "820",
-      "cantidad": 1
+      "cantidad": 3
     },
     {
       "nombre": "Pala 4500$",
@@ -6367,7 +6367,7 @@
     {
       "nombre": "Turbina 1/2 HP",
       "sku": "602",
-      "cantidad": 2
+      "cantidad": 5
     },
     {
       "nombre": "Juego de barrena métal 13pcs",
@@ -6497,7 +6497,7 @@
     {
       "nombre": "Taladro Coofix",
       "sku": "414",
-      "cantidad": 4
+      "cantidad": 9
     },
     {
       "nombre": "Llave tyson/tubo 18\"",
@@ -6747,7 +6747,7 @@
     {
       "nombre": "Base de 20 sencilla",
       "sku": "158",
-      "cantidad": 40
+      "cantidad": 100
     },
     {
       "nombre": "Olla Arrocera de 1.5L",
@@ -6762,7 +6762,7 @@
     {
       "nombre": "Pulidora Coofix 750watts",
       "sku": "260",
-      "cantidad": 8
+      "cantidad": 18
     },
     {
       "nombre": "Batidora Estelectric",
@@ -6812,7 +6812,7 @@
     {
       "nombre": "Juego de barrena tungsteno 5pcs",
       "sku": "136",
-      "cantidad": 13
+      "cantidad": 33
     },
     {
       "nombre": "Fregadero sencillo",
@@ -6917,7 +6917,7 @@
     {
       "nombre": "PVC 250ml",
       "sku": "455",
-      "cantidad": 17
+      "cantidad": 41
     },
     {
       "nombre": "Disco debaste 180\"mm",
@@ -7057,7 +7057,7 @@
     {
       "nombre": "Bombillo led 9watts normal",
       "sku": "74",
-      "cantidad": 24
+      "cantidad": 124
     },
     {
       "nombre": "Cable fotovoltaico calibre 10 x metro",
