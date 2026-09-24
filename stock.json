@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-24T17:25:56.703Z",
+  "actualizado": "2026-09-24T17:30:28.838Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -4991,7 +4991,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": 480
+      "stock": 450
     },
     {
       "nombre": "Tubo led 40/ 1polo",
@@ -6737,7 +6737,7 @@
     {
       "nombre": "Tubo de 20 led",
       "sku": "157",
-      "cantidad": 27
+      "cantidad": 57
     },
     {
       "nombre": "Base de 20 doble",
