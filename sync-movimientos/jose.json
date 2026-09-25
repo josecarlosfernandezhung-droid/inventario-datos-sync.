@@ -1,6 +1,6 @@
 {
   "dispositivo": "José",
-  "actualizado": "2026-09-24T17:32:12.270Z",
+  "actualizado": "2026-09-25T16:46:17.817Z",
   "movimientos": [
     {
       "id": 1787663644087,
@@ -5900,6 +5900,54 @@
       "cantidad": 30,
       "unidad": "piezas",
       "referencia": "157",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": "José"
+    },
+    {
+      "id": 1790272762187,
+      "tipo": "salida",
+      "fecha": "2026-09-24",
+      "producto": "Lapicero",
+      "cantidad": 100,
+      "unidad": "piezas",
+      "referencia": "533",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": "José"
+    },
+    {
+      "id": 1790276054635,
+      "tipo": "salida",
+      "fecha": "2026-09-24",
+      "producto": "Escobillón 1400",
+      "cantidad": 15,
+      "unidad": "piezas",
+      "referencia": "742",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": "José"
+    },
+    {
+      "id": 1790348409554,
+      "tipo": "salida",
+      "fecha": "2026-09-25",
+      "producto": "Canaletas fina",
+      "cantidad": 60,
+      "unidad": "piezas",
+      "referencia": "364",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": "José"
+    },
+    {
+      "id": 1790348954699,
+      "tipo": "salida",
+      "fecha": "2026-09-25",
+      "producto": "Escobillón 1400",
+      "cantidad": 20,
+      "unidad": "piezas",
+      "referencia": "742",
       "categoria": "Sin categoría",
       "observaciones": "Transferencia a piso de venta",
       "registradoPor": "José"
