@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-25T17:38:32.557Z",
+  "actualizado": "2026-09-25T17:45:19.484Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -391,7 +391,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": 30
+      "stock": 20
     },
     {
       "nombre": "Bisagra 4x3 normal",
@@ -775,7 +775,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "",
-      "stock": 4
+      "stock": 0
     },
     {
       "nombre": "Cable 12 aluminio",
@@ -847,7 +847,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": 6
+      "stock": 4
     },
     {
       "nombre": "Cacharra juego para microwave",
@@ -2183,7 +2183,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "",
-      "stock": 20
+      "stock": 10
     },
     {
       "nombre": "Extensión de 20mts simple",
@@ -2407,7 +2407,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Baño",
-      "stock": 110
+      "stock": 90
     },
     {
       "nombre": "Interruptor sencillo original",
@@ -3879,7 +3879,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": 12
+      "stock": 0
     },
     {
       "nombre": "Pintura spray dorado",
@@ -4991,7 +4991,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": 450
+      "stock": 420
     },
     {
       "nombre": "Tubo led 40/ 1polo",
@@ -5591,7 +5591,7 @@
       "categoria": "Sin categoría",
       "unidad": "piezas",
       "ubicacion": "Lavadero",
-      "stock": 15
+      "stock": 10
     },
     {
       "nombre": "Pintura en Spray Blanco Brillante",
@@ -8162,7 +8162,7 @@
     {
       "nombre": "Cable royalcold 3vía calibre/12",
       "sku": "152",
-      "cantidad": 1
+      "cantidad": 3
     },
     {
       "nombre": "Calentador de agua",
@@ -8562,7 +8562,7 @@
     {
       "nombre": "Bisagra 4x3 libro interior",
       "sku": "272",
-      "cantidad": 6
+      "cantidad": 16
     },
     {
       "nombre": "Cable 8 aluminio",
@@ -8607,7 +8607,7 @@
     {
       "nombre": "Cable 10 cobre",
       "sku": "748",
-      "cantidad": 7
+      "cantidad": 11
     },
     {
       "nombre": "Fregadero escurridor boca pequeña",
@@ -8657,7 +8657,7 @@
     {
       "nombre": "Extensión 9 fts",
       "sku": "719",
-      "cantidad": 9
+      "cantidad": 19
     },
     {
       "nombre": "Isopo de baño 1800",
@@ -8682,7 +8682,7 @@
     {
       "nombre": "Bomba de Aire",
       "sku": "848",
-      "cantidad": 10
+      "cantidad": 15
     },
     {
       "nombre": "Cajita decodificadora TV",
@@ -8707,7 +8707,7 @@
     {
       "nombre": "Interruptor doble",
       "sku": "176",
-      "cantidad": 15
+      "cantidad": 35
     },
     {
       "nombre": "Base de 20 doble",
@@ -8747,7 +8747,7 @@
     {
       "nombre": "Pintura spray cromado",
       "sku": "506",
-      "cantidad": 11
+      "cantidad": 23
     },
     {
       "nombre": "Juego de 7 pozuelo normal",
@@ -9122,7 +9122,7 @@
     {
       "nombre": "Tubo de 20 led",
       "sku": "157",
-      "cantidad": 32
+      "cantidad": 62
     },
     {
       "nombre": "Bussin 3/4-1/2\"",
