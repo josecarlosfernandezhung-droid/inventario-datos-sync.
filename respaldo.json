@@ -11110,9 +11110,9 @@
     {
       "nombre": "Olla multipropósito/reina 90min-6lts Esteletric",
       "sku": "80",
-      "almacen": 10,
+      "almacen": 7,
       "total": 13,
-      "piso": 3,
+      "piso": 6,
       "estado": "bajo",
       "idx": 454
     },
@@ -11272,9 +11272,9 @@
     {
       "nombre": "Fogón de petroleo",
       "sku": "637",
-      "almacen": 9,
+      "almacen": 6,
       "total": 13,
-      "piso": 4,
+      "piso": 7,
       "estado": "bajo",
       "idx": 472
     },
@@ -11479,9 +11479,9 @@
     {
       "nombre": "Batidora licuadora 2 en 1",
       "sku": "845",
-      "almacen": 5,
+      "almacen": 2,
       "total": 11,
-      "piso": 6,
+      "piso": 9,
       "estado": "bajo",
       "idx": 495
     },
@@ -13349,5 +13349,5 @@
       "idx": 702
     }
   ],
-  "actualizado": "2026-09-26T15:13:11.057Z"
+  "actualizado": "2026-09-26T15:17:39.386Z"
 }
