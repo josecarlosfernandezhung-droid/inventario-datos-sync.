@@ -7020,6 +7020,2860 @@
       ]
     }
   ],
-  "resultadoComparacionPiso": [],
-  "actualizado": "2026-09-26T11:04:56.108Z"
+  "resultadoComparacionPiso": [
+    {
+      "nombre": "Breker 32A doble AC",
+      "sku": "745",
+      "almacen": 0,
+      "total": 0,
+      "piso": 0,
+      "estado": "agotado",
+      "idx": 0
+    },
+    {
+      "nombre": "Juego de vaso 240ml IMG",
+      "sku": "393",
+      "almacen": 0,
+      "total": 0,
+      "piso": 0,
+      "estado": "agotado",
+      "idx": 1
+    },
+    {
+      "nombre": "Ventilador recargable F60 robotico",
+      "sku": "857",
+      "almacen": 0,
+      "total": 0,
+      "piso": 0,
+      "estado": "agotado",
+      "idx": 2
+    },
+    {
+      "nombre": "Juego de barrena métal 13pcs",
+      "sku": "137",
+      "almacen": 0,
+      "total": 0,
+      "piso": 0,
+      "estado": "agotado",
+      "idx": 3
+    },
+    {
+      "nombre": "Pintura 1/litro blanco",
+      "sku": "381",
+      "almacen": 0,
+      "total": 0,
+      "piso": 0,
+      "estado": "agotado",
+      "idx": 4
+    },
+    {
+      "nombre": "Bisagra 4x3 intaliana",
+      "sku": "559",
+      "almacen": 0,
+      "total": 0,
+      "piso": 0,
+      "estado": "agotado",
+      "idx": 5
+    },
+    {
+      "nombre": "Aplicador",
+      "sku": "658",
+      "almacen": 0,
+      "total": 1,
+      "piso": 1,
+      "estado": "bajo",
+      "idx": 6
+    },
+    {
+      "nombre": "Bicicleta electrica",
+      "sku": "859",
+      "almacen": 0,
+      "total": 1,
+      "piso": 1,
+      "estado": "bajo",
+      "idx": 7
+    },
+    {
+      "nombre": "Breker SACO 32A y 63A DC",
+      "sku": "761",
+      "almacen": 0,
+      "total": 1,
+      "piso": 1,
+      "estado": "bajo",
+      "idx": 8
+    },
+    {
+      "nombre": "Brekera 24 posiciones",
+      "sku": "743",
+      "almacen": 0,
+      "total": 1,
+      "piso": 1,
+      "estado": "bajo",
+      "idx": 9
+    },
+    {
+      "nombre": "Candado de alarma",
+      "sku": "724",
+      "almacen": 0,
+      "total": 1,
+      "piso": 1,
+      "estado": "bajo",
+      "idx": 10
+    },
+    {
+      "nombre": "clavo etecsa grande",
+      "sku": "715",
+      "almacen": 0,
+      "total": 1,
+      "piso": 1,
+      "estado": "bajo",
+      "idx": 11
+    },
+    {
+      "nombre": "Fumigadora",
+      "sku": "712",
+      "almacen": 0,
+      "total": 1,
+      "piso": 1,
+      "estado": "bajo",
+      "idx": 12
+    },
+    {
+      "nombre": "Fusible solar 25A sencillo DC",
+      "sku": "758",
+      "almacen": 0,
+      "total": 1,
+      "piso": 1,
+      "estado": "bajo",
+      "idx": 13
+    },
+    {
+      "nombre": "Guante",
+      "sku": "651",
+      "almacen": 0,
+      "total": 1,
+      "piso": 1,
+      "estado": "bajo",
+      "idx": 14
+    },
+    {
+      "nombre": "Herramienta recogida magnetica",
+      "sku": "691",
+      "almacen": 0,
+      "total": 1,
+      "piso": 1,
+      "estado": "bajo",
+      "idx": 15
+    },
+    {
+      "nombre": "Infrarojo",
+      "sku": "733",
+      "almacen": 0,
+      "total": 1,
+      "piso": 1,
+      "estado": "bajo",
+      "idx": 16
+    },
+    {
+      "nombre": "Isopo de baño 1350",
+      "sku": "721",
+      "almacen": 0,
+      "total": 1,
+      "piso": 1,
+      "estado": "bajo",
+      "idx": 17
+    },
+    {
+      "nombre": "Juego set de peine y espejo",
+      "sku": "562",
+      "almacen": 0,
+      "total": 1,
+      "piso": 1,
+      "estado": "bajo",
+      "idx": 18
+    },
+    {
+      "nombre": "Maquina de afeitar",
+      "sku": "801",
+      "almacen": 0,
+      "total": 1,
+      "piso": 1,
+      "estado": "bajo",
+      "idx": 19
+    },
+    {
+      "nombre": "Pala 4500$",
+      "sku": "583",
+      "almacen": 5,
+      "total": 6,
+      "piso": 1,
+      "estado": "bajo",
+      "idx": 20
+    },
+    {
+      "nombre": "Palangana criolla",
+      "sku": "813",
+      "almacen": 0,
+      "total": 1,
+      "piso": 1,
+      "estado": "bajo",
+      "idx": 21
+    },
+    {
+      "nombre": "Pie de rey",
+      "sku": "722",
+      "almacen": 0,
+      "total": 1,
+      "piso": 1,
+      "estado": "bajo",
+      "idx": 22
+    },
+    {
+      "nombre": "Set juego de pinza",
+      "sku": "707",
+      "almacen": 0,
+      "total": 1,
+      "piso": 1,
+      "estado": "bajo",
+      "idx": 23
+    },
+    {
+      "nombre": "Tridente",
+      "sku": "842",
+      "almacen": 2,
+      "total": 3,
+      "piso": 1,
+      "estado": "bajo",
+      "idx": 24
+    },
+    {
+      "nombre": "Trincha 32mm",
+      "sku": "703",
+      "almacen": 0,
+      "total": 1,
+      "piso": 1,
+      "estado": "bajo",
+      "idx": 25
+    },
+    {
+      "nombre": "Spray afloja-todo",
+      "sku": "146",
+      "almacen": 0,
+      "total": 1,
+      "piso": 1,
+      "estado": "bajo",
+      "idx": 26
+    },
+    {
+      "nombre": "Cable 10 aluminio",
+      "sku": "230",
+      "almacen": 0,
+      "total": 1,
+      "piso": 1,
+      "estado": "bajo",
+      "idx": 27
+    },
+    {
+      "nombre": "Calentador de agua",
+      "sku": "183",
+      "almacen": 0,
+      "total": 1,
+      "piso": 1,
+      "estado": "bajo",
+      "idx": 28
+    },
+    {
+      "nombre": "Lampara solar con detector de movimiento",
+      "sku": "337",
+      "almacen": 0,
+      "total": 1,
+      "piso": 1,
+      "estado": "bajo",
+      "idx": 29
+    },
+    {
+      "nombre": "Lunchera normal",
+      "sku": "392",
+      "almacen": 0,
+      "total": 1,
+      "piso": 1,
+      "estado": "bajo",
+      "idx": 30
+    },
+    {
+      "nombre": "Tapa de taza de baño cierre lento",
+      "sku": "512",
+      "almacen": 0,
+      "total": 1,
+      "piso": 1,
+      "estado": "bajo",
+      "idx": 31
+    },
+    {
+      "nombre": "Termo pequeño",
+      "sku": "369",
+      "almacen": 0,
+      "total": 1,
+      "piso": 1,
+      "estado": "bajo",
+      "idx": 32
+    },
+    {
+      "nombre": "Alambre de amarrar cabilla",
+      "sku": "793",
+      "almacen": 0,
+      "total": 2,
+      "piso": 2,
+      "estado": "bajo",
+      "idx": 33
+    },
+    {
+      "nombre": "Batidora EKO",
+      "sku": "645",
+      "almacen": 0,
+      "total": 2,
+      "piso": 2,
+      "estado": "bajo",
+      "idx": 34
+    },
+    {
+      "nombre": "Biberón",
+      "sku": "835",
+      "almacen": 0,
+      "total": 2,
+      "piso": 2,
+      "estado": "bajo",
+      "idx": 35
+    },
+    {
+      "nombre": "Bocina grande",
+      "sku": "818",
+      "almacen": 2,
+      "total": 4,
+      "piso": 2,
+      "estado": "bajo",
+      "idx": 36
+    },
+    {
+      "nombre": "Brekera 13 posiciones",
+      "sku": "773",
+      "almacen": 0,
+      "total": 2,
+      "piso": 2,
+      "estado": "bajo",
+      "idx": 37
+    },
+    {
+      "nombre": "Brekera combinada 600v/25A",
+      "sku": "756",
+      "almacen": 0,
+      "total": 2,
+      "piso": 2,
+      "estado": "bajo",
+      "idx": 38
+    },
+    {
+      "nombre": "Capacitor",
+      "sku": "809",
+      "almacen": 0,
+      "total": 2,
+      "piso": 2,
+      "estado": "bajo",
+      "idx": 39
+    },
+    {
+      "nombre": "Controlador solar MTTP",
+      "sku": "728",
+      "almacen": 0,
+      "total": 2,
+      "piso": 2,
+      "estado": "bajo",
+      "idx": 40
+    },
+    {
+      "nombre": "Disco sierra 230mm",
+      "sku": "699",
+      "almacen": 0,
+      "total": 2,
+      "piso": 2,
+      "estado": "bajo",
+      "idx": 41
+    },
+    {
+      "nombre": "Juego 6 minimuela",
+      "sku": "692",
+      "almacen": 0,
+      "total": 2,
+      "piso": 2,
+      "estado": "bajo",
+      "idx": 42
+    },
+    {
+      "nombre": "Juego 8 minigubias",
+      "sku": "698",
+      "almacen": 0,
+      "total": 2,
+      "piso": 2,
+      "estado": "bajo",
+      "idx": 43
+    },
+    {
+      "nombre": "Manguera de agua",
+      "sku": "812",
+      "almacen": 0,
+      "total": 2,
+      "piso": 2,
+      "estado": "bajo",
+      "idx": 44
+    },
+    {
+      "nombre": "Olla de presión 3 válvulas 11lts",
+      "sku": "820",
+      "almacen": 6,
+      "total": 8,
+      "piso": 2,
+      "estado": "bajo",
+      "idx": 45
+    },
+    {
+      "nombre": "Rollo lija",
+      "sku": "853",
+      "almacen": 0,
+      "total": 2,
+      "piso": 2,
+      "estado": "bajo",
+      "idx": 46
+    },
+    {
+      "nombre": "Tijera césped",
+      "sku": "844",
+      "almacen": 0,
+      "total": 2,
+      "piso": 2,
+      "estado": "bajo",
+      "idx": 47
+    },
+    {
+      "nombre": "Turbina 1/2 HP",
+      "sku": "602",
+      "almacen": 0,
+      "total": 2,
+      "piso": 2,
+      "estado": "bajo",
+      "idx": 48
+    },
+    {
+      "nombre": "Atornilladora de bateria Coofix",
+      "sku": "432",
+      "almacen": 0,
+      "total": 2,
+      "piso": 2,
+      "estado": "bajo",
+      "idx": 49
+    },
+    {
+      "nombre": "Set de destornillador USA",
+      "sku": "139",
+      "almacen": 0,
+      "total": 2,
+      "piso": 2,
+      "estado": "bajo",
+      "idx": 50
+    },
+    {
+      "nombre": "Agarradera paquete",
+      "sku": "375",
+      "almacen": 0,
+      "total": 2,
+      "piso": 2,
+      "estado": "bajo",
+      "idx": 51
+    },
+    {
+      "nombre": "Olla de presión 3 válvulas 4lts",
+      "sku": "250",
+      "almacen": 4,
+      "total": 6,
+      "piso": 2,
+      "estado": "bajo",
+      "idx": 52
+    },
+    {
+      "nombre": "Grampa paquete",
+      "sku": "378",
+      "almacen": 0,
+      "total": 2,
+      "piso": 2,
+      "estado": "bajo",
+      "idx": 53
+    },
+    {
+      "nombre": "Bocina chica",
+      "sku": "817",
+      "almacen": 0,
+      "total": 3,
+      "piso": 3,
+      "estado": "bajo",
+      "idx": 54
+    },
+    {
+      "nombre": "Cable 8 cobre",
+      "sku": "747",
+      "almacen": 0,
+      "total": 3,
+      "piso": 3,
+      "estado": "bajo",
+      "idx": 55
+    },
+    {
+      "nombre": "Medias",
+      "sku": "834",
+      "almacen": 0,
+      "total": 3,
+      "piso": 3,
+      "estado": "bajo",
+      "idx": 56
+    },
+    {
+      "nombre": "Micrometro",
+      "sku": "680",
+      "almacen": 0,
+      "total": 3,
+      "piso": 3,
+      "estado": "bajo",
+      "idx": 57
+    },
+    {
+      "nombre": "Pluma mezcladora fregadero",
+      "sku": "777",
+      "almacen": 10,
+      "total": 13,
+      "piso": 3,
+      "estado": "bajo",
+      "idx": 58
+    },
+    {
+      "nombre": "Tornillo M6 3\" 75mm",
+      "sku": "791",
+      "almacen": 0,
+      "total": 3,
+      "piso": 3,
+      "estado": "bajo",
+      "idx": 59
+    },
+    {
+      "nombre": "Transfer automático",
+      "sku": "553",
+      "almacen": 0,
+      "total": 3,
+      "piso": 3,
+      "estado": "bajo",
+      "idx": 60
+    },
+    {
+      "nombre": "Trincha 38mm",
+      "sku": "702",
+      "almacen": 0,
+      "total": 3,
+      "piso": 3,
+      "estado": "bajo",
+      "idx": 61
+    },
+    {
+      "nombre": "Trincha 8mm",
+      "sku": "704",
+      "almacen": 0,
+      "total": 3,
+      "piso": 3,
+      "estado": "bajo",
+      "idx": 62
+    },
+    {
+      "nombre": "Juego de sartén de inducción 3/pcs",
+      "sku": "341",
+      "almacen": 0,
+      "total": 3,
+      "piso": 3,
+      "estado": "bajo",
+      "idx": 63
+    },
+    {
+      "nombre": "Bombillo 12w normal",
+      "sku": "191",
+      "almacen": 0,
+      "total": 3,
+      "piso": 3,
+      "estado": "bajo",
+      "idx": 64
+    },
+    {
+      "nombre": "Olla multipropósito/reina 90min-6lts Esteletric",
+      "sku": "80",
+      "almacen": 10,
+      "total": 13,
+      "piso": 3,
+      "estado": "bajo",
+      "idx": 65
+    },
+    {
+      "nombre": "Cesto de basura rectangular",
+      "sku": "408",
+      "almacen": 0,
+      "total": 3,
+      "piso": 3,
+      "estado": "bajo",
+      "idx": 66
+    },
+    {
+      "nombre": "Brekera de 16 Posiciones",
+      "sku": "810",
+      "almacen": 0,
+      "total": 4,
+      "piso": 4,
+      "estado": "bajo",
+      "idx": 67
+    },
+    {
+      "nombre": "Ducha de telefono",
+      "sku": "838",
+      "almacen": 0,
+      "total": 4,
+      "piso": 4,
+      "estado": "bajo",
+      "idx": 68
+    },
+    {
+      "nombre": "Ecofina",
+      "sku": "700",
+      "almacen": 0,
+      "total": 4,
+      "piso": 4,
+      "estado": "bajo",
+      "idx": 69
+    },
+    {
+      "nombre": "Fogón de petroleo",
+      "sku": "637",
+      "almacen": 9,
+      "total": 13,
+      "piso": 4,
+      "estado": "bajo",
+      "idx": 70
+    },
+    {
+      "nombre": "Gasolina B94",
+      "sku": "802",
+      "almacen": 0,
+      "total": 4,
+      "piso": 4,
+      "estado": "bajo",
+      "idx": 71
+    },
+    {
+      "nombre": "Olla arrocera 2.2lts",
+      "sku": "821",
+      "almacen": 0,
+      "total": 4,
+      "piso": 4,
+      "estado": "bajo",
+      "idx": 72
+    },
+    {
+      "nombre": "Pintura galón 3.785lts dorado",
+      "sku": "816",
+      "almacen": 0,
+      "total": 4,
+      "piso": 4,
+      "estado": "bajo",
+      "idx": 73
+    },
+    {
+      "nombre": "Pintura Barniz en Spray",
+      "sku": "851",
+      "almacen": 0,
+      "total": 4,
+      "piso": 4,
+      "estado": "bajo",
+      "idx": 74
+    },
+    {
+      "nombre": "Lampara recargable 30cm",
+      "sku": "73",
+      "almacen": 0,
+      "total": 4,
+      "piso": 4,
+      "estado": "bajo",
+      "idx": 75
+    },
+    {
+      "nombre": "Llave tyson/tubo 18\"",
+      "sku": "492",
+      "almacen": 0,
+      "total": 4,
+      "piso": 4,
+      "estado": "bajo",
+      "idx": 76
+    },
+    {
+      "nombre": "Olla de presión 3 válvulas 5lts",
+      "sku": "249",
+      "almacen": 3,
+      "total": 7,
+      "piso": 4,
+      "estado": "bajo",
+      "idx": 77
+    },
+    {
+      "nombre": "Presurizador 35lts",
+      "sku": "478",
+      "almacen": 0,
+      "total": 4,
+      "piso": 4,
+      "estado": "bajo",
+      "idx": 78
+    },
+    {
+      "nombre": "Tornillo M9 con tuerca",
+      "sku": "216",
+      "almacen": 0,
+      "total": 4,
+      "piso": 4,
+      "estado": "bajo",
+      "idx": 79
+    },
+    {
+      "nombre": "Cable fotovoltaico calibre 10 rollo 100mts",
+      "sku": "770",
+      "almacen": 0,
+      "total": 5,
+      "piso": 5,
+      "estado": "bajo",
+      "idx": 80
+    },
+    {
+      "nombre": "Escuadra angulo plana",
+      "sku": "695",
+      "almacen": 0,
+      "total": 5,
+      "piso": 5,
+      "estado": "bajo",
+      "idx": 81
+    },
+    {
+      "nombre": "Lija redonda pqte",
+      "sku": "694",
+      "almacen": 0,
+      "total": 5,
+      "piso": 5,
+      "estado": "bajo",
+      "idx": 82
+    },
+    {
+      "nombre": "Palangana grande",
+      "sku": "616",
+      "almacen": 0,
+      "total": 5,
+      "piso": 5,
+      "estado": "bajo",
+      "idx": 83
+    },
+    {
+      "nombre": "Sifa doble de desague bañadera",
+      "sku": "839",
+      "almacen": 0,
+      "total": 5,
+      "piso": 5,
+      "estado": "bajo",
+      "idx": 84
+    },
+    {
+      "nombre": "Anafre grande",
+      "sku": "445",
+      "almacen": 0,
+      "total": 5,
+      "piso": 5,
+      "estado": "bajo",
+      "idx": 85
+    },
+    {
+      "nombre": "Soporte de Instalación para Split",
+      "sku": "833",
+      "almacen": 6,
+      "total": 12,
+      "piso": 6,
+      "estado": "bajo",
+      "idx": 86
+    },
+    {
+      "nombre": "Batidora licuadora 2 en 1",
+      "sku": "845",
+      "almacen": 5,
+      "total": 11,
+      "piso": 6,
+      "estado": "bajo",
+      "idx": 87
+    },
+    {
+      "nombre": "Cable 8 aluminio",
+      "sku": "819",
+      "almacen": 0,
+      "total": 6,
+      "piso": 6,
+      "estado": "bajo",
+      "idx": 88
+    },
+    {
+      "nombre": "Cepillo carpintero",
+      "sku": "843",
+      "almacen": 0,
+      "total": 6,
+      "piso": 6,
+      "estado": "bajo",
+      "idx": 89
+    },
+    {
+      "nombre": "Cuchilla manual 3/polos 63A",
+      "sku": "780",
+      "almacen": 0,
+      "total": 6,
+      "piso": 6,
+      "estado": "bajo",
+      "idx": 90
+    },
+    {
+      "nombre": "Isopo de baño 1800",
+      "sku": "720",
+      "almacen": 0,
+      "total": 6,
+      "piso": 6,
+      "estado": "bajo",
+      "idx": 91
+    },
+    {
+      "nombre": "Llana ranurada",
+      "sku": "444",
+      "almacen": 0,
+      "total": 6,
+      "piso": 6,
+      "estado": "bajo",
+      "idx": 92
+    },
+    {
+      "nombre": "Disco tungsteno 125mm liso",
+      "sku": "494",
+      "almacen": 0,
+      "total": 6,
+      "piso": 6,
+      "estado": "bajo",
+      "idx": 93
+    },
+    {
+      "nombre": "Ventilador de pie ciclón 18\"",
+      "sku": "88",
+      "almacen": 0,
+      "total": 6,
+      "piso": 6,
+      "estado": "bajo",
+      "idx": 94
+    },
+    {
+      "nombre": "Ventilador recargable F6 robótico",
+      "sku": "259",
+      "almacen": 15,
+      "total": 21,
+      "piso": 6,
+      "estado": "bajo",
+      "idx": 95
+    },
+    {
+      "nombre": "Varilla de soldar 6013/3.2mm 30cm",
+      "sku": "385",
+      "almacen": 0,
+      "total": 7,
+      "piso": 7,
+      "estado": "bajo",
+      "idx": 96
+    },
+    {
+      "nombre": "Fregadero escurridor boca pequeña",
+      "sku": "82",
+      "almacen": 15,
+      "total": 22,
+      "piso": 7,
+      "estado": "bajo",
+      "idx": 97
+    },
+    {
+      "nombre": "Barra silicona colores",
+      "sku": "682",
+      "almacen": 0,
+      "total": 8,
+      "piso": 8,
+      "estado": "bajo",
+      "idx": 98
+    },
+    {
+      "nombre": "Cuchilla manual 3/polos 100A",
+      "sku": "574",
+      "almacen": 0,
+      "total": 8,
+      "piso": 8,
+      "estado": "bajo",
+      "idx": 99
+    },
+    {
+      "nombre": "Plastik loka",
+      "sku": "858",
+      "almacen": 0,
+      "total": 8,
+      "piso": 8,
+      "estado": "bajo",
+      "idx": 100
+    },
+    {
+      "nombre": "Set juego de plumón",
+      "sku": "723",
+      "almacen": 0,
+      "total": 8,
+      "piso": 8,
+      "estado": "bajo",
+      "idx": 101
+    },
+    {
+      "nombre": "Fosforera magneto pequeña",
+      "sku": "49",
+      "almacen": 0,
+      "total": 8,
+      "piso": 8,
+      "estado": "bajo",
+      "idx": 102
+    },
+    {
+      "nombre": "Pluma cuello de ganso por debajo",
+      "sku": "58",
+      "almacen": 40,
+      "total": 48,
+      "piso": 8,
+      "estado": "bajo",
+      "idx": 103
+    },
+    {
+      "nombre": "Breker 25A doble AC",
+      "sku": "746",
+      "almacen": 0,
+      "total": 9,
+      "piso": 9,
+      "estado": "bajo",
+      "idx": 104
+    },
+    {
+      "nombre": "Olla arrocera 1.8 EKO",
+      "sku": "571",
+      "almacen": 20,
+      "total": 29,
+      "piso": 9,
+      "estado": "bajo",
+      "idx": 105
+    },
+    {
+      "nombre": "Reflector led 100watts",
+      "sku": "737",
+      "almacen": 20,
+      "total": 29,
+      "piso": 9,
+      "estado": "bajo",
+      "idx": 106
+    },
+    {
+      "nombre": "Taladro Coofix",
+      "sku": "414",
+      "almacen": 10,
+      "total": 19,
+      "piso": 9,
+      "estado": "bajo",
+      "idx": 107
+    },
+    {
+      "nombre": "Cajita decodificadora TV",
+      "sku": "847",
+      "almacen": 0,
+      "total": 10,
+      "piso": 10,
+      "estado": "bajo",
+      "idx": 108
+    },
+    {
+      "nombre": "Codo de 50",
+      "sku": "546",
+      "almacen": 0,
+      "total": 10,
+      "piso": 10,
+      "estado": "bajo",
+      "idx": 109
+    },
+    {
+      "nombre": "Mochila",
+      "sku": "829",
+      "almacen": 0,
+      "total": 10,
+      "piso": 10,
+      "estado": "bajo",
+      "idx": 110
+    },
+    {
+      "nombre": "Perchero docena",
+      "sku": "461",
+      "almacen": 15,
+      "total": 25,
+      "piso": 10,
+      "estado": "bajo",
+      "idx": 111
+    },
+    {
+      "nombre": "Transfer ATS unizuki",
+      "sku": "757",
+      "almacen": 0,
+      "total": 10,
+      "piso": 10,
+      "estado": "bajo",
+      "idx": 112
+    },
+    {
+      "nombre": "Base de 20 doble",
+      "sku": "575",
+      "almacen": 60,
+      "total": 93,
+      "piso": 33,
+      "estado": "bajo",
+      "idx": 113
+    },
+    {
+      "nombre": "Cable royalcold 3vía calibre/12",
+      "sku": "152",
+      "almacen": 4,
+      "total": 7,
+      "piso": 3,
+      "estado": "ok",
+      "idx": 114
+    },
+    {
+      "nombre": "Cable 12 aluminio",
+      "sku": "231",
+      "almacen": 10,
+      "total": 17,
+      "piso": 7,
+      "estado": "ok",
+      "idx": 115
+    },
+    {
+      "nombre": "Olla Arrocera de 1.5L",
+      "sku": "846",
+      "almacen": 0,
+      "total": 8,
+      "piso": 8,
+      "estado": "ok",
+      "idx": 116
+    },
+    {
+      "nombre": "Batidora Estelectric",
+      "sku": "343",
+      "almacen": 13,
+      "total": 22,
+      "piso": 9,
+      "estado": "ok",
+      "idx": 117
+    },
+    {
+      "nombre": "Base de tv 14-42 pulgadas",
+      "sku": "19",
+      "almacen": 20,
+      "total": 30,
+      "piso": 10,
+      "estado": "ok",
+      "idx": 118
+    },
+    {
+      "nombre": "Cable 10 cobre",
+      "sku": "748",
+      "almacen": 0,
+      "total": 11,
+      "piso": 11,
+      "estado": "ok",
+      "idx": 119
+    },
+    {
+      "nombre": "Cuchilla manual 2/polos 63A",
+      "sku": "131",
+      "almacen": 0,
+      "total": 11,
+      "piso": 11,
+      "estado": "ok",
+      "idx": 120
+    },
+    {
+      "nombre": "Pluma cuello de ganso a la pared",
+      "sku": "57",
+      "almacen": 0,
+      "total": 11,
+      "piso": 11,
+      "estado": "ok",
+      "idx": 121
+    },
+    {
+      "nombre": "Juego de cubo proefix de 46pcs rojo",
+      "sku": "18",
+      "almacen": 16,
+      "total": 27,
+      "piso": 11,
+      "estado": "ok",
+      "idx": 122
+    },
+    {
+      "nombre": "Sifa fregadero flexible boca chica",
+      "sku": "340",
+      "almacen": 20,
+      "total": 32,
+      "piso": 12,
+      "estado": "ok",
+      "idx": 123
+    },
+    {
+      "nombre": "Juego de 7 pozuelo normal",
+      "sku": "410",
+      "almacen": 0,
+      "total": 12,
+      "piso": 12,
+      "estado": "ok",
+      "idx": 124
+    },
+    {
+      "nombre": "Llave de paso 1/2\" plástica",
+      "sku": "361",
+      "almacen": 0,
+      "total": 12,
+      "piso": 12,
+      "estado": "ok",
+      "idx": 125
+    },
+    {
+      "nombre": "Set de destornillador golpe",
+      "sku": "140",
+      "almacen": 0,
+      "total": 12,
+      "piso": 12,
+      "estado": "ok",
+      "idx": 126
+    },
+    {
+      "nombre": "Set de destornilladores SEAL pareja",
+      "sku": "328",
+      "almacen": 0,
+      "total": 12,
+      "piso": 12,
+      "estado": "ok",
+      "idx": 127
+    },
+    {
+      "nombre": "Brekera 9 posiciones",
+      "sku": "772",
+      "almacen": 27,
+      "total": 40,
+      "piso": 13,
+      "estado": "ok",
+      "idx": 128
+    },
+    {
+      "nombre": "Toma corriente sencillo 20A",
+      "sku": "803",
+      "almacen": 150,
+      "total": 163,
+      "piso": 13,
+      "estado": "ok",
+      "idx": 129
+    },
+    {
+      "nombre": "Extensión 3mts regleta",
+      "sku": "21",
+      "almacen": 20,
+      "total": 33,
+      "piso": 13,
+      "estado": "ok",
+      "idx": 130
+    },
+    {
+      "nombre": "Anafres chiquito",
+      "sku": "370",
+      "almacen": 95,
+      "total": 108,
+      "piso": 13,
+      "estado": "ok",
+      "idx": 131
+    },
+    {
+      "nombre": "Cascos originales",
+      "sku": "83",
+      "almacen": 0,
+      "total": 13,
+      "piso": 13,
+      "estado": "ok",
+      "idx": 132
+    },
+    {
+      "nombre": "Fregadero sencillo",
+      "sku": "469",
+      "almacen": 0,
+      "total": 13,
+      "piso": 13,
+      "estado": "ok",
+      "idx": 133
+    },
+    {
+      "nombre": "Set de herrmaientas mixto",
+      "sku": "647",
+      "almacen": 0,
+      "total": 14,
+      "piso": 14,
+      "estado": "ok",
+      "idx": 134
+    },
+    {
+      "nombre": "Precinta color marrón grande",
+      "sku": "159",
+      "almacen": 144,
+      "total": 158,
+      "piso": 14,
+      "estado": "ok",
+      "idx": 135
+    },
+    {
+      "nombre": "Regulador de gas",
+      "sku": "120",
+      "almacen": 0,
+      "total": 14,
+      "piso": 14,
+      "estado": "ok",
+      "idx": 136
+    },
+    {
+      "nombre": "Tarraja plástica",
+      "sku": "430",
+      "almacen": 15,
+      "total": 29,
+      "piso": 14,
+      "estado": "ok",
+      "idx": 137
+    },
+    {
+      "nombre": "Agarradera mediana dorada",
+      "sku": "627",
+      "almacen": 0,
+      "total": 15,
+      "piso": 15,
+      "estado": "ok",
+      "idx": 138
+    },
+    {
+      "nombre": "Bomba de Aire",
+      "sku": "848",
+      "almacen": 10,
+      "total": 25,
+      "piso": 15,
+      "estado": "ok",
+      "idx": 139
+    },
+    {
+      "nombre": "Cuello ganso flexible a la pared",
+      "sku": "288",
+      "almacen": 0,
+      "total": 15,
+      "piso": 15,
+      "estado": "ok",
+      "idx": 140
+    },
+    {
+      "nombre": "Herraje de baño",
+      "sku": "193",
+      "almacen": 10,
+      "total": 25,
+      "piso": 15,
+      "estado": "ok",
+      "idx": 141
+    },
+    {
+      "nombre": "PVC 500gr azul",
+      "sku": "350",
+      "almacen": 48,
+      "total": 63,
+      "piso": 15,
+      "estado": "ok",
+      "idx": 142
+    },
+    {
+      "nombre": "Unión universal 3/4\"",
+      "sku": "443",
+      "almacen": 0,
+      "total": 15,
+      "piso": 15,
+      "estado": "ok",
+      "idx": 143
+    },
+    {
+      "nombre": "Cheque de plástico 1\"",
+      "sku": "345",
+      "almacen": 20,
+      "total": 35,
+      "piso": 15,
+      "estado": "ok",
+      "idx": 144
+    },
+    {
+      "nombre": "Breker 63A y 32A doble DC",
+      "sku": "759",
+      "almacen": 0,
+      "total": 16,
+      "piso": 16,
+      "estado": "ok",
+      "idx": 145
+    },
+    {
+      "nombre": "Cinta 5 mts",
+      "sku": "629",
+      "almacen": 24,
+      "total": 40,
+      "piso": 16,
+      "estado": "ok",
+      "idx": 146
+    },
+    {
+      "nombre": "Aragán",
+      "sku": "448",
+      "almacen": 25,
+      "total": 41,
+      "piso": 16,
+      "estado": "ok",
+      "idx": 147
+    },
+    {
+      "nombre": "Disco corte metal 180mm",
+      "sku": "291",
+      "almacen": 0,
+      "total": 16,
+      "piso": 16,
+      "estado": "ok",
+      "idx": 148
+    },
+    {
+      "nombre": "Silicona de alta temperatura 700",
+      "sku": "479",
+      "almacen": 0,
+      "total": 16,
+      "piso": 16,
+      "estado": "ok",
+      "idx": 149
+    },
+    {
+      "nombre": "Bisagra 4x3 libro interior",
+      "sku": "272",
+      "almacen": 20,
+      "total": 36,
+      "piso": 16,
+      "estado": "ok",
+      "idx": 150
+    },
+    {
+      "nombre": "Cepillo de lavar plástico",
+      "sku": "304",
+      "almacen": 0,
+      "total": 17,
+      "piso": 17,
+      "estado": "ok",
+      "idx": 151
+    },
+    {
+      "nombre": "Pulidora Coofix 750watts",
+      "sku": "260",
+      "almacen": 10,
+      "total": 27,
+      "piso": 17,
+      "estado": "ok",
+      "idx": 152
+    },
+    {
+      "nombre": "Disco debaste 180\"mm",
+      "sku": "100",
+      "almacen": 0,
+      "total": 17,
+      "piso": 17,
+      "estado": "ok",
+      "idx": 153
+    },
+    {
+      "nombre": "Pintura spray azul diamond brillante proefix",
+      "sku": "391",
+      "almacen": 24,
+      "total": 41,
+      "piso": 17,
+      "estado": "ok",
+      "idx": 154
+    },
+    {
+      "nombre": "Bañadera de bebé",
+      "sku": "495",
+      "almacen": 15,
+      "total": 32,
+      "piso": 17,
+      "estado": "ok",
+      "idx": 155
+    },
+    {
+      "nombre": "Breker 25A triple AC",
+      "sku": "744",
+      "almacen": 24,
+      "total": 42,
+      "piso": 18,
+      "estado": "ok",
+      "idx": 156
+    },
+    {
+      "nombre": "Casco criollo",
+      "sku": "534",
+      "almacen": 105,
+      "total": 123,
+      "piso": 18,
+      "estado": "ok",
+      "idx": 157
+    },
+    {
+      "nombre": "Cepillo de lavar madera",
+      "sku": "673",
+      "almacen": 0,
+      "total": 18,
+      "piso": 18,
+      "estado": "ok",
+      "idx": 158
+    },
+    {
+      "nombre": "Pintura en spray Blanco Mate",
+      "sku": "850",
+      "almacen": 12,
+      "total": 30,
+      "piso": 18,
+      "estado": "ok",
+      "idx": 159
+    },
+    {
+      "nombre": "Cepillo de diente niño",
+      "sku": "654",
+      "almacen": 0,
+      "total": 19,
+      "piso": 19,
+      "estado": "ok",
+      "idx": 160
+    },
+    {
+      "nombre": "Cubo plastico para pintar",
+      "sku": "860",
+      "almacen": 0,
+      "total": 19,
+      "piso": 19,
+      "estado": "ok",
+      "idx": 161
+    },
+    {
+      "nombre": "Extensión 9 fts",
+      "sku": "719",
+      "almacen": 10,
+      "total": 29,
+      "piso": 19,
+      "estado": "ok",
+      "idx": 162
+    },
+    {
+      "nombre": "Reflector led 50watts",
+      "sku": "46",
+      "almacen": 0,
+      "total": 19,
+      "piso": 19,
+      "estado": "ok",
+      "idx": 163
+    },
+    {
+      "nombre": "Cerrucho",
+      "sku": "201",
+      "almacen": 0,
+      "total": 19,
+      "piso": 19,
+      "estado": "ok",
+      "idx": 164
+    },
+    {
+      "nombre": "Juego de llave allen 9pcs corto",
+      "sku": "147",
+      "almacen": 0,
+      "total": 19,
+      "piso": 19,
+      "estado": "ok",
+      "idx": 165
+    },
+    {
+      "nombre": "Llavín picaporte plateado",
+      "sku": "128",
+      "almacen": 20,
+      "total": 39,
+      "piso": 19,
+      "estado": "ok",
+      "idx": 166
+    },
+    {
+      "nombre": "Cepillo de copa normal 800$",
+      "sku": "548",
+      "almacen": 0,
+      "total": 20,
+      "piso": 20,
+      "estado": "ok",
+      "idx": 167
+    },
+    {
+      "nombre": "Cajita 4x4",
+      "sku": "93",
+      "almacen": 100,
+      "total": 120,
+      "piso": 20,
+      "estado": "ok",
+      "idx": 168
+    },
+    {
+      "nombre": "Brocha 3\"",
+      "sku": "601",
+      "almacen": 128,
+      "total": 149,
+      "piso": 21,
+      "estado": "ok",
+      "idx": 169
+    },
+    {
+      "nombre": "Spray anti ponche",
+      "sku": "808",
+      "almacen": 24,
+      "total": 45,
+      "piso": 21,
+      "estado": "ok",
+      "idx": 170
+    },
+    {
+      "nombre": "Anilla 3/4",
+      "sku": "324",
+      "almacen": 0,
+      "total": 21,
+      "piso": 21,
+      "estado": "ok",
+      "idx": 171
+    },
+    {
+      "nombre": "Conector Y",
+      "sku": "643",
+      "almacen": 0,
+      "total": 22,
+      "piso": 22,
+      "estado": "ok",
+      "idx": 172
+    },
+    {
+      "nombre": "Interruptor de Timbre",
+      "sku": "840",
+      "almacen": 70,
+      "total": 92,
+      "piso": 22,
+      "estado": "ok",
+      "idx": 173
+    },
+    {
+      "nombre": "Pintura spray cromado",
+      "sku": "506",
+      "almacen": 0,
+      "total": 22,
+      "piso": 22,
+      "estado": "ok",
+      "idx": 174
+    },
+    {
+      "nombre": "Fosforera de piedra",
+      "sku": "795",
+      "almacen": 0,
+      "total": 23,
+      "piso": 23,
+      "estado": "ok",
+      "idx": 175
+    },
+    {
+      "nombre": "Codo 3/4- 45 grados",
+      "sku": "411",
+      "almacen": 0,
+      "total": 23,
+      "piso": 23,
+      "estado": "ok",
+      "idx": 176
+    },
+    {
+      "nombre": "Silicona de cristal",
+      "sku": "177",
+      "almacen": 0,
+      "total": 23,
+      "piso": 23,
+      "estado": "ok",
+      "idx": 177
+    },
+    {
+      "nombre": "Brida 4.8x400mm",
+      "sku": "417",
+      "almacen": 10,
+      "total": 33,
+      "piso": 23,
+      "estado": "ok",
+      "idx": 178
+    },
+    {
+      "nombre": "Pintura 1/litro barniz",
+      "sku": "441",
+      "almacen": 18,
+      "total": 42,
+      "piso": 24,
+      "estado": "ok",
+      "idx": 179
+    },
+    {
+      "nombre": "Manguera de gas",
+      "sku": "238",
+      "almacen": 0,
+      "total": 24,
+      "piso": 24,
+      "estado": "ok",
+      "idx": 180
+    },
+    {
+      "nombre": "Sifa fregadero flexible boca ancha",
+      "sku": "425",
+      "almacen": 0,
+      "total": 24,
+      "piso": 24,
+      "estado": "ok",
+      "idx": 181
+    },
+    {
+      "nombre": "Brida 4.8x300mm",
+      "sku": "531",
+      "almacen": 0,
+      "total": 25,
+      "piso": 25,
+      "estado": "ok",
+      "idx": 182
+    },
+    {
+      "nombre": "Cable fotovoltaico calibre 10 x metro",
+      "sku": "854",
+      "almacen": 0,
+      "total": 25,
+      "piso": 25,
+      "estado": "ok",
+      "idx": 183
+    },
+    {
+      "nombre": "Toma corriente combinado mixto",
+      "sku": "282",
+      "almacen": 0,
+      "total": 25,
+      "piso": 25,
+      "estado": "ok",
+      "idx": 184
+    },
+    {
+      "nombre": "Bases de resistencia de aluminio",
+      "sku": "207",
+      "almacen": 30,
+      "total": 55,
+      "piso": 25,
+      "estado": "ok",
+      "idx": 185
+    },
+    {
+      "nombre": "Llave lavamano zapatilla",
+      "sku": "567",
+      "almacen": 20,
+      "total": 46,
+      "piso": 26,
+      "estado": "ok",
+      "idx": 186
+    },
+    {
+      "nombre": "Terminal para baterías/bornes",
+      "sku": "162",
+      "almacen": 0,
+      "total": 26,
+      "piso": 26,
+      "estado": "ok",
+      "idx": 187
+    },
+    {
+      "nombre": "Llave de paso 1\" plástica",
+      "sku": "63",
+      "almacen": 0,
+      "total": 26,
+      "piso": 26,
+      "estado": "ok",
+      "idx": 188
+    },
+    {
+      "nombre": "Llave empotrada de ducha",
+      "sku": "52",
+      "almacen": 0,
+      "total": 26,
+      "piso": 26,
+      "estado": "ok",
+      "idx": 189
+    },
+    {
+      "nombre": "Sifa de piso poseta",
+      "sku": "56",
+      "almacen": 20,
+      "total": 47,
+      "piso": 27,
+      "estado": "ok",
+      "idx": 190
+    },
+    {
+      "nombre": "Pintura spray rojo",
+      "sku": "783",
+      "almacen": 60,
+      "total": 88,
+      "piso": 28,
+      "estado": "ok",
+      "idx": 191
+    },
+    {
+      "nombre": "Tomacorrientes Mixto Amarillo",
+      "sku": "805",
+      "almacen": 0,
+      "total": 28,
+      "piso": 28,
+      "estado": "ok",
+      "idx": 192
+    },
+    {
+      "nombre": "Cinta 7.5mts",
+      "sku": "205",
+      "almacen": 0,
+      "total": 28,
+      "piso": 28,
+      "estado": "ok",
+      "idx": 193
+    },
+    {
+      "nombre": "Tenaza de soldar 600Amp",
+      "sku": "426",
+      "almacen": 0,
+      "total": 29,
+      "piso": 29,
+      "estado": "ok",
+      "idx": 194
+    },
+    {
+      "nombre": "Lima 900",
+      "sku": "604",
+      "almacen": 0,
+      "total": 30,
+      "piso": 30,
+      "estado": "ok",
+      "idx": 195
+    },
+    {
+      "nombre": "Brocha 4\"",
+      "sku": "115",
+      "almacen": 36,
+      "total": 66,
+      "piso": 30,
+      "estado": "ok",
+      "idx": 196
+    },
+    {
+      "nombre": "Lámpara recargable 50cm",
+      "sku": "268",
+      "almacen": 0,
+      "total": 31,
+      "piso": 31,
+      "estado": "ok",
+      "idx": 197
+    },
+    {
+      "nombre": "Codo 3/4\"",
+      "sku": "77",
+      "almacen": 0,
+      "total": 31,
+      "piso": 31,
+      "estado": "ok",
+      "idx": 198
+    },
+    {
+      "nombre": "Brekera 2 posiciones",
+      "sku": "741",
+      "almacen": 53,
+      "total": 85,
+      "piso": 32,
+      "estado": "ok",
+      "idx": 199
+    },
+    {
+      "nombre": "Vela grande 8/unidades",
+      "sku": "47",
+      "almacen": 130,
+      "total": 163,
+      "piso": 33,
+      "estado": "ok",
+      "idx": 200
+    },
+    {
+      "nombre": "Bussin 3/4-1/2\"",
+      "sku": "234",
+      "almacen": 150,
+      "total": 183,
+      "piso": 33,
+      "estado": "ok",
+      "idx": 201
+    },
+    {
+      "nombre": "Juego de barrena tungsteno 5pcs",
+      "sku": "136",
+      "almacen": 0,
+      "total": 33,
+      "piso": 33,
+      "estado": "ok",
+      "idx": 202
+    },
+    {
+      "nombre": "Set de destornilladores MAXI pareja",
+      "sku": "468",
+      "almacen": 10,
+      "total": 43,
+      "piso": 33,
+      "estado": "ok",
+      "idx": 203
+    },
+    {
+      "nombre": "Brocha 6\"",
+      "sku": "95",
+      "almacen": 0,
+      "total": 33,
+      "piso": 33,
+      "estado": "ok",
+      "idx": 204
+    },
+    {
+      "nombre": "Pintura spray verde",
+      "sku": "507",
+      "almacen": 72,
+      "total": 105,
+      "piso": 33,
+      "estado": "ok",
+      "idx": 205
+    },
+    {
+      "nombre": "Interruptor sencillo original",
+      "sku": "590",
+      "almacen": 259,
+      "total": 293,
+      "piso": 34,
+      "estado": "ok",
+      "idx": 206
+    },
+    {
+      "nombre": "Cheque de bronce 1\"",
+      "sku": "61",
+      "almacen": 0,
+      "total": 34,
+      "piso": 34,
+      "estado": "ok",
+      "idx": 207
+    },
+    {
+      "nombre": "Escobillón 1400",
+      "sku": "742",
+      "almacen": 35,
+      "total": 70,
+      "piso": 35,
+      "estado": "ok",
+      "idx": 208
+    },
+    {
+      "nombre": "Niple 1/2",
+      "sku": "613",
+      "almacen": 300,
+      "total": 335,
+      "piso": 35,
+      "estado": "ok",
+      "idx": 209
+    },
+    {
+      "nombre": "Interruptor doble",
+      "sku": "176",
+      "almacen": 90,
+      "total": 125,
+      "piso": 35,
+      "estado": "ok",
+      "idx": 210
+    },
+    {
+      "nombre": "Unión universal 1\"",
+      "sku": "232",
+      "almacen": 0,
+      "total": 35,
+      "piso": 35,
+      "estado": "ok",
+      "idx": 211
+    },
+    {
+      "nombre": "Pluma plástica de jardín 1/2 tiro rápido",
+      "sku": "60",
+      "almacen": 30,
+      "total": 66,
+      "piso": 36,
+      "estado": "ok",
+      "idx": 212
+    },
+    {
+      "nombre": "Precilla grande",
+      "sku": "631",
+      "almacen": 0,
+      "total": 37,
+      "piso": 37,
+      "estado": "ok",
+      "idx": 213
+    },
+    {
+      "nombre": "PVC 250ml",
+      "sku": "455",
+      "almacen": 0,
+      "total": 38,
+      "piso": 38,
+      "estado": "ok",
+      "idx": 214
+    },
+    {
+      "nombre": "Sálida de tanque de 1\"",
+      "sku": "75",
+      "almacen": 0,
+      "total": 38,
+      "piso": 38,
+      "estado": "ok",
+      "idx": 215
+    },
+    {
+      "nombre": "Toalla húmeda",
+      "sku": "655",
+      "almacen": 108,
+      "total": 147,
+      "piso": 39,
+      "estado": "ok",
+      "idx": 216
+    },
+    {
+      "nombre": "Disco mil-hoja",
+      "sku": "284",
+      "almacen": 240,
+      "total": 279,
+      "piso": 39,
+      "estado": "ok",
+      "idx": 217
+    },
+    {
+      "nombre": "Tubo led 40/ 2 polo",
+      "sku": "154",
+      "almacen": 150,
+      "total": 190,
+      "piso": 40,
+      "estado": "ok",
+      "idx": 218
+    },
+    {
+      "nombre": "Disco tungsteno 115mm liso",
+      "sku": "285",
+      "almacen": 0,
+      "total": 40,
+      "piso": 40,
+      "estado": "ok",
+      "idx": 219
+    },
+    {
+      "nombre": "Supresor de voltaje 110v",
+      "sku": "485",
+      "almacen": 0,
+      "total": 44,
+      "piso": 44,
+      "estado": "ok",
+      "idx": 220
+    },
+    {
+      "nombre": "Pelota",
+      "sku": "396",
+      "almacen": 0,
+      "total": 44,
+      "piso": 44,
+      "estado": "ok",
+      "idx": 221
+    },
+    {
+      "nombre": "Resistencia eléctrica 4 vueltas",
+      "sku": "71",
+      "almacen": 0,
+      "total": 45,
+      "piso": 45,
+      "estado": "ok",
+      "idx": 222
+    },
+    {
+      "nombre": "Pila AA",
+      "sku": "453",
+      "almacen": 180,
+      "total": 225,
+      "piso": 45,
+      "estado": "ok",
+      "idx": 223
+    },
+    {
+      "nombre": "Tornillo M8 con tuerca",
+      "sku": "464",
+      "almacen": 0,
+      "total": 46,
+      "piso": 46,
+      "estado": "ok",
+      "idx": 224
+    },
+    {
+      "nombre": "Llave de ángulo 1/2 hembra",
+      "sku": "53",
+      "almacen": 0,
+      "total": 47,
+      "piso": 47,
+      "estado": "ok",
+      "idx": 225
+    },
+    {
+      "nombre": "Cinta 3mts",
+      "sku": "517",
+      "almacen": 0,
+      "total": 47,
+      "piso": 47,
+      "estado": "ok",
+      "idx": 226
+    },
+    {
+      "nombre": "T 1/2",
+      "sku": "226",
+      "almacen": 0,
+      "total": 48,
+      "piso": 48,
+      "estado": "ok",
+      "idx": 227
+    },
+    {
+      "nombre": "Interruptor triple",
+      "sku": "804",
+      "almacen": 25,
+      "total": 75,
+      "piso": 50,
+      "estado": "ok",
+      "idx": 228
+    },
+    {
+      "nombre": "Protector 110vol 20A",
+      "sku": "261",
+      "almacen": 48,
+      "total": 98,
+      "piso": 50,
+      "estado": "ok",
+      "idx": 229
+    },
+    {
+      "nombre": "Espiga",
+      "sku": "39",
+      "almacen": 270,
+      "total": 321,
+      "piso": 51,
+      "estado": "ok",
+      "idx": 230
+    },
+    {
+      "nombre": "Interruptor sencillo palanca",
+      "sku": "175",
+      "almacen": 119,
+      "total": 170,
+      "piso": 51,
+      "estado": "ok",
+      "idx": 231
+    },
+    {
+      "nombre": "Bombillo recargable 2 baterías/pilas",
+      "sku": "545",
+      "almacen": 0,
+      "total": 51,
+      "piso": 51,
+      "estado": "ok",
+      "idx": 232
+    },
+    {
+      "nombre": "Silicona de alta temperatura proefix",
+      "sku": "179",
+      "almacen": 0,
+      "total": 51,
+      "piso": 51,
+      "estado": "ok",
+      "idx": 233
+    },
+    {
+      "nombre": "Lapicero blanco",
+      "sku": "815",
+      "almacen": 0,
+      "total": 52,
+      "piso": 52,
+      "estado": "ok",
+      "idx": 234
+    },
+    {
+      "nombre": "Reducido 3/4-1/2",
+      "sku": "837",
+      "almacen": 130,
+      "total": 182,
+      "piso": 52,
+      "estado": "ok",
+      "idx": 235
+    },
+    {
+      "nombre": "Toma corriente universal",
+      "sku": "36",
+      "almacen": 200,
+      "total": 253,
+      "piso": 53,
+      "estado": "ok",
+      "idx": 236
+    },
+    {
+      "nombre": "Mando universal",
+      "sku": "180",
+      "almacen": 0,
+      "total": 54,
+      "piso": 54,
+      "estado": "ok",
+      "idx": 237
+    },
+    {
+      "nombre": "Adaptador redondo-plano",
+      "sku": "42",
+      "almacen": 0,
+      "total": 55,
+      "piso": 55,
+      "estado": "ok",
+      "idx": 238
+    },
+    {
+      "nombre": "Manguera corrugada",
+      "sku": "310",
+      "almacen": 0,
+      "total": 55,
+      "piso": 55,
+      "estado": "ok",
+      "idx": 239
+    },
+    {
+      "nombre": "Tubo de 20 led",
+      "sku": "157",
+      "almacen": 420,
+      "total": 476,
+      "piso": 56,
+      "estado": "ok",
+      "idx": 240
+    },
+    {
+      "nombre": "Cemento blanco 1kg",
+      "sku": "236",
+      "almacen": 0,
+      "total": 56,
+      "piso": 56,
+      "estado": "ok",
+      "idx": 241
+    },
+    {
+      "nombre": "Sócalo de bombillo normal",
+      "sku": "138",
+      "almacen": 60,
+      "total": 117,
+      "piso": 57,
+      "estado": "ok",
+      "idx": 242
+    },
+    {
+      "nombre": "Vaso plástico",
+      "sku": "814",
+      "almacen": 0,
+      "total": 59,
+      "piso": 59,
+      "estado": "ok",
+      "idx": 243
+    },
+    {
+      "nombre": "Anilla 1/2",
+      "sku": "617",
+      "almacen": 200,
+      "total": 261,
+      "piso": 61,
+      "estado": "ok",
+      "idx": 244
+    },
+    {
+      "nombre": "Canaletas fina",
+      "sku": "364",
+      "almacen": 240,
+      "total": 301,
+      "piso": 61,
+      "estado": "ok",
+      "idx": 245
+    },
+    {
+      "nombre": "T 1\"",
+      "sku": "76",
+      "almacen": 0,
+      "total": 62,
+      "piso": 62,
+      "estado": "ok",
+      "idx": 246
+    },
+    {
+      "nombre": "Disco de sierra madera115mm",
+      "sku": "593",
+      "almacen": 0,
+      "total": 63,
+      "piso": 63,
+      "estado": "ok",
+      "idx": 247
+    },
+    {
+      "nombre": "Interruptor LIOA",
+      "sku": "806",
+      "almacen": 0,
+      "total": 63,
+      "piso": 63,
+      "estado": "ok",
+      "idx": 248
+    },
+    {
+      "nombre": "Lima",
+      "sku": "174",
+      "almacen": 0,
+      "total": 64,
+      "piso": 64,
+      "estado": "ok",
+      "idx": 249
+    },
+    {
+      "nombre": "Codo 1\"",
+      "sku": "194",
+      "almacen": 0,
+      "total": 67,
+      "piso": 67,
+      "estado": "ok",
+      "idx": 250
+    },
+    {
+      "nombre": "Disco debaste 115\"mm",
+      "sku": "275",
+      "almacen": 100,
+      "total": 168,
+      "piso": 68,
+      "estado": "ok",
+      "idx": 251
+    },
+    {
+      "nombre": "Botonera",
+      "sku": "635",
+      "almacen": 0,
+      "total": 70,
+      "piso": 70,
+      "estado": "ok",
+      "idx": 252
+    },
+    {
+      "nombre": "Teflón",
+      "sku": "181",
+      "almacen": 0,
+      "total": 72,
+      "piso": 72,
+      "estado": "ok",
+      "idx": 253
+    },
+    {
+      "nombre": "Precinta transparente",
+      "sku": "161",
+      "almacen": 0,
+      "total": 75,
+      "piso": 75,
+      "estado": "ok",
+      "idx": 254
+    },
+    {
+      "nombre": "Canaleta extra-fina",
+      "sku": "798",
+      "almacen": 240,
+      "total": 318,
+      "piso": 78,
+      "estado": "ok",
+      "idx": 255
+    },
+    {
+      "nombre": "Toma corriente plano normal",
+      "sku": "35",
+      "almacen": 200,
+      "total": 279,
+      "piso": 79,
+      "estado": "ok",
+      "idx": 256
+    },
+    {
+      "nombre": "Codo 1/2\"",
+      "sku": "195",
+      "almacen": 0,
+      "total": 79,
+      "piso": 79,
+      "estado": "ok",
+      "idx": 257
+    },
+    {
+      "nombre": "Base de 20 sencilla",
+      "sku": "158",
+      "almacen": 300,
+      "total": 380,
+      "piso": 80,
+      "estado": "ok",
+      "idx": 258
+    },
+    {
+      "nombre": "Brocha 2\"",
+      "sku": "116",
+      "almacen": 168,
+      "total": 249,
+      "piso": 81,
+      "estado": "ok",
+      "idx": 259
+    },
+    {
+      "nombre": "Disco corte jumlee 125mm",
+      "sku": "639",
+      "almacen": 0,
+      "total": 82,
+      "piso": 82,
+      "estado": "ok",
+      "idx": 260
+    },
+    {
+      "nombre": "Lapicero",
+      "sku": "533",
+      "almacen": 1800,
+      "total": 1887,
+      "piso": 87,
+      "estado": "ok",
+      "idx": 261
+    },
+    {
+      "nombre": "Adaptador universal",
+      "sku": "163",
+      "almacen": 0,
+      "total": 98,
+      "piso": 98,
+      "estado": "ok",
+      "idx": 262
+    },
+    {
+      "nombre": "Niple 3/4",
+      "sku": "836",
+      "almacen": 0,
+      "total": 99,
+      "piso": 99,
+      "estado": "ok",
+      "idx": 263
+    },
+    {
+      "nombre": "Agarradera pequeña",
+      "sku": "649",
+      "almacen": 0,
+      "total": 102,
+      "piso": 102,
+      "estado": "ok",
+      "idx": 264
+    },
+    {
+      "nombre": "Palillo docena",
+      "sku": "363",
+      "almacen": 400,
+      "total": 512,
+      "piso": 112,
+      "estado": "ok",
+      "idx": 265
+    },
+    {
+      "nombre": "Latiguillo",
+      "sku": "769",
+      "almacen": 0,
+      "total": 113,
+      "piso": 113,
+      "estado": "ok",
+      "idx": 266
+    },
+    {
+      "nombre": "Bombillo led 9watts normal",
+      "sku": "74",
+      "almacen": 0,
+      "total": 116,
+      "piso": 116,
+      "estado": "ok",
+      "idx": 267
+    },
+    {
+      "nombre": "Conector MC4",
+      "sku": "634",
+      "almacen": 0,
+      "total": 140,
+      "piso": 140,
+      "estado": "ok",
+      "idx": 268
+    },
+    {
+      "nombre": "Barra de silicona",
+      "sku": "209",
+      "almacen": 0,
+      "total": 144,
+      "piso": 144,
+      "estado": "ok",
+      "idx": 269
+    },
+    {
+      "nombre": "Junquillo",
+      "sku": "832",
+      "almacen": 0,
+      "total": 147,
+      "piso": 147,
+      "estado": "ok",
+      "idx": 270
+    },
+    {
+      "nombre": "Brocha 1\"",
+      "sku": "118",
+      "almacen": 132,
+      "total": 289,
+      "piso": 157,
+      "estado": "ok",
+      "idx": 271
+    },
+    {
+      "nombre": "Cable 16 cobre",
+      "sku": "830",
+      "almacen": 0,
+      "total": 164,
+      "piso": 164,
+      "estado": "ok",
+      "idx": 272
+    },
+    {
+      "nombre": "Estropajo alambre",
+      "sku": "662",
+      "almacen": 0,
+      "total": 189,
+      "piso": 189,
+      "estado": "ok",
+      "idx": 273
+    },
+    {
+      "nombre": "Expansor mecanico m10",
+      "sku": "855",
+      "almacen": 0,
+      "total": 192,
+      "piso": 192,
+      "estado": "ok",
+      "idx": 274
+    },
+    {
+      "nombre": "Expansor marco-puerta 3\" plástico",
+      "sku": "108",
+      "almacen": 0,
+      "total": 357,
+      "piso": 357,
+      "estado": "ok",
+      "idx": 275
+    },
+    {
+      "nombre": "Clavo x libra",
+      "sku": "541",
+      "almacen": 0,
+      "total": 381,
+      "piso": 381,
+      "estado": "ok",
+      "idx": 276
+    },
+    {
+      "nombre": "Pila AAA",
+      "sku": "166",
+      "almacen": 0,
+      "total": 522,
+      "piso": 522,
+      "estado": "ok",
+      "idx": 277
+    },
+    {
+      "nombre": "Disco de corte superfuerza 125mm",
+      "sku": "318",
+      "almacen": 6000,
+      "total": 6560,
+      "piso": 560,
+      "estado": "ok",
+      "idx": 278
+    },
+    {
+      "nombre": "Disco de corte metal 115\"mm",
+      "sku": "99",
+      "almacen": 0,
+      "total": 716,
+      "piso": 716,
+      "estado": "ok",
+      "idx": 279
+    },
+    {
+      "nombre": "Clavo techo 4\"",
+      "sku": "740",
+      "almacen": 0,
+      "total": 740,
+      "piso": 740,
+      "estado": "ok",
+      "idx": 280
+    },
+    {
+      "nombre": "Fosforera magneto grande",
+      "sku": "782",
+      "almacen": 0,
+      "total": 856,
+      "piso": 856,
+      "estado": "ok",
+      "idx": 281
+    },
+    {
+      "nombre": "Expansor mecánico M6",
+      "sku": "110",
+      "almacen": 0,
+      "total": 874,
+      "piso": 874,
+      "estado": "ok",
+      "idx": 282
+    },
+    {
+      "nombre": "Pozuelo 200",
+      "sku": "540",
+      "almacen": 0,
+      "total": 899,
+      "piso": 899,
+      "estado": "ok",
+      "idx": 283
+    },
+    {
+      "nombre": "Tornillo allen",
+      "sku": "856",
+      "almacen": 0,
+      "total": 926,
+      "piso": 926,
+      "estado": "ok",
+      "idx": 284
+    },
+    {
+      "nombre": "Lija de agua profesional",
+      "sku": "212",
+      "almacen": 0,
+      "total": 1028,
+      "piso": 1028,
+      "estado": "ok",
+      "idx": 285
+    },
+    {
+      "nombre": "Tornillo M5 2\" con tuerca",
+      "sku": "797",
+      "almacen": 2000,
+      "total": 3435,
+      "piso": 1435,
+      "estado": "ok",
+      "idx": 286
+    },
+    {
+      "nombre": "Tornillo rosca chapa 1\" 10mm",
+      "sku": "102",
+      "almacen": 0,
+      "total": 1805,
+      "piso": 1805,
+      "estado": "ok",
+      "idx": 287
+    },
+    {
+      "nombre": "Tornillo M6 2\" 50mm",
+      "sku": "771",
+      "almacen": 0,
+      "total": 1832,
+      "piso": 1832,
+      "estado": "ok",
+      "idx": 288
+    },
+    {
+      "nombre": "Clavo techo 5\"",
+      "sku": "667",
+      "almacen": 1,
+      "total": 2027,
+      "piso": 2026,
+      "estado": "ok",
+      "idx": 289
+    },
+    {
+      "nombre": "Tornillo tira-fondo pladur 1\"3/4\"/45mm x caja 360",
+      "sku": "599",
+      "almacen": 0,
+      "total": 3228,
+      "piso": 3228,
+      "estado": "ok",
+      "idx": 290
+    },
+    {
+      "nombre": "Tornillo tira-fondo pladur 1\"/25mm x caja 600",
+      "sku": "281",
+      "almacen": 12000,
+      "total": 17163,
+      "piso": 5163,
+      "estado": "ok",
+      "idx": 291
+    },
+    {
+      "nombre": "Varilla de techo",
+      "sku": "314",
+      "almacen": 0,
+      "total": 6483,
+      "piso": 6483,
+      "estado": "ok",
+      "idx": 292
+    },
+    {
+      "nombre": "Varilla de soldar 6013/3.2mm 35cm",
+      "sku": "94",
+      "almacen": 0,
+      "total": 6780,
+      "piso": 6780,
+      "estado": "ok",
+      "idx": 293
+    },
+    {
+      "nombre": "Tornillo MM 1/2\" SPC cajita de 560",
+      "sku": "465",
+      "almacen": 0,
+      "total": 8951,
+      "piso": 8951,
+      "estado": "ok",
+      "idx": 294
+    },
+    {
+      "nombre": "Chirri 2\" fino",
+      "sku": "433",
+      "almacen": 0,
+      "total": 9044,
+      "piso": 9044,
+      "estado": "ok",
+      "idx": 295
+    },
+    {
+      "nombre": "Tornillo tira-fondo pladur 1 1/2\"/35mm x caja 420",
+      "sku": "581",
+      "almacen": 8400,
+      "total": 17674,
+      "piso": 9274,
+      "estado": "ok",
+      "idx": 296
+    },
+    {
+      "nombre": "Tornillo tira-fondo cabeza plana",
+      "sku": "831",
+      "almacen": 0,
+      "total": 10000,
+      "piso": 10000,
+      "estado": "ok",
+      "idx": 297
+    },
+    {
+      "nombre": "Expansores plásticos 6x40",
+      "sku": "98",
+      "almacen": 0,
+      "total": 61007,
+      "piso": 61007,
+      "estado": "ok",
+      "idx": 298
+    },
+    {
+      "nombre": "Útiles Del Hogar",
+      "sku": "Útiles Del Hogar",
+      "almacen": null,
+      "total": 0,
+      "piso": null,
+      "estado": "noEncontrado",
+      "idx": 299
+    },
+    {
+      "nombre": "Cables",
+      "sku": "Cables",
+      "almacen": null,
+      "total": 0,
+      "piso": null,
+      "estado": "noEncontrado",
+      "idx": 300
+    },
+    {
+      "nombre": "Protección y control",
+      "sku": "Protección y control",
+      "almacen": null,
+      "total": 0,
+      "piso": null,
+      "estado": "noEncontrado",
+      "idx": 301
+    },
+    {
+      "nombre": "Conectividad",
+      "sku": "Conectividad",
+      "almacen": null,
+      "total": 0,
+      "piso": null,
+      "estado": "noEncontrado",
+      "idx": 302
+    },
+    {
+      "nombre": "Iluminación",
+      "sku": "Iluminación",
+      "almacen": null,
+      "total": 0,
+      "piso": null,
+      "estado": "noEncontrado",
+      "idx": 303
+    },
+    {
+      "nombre": "Plomeria",
+      "sku": "Plomeria",
+      "almacen": null,
+      "total": 0,
+      "piso": null,
+      "estado": "noEncontrado",
+      "idx": 304
+    },
+    {
+      "nombre": "Herramientas eléctricas",
+      "sku": "Herramientas eléctricas",
+      "almacen": null,
+      "total": 0,
+      "piso": null,
+      "estado": "noEncontrado",
+      "idx": 305
+    },
+    {
+      "nombre": "Herramientas manuales",
+      "sku": "Herramientas manuales",
+      "almacen": null,
+      "total": 0,
+      "piso": null,
+      "estado": "noEncontrado",
+      "idx": 306
+    },
+    {
+      "nombre": "Materiales y pinturas",
+      "sku": "Materiales y pinturas",
+      "almacen": null,
+      "total": 0,
+      "piso": null,
+      "estado": "noEncontrado",
+      "idx": 307
+    },
+    {
+      "nombre": "Cocina",
+      "sku": "Cocina",
+      "almacen": null,
+      "total": 0,
+      "piso": null,
+      "estado": "noEncontrado",
+      "idx": 308
+    },
+    {
+      "nombre": "Climatización y agua",
+      "sku": "Climatización y agua",
+      "almacen": null,
+      "total": 0,
+      "piso": null,
+      "estado": "noEncontrado",
+      "idx": 309
+    },
+    {
+      "nombre": "Higiene y baño",
+      "sku": "Higiene y baño",
+      "almacen": null,
+      "total": 0,
+      "piso": null,
+      "estado": "noEncontrado",
+      "idx": 310
+    },
+    {
+      "nombre": "Tornilleria",
+      "sku": "Tornilleria",
+      "almacen": null,
+      "total": 0,
+      "piso": null,
+      "estado": "noEncontrado",
+      "idx": 311
+    },
+    {
+      "nombre": "Bisagra",
+      "sku": "Bisagra",
+      "almacen": null,
+      "total": 0,
+      "piso": null,
+      "estado": "noEncontrado",
+      "idx": 312
+    },
+    {
+      "nombre": "Llavines y cerraduras",
+      "sku": "Llavines y cerraduras",
+      "almacen": null,
+      "total": 0,
+      "piso": null,
+      "estado": "noEncontrado",
+      "idx": 313
+    },
+    {
+      "nombre": "Otros artículos",
+      "sku": "Otros artículos",
+      "almacen": null,
+      "total": 0,
+      "piso": null,
+      "estado": "noEncontrado",
+      "idx": 314
+    },
+    {
+      "nombre": "Miscelaneas",
+      "sku": "Miscelaneas",
+      "almacen": null,
+      "total": 0,
+      "piso": null,
+      "estado": "noEncontrado",
+      "idx": 315
+    },
+    {
+      "nombre": "Nuevas cosas",
+      "sku": "Nuevas cosas",
+      "almacen": null,
+      "total": 0,
+      "piso": null,
+      "estado": "noEncontrado",
+      "idx": 316
+    }
+  ],
+  "actualizado": "2026-09-26T11:08:53.777Z"
 }
