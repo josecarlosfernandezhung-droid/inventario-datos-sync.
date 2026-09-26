@@ -1,6 +1,6 @@
 {
   "dispositivo": "José",
-  "actualizado": "2026-09-26T15:40:13.083Z",
+  "actualizado": "2026-09-26T15:43:55.390Z",
   "movimientos": [
     {
       "id": 1787663644087,
@@ -6152,6 +6152,54 @@
       "cantidad": 5,
       "unidad": "piezas",
       "referencia": "737",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1790437211599,
+      "tipo": "salida",
+      "fecha": "2026-09-26",
+      "producto": "Escobillón 1400",
+      "cantidad": 35,
+      "unidad": "piezas",
+      "referencia": "742",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1790437211842,
+      "tipo": "salida",
+      "fecha": "2026-09-26",
+      "producto": "Casco criollo",
+      "cantidad": 9,
+      "unidad": "piezas",
+      "referencia": "534",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1790437211825,
+      "tipo": "salida",
+      "fecha": "2026-09-26",
+      "producto": "Aragán",
+      "cantidad": 25,
+      "unidad": "piezas",
+      "referencia": "448",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1790437211850,
+      "tipo": "salida",
+      "fecha": "2026-09-26",
+      "producto": "Base de tv 14-42 pulgadas",
+      "cantidad": 20,
+      "unidad": "piezas",
+      "referencia": "19",
       "categoria": "Sin categoría",
       "observaciones": "Transferencia a piso de venta",
       "registradoPor": ""
