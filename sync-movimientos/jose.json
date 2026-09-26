@@ -1,6 +1,6 @@
 {
   "dispositivo": "José",
-  "actualizado": "2026-09-26T15:15:23.282Z",
+  "actualizado": "2026-09-26T15:40:13.083Z",
   "movimientos": [
     {
       "id": 1787663644087,
@@ -6107,6 +6107,54 @@
       "categoria": "Sin categoría",
       "observaciones": "Transferencia a piso de venta",
       "registradoPor": "José"
+    },
+    {
+      "id": 1790435859661,
+      "tipo": "salida",
+      "fecha": "2026-09-26",
+      "producto": "Fogón de petroleo",
+      "cantidad": 3,
+      "unidad": "piezas",
+      "referencia": "637",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1790435859409,
+      "tipo": "salida",
+      "fecha": "2026-09-26",
+      "producto": "Olla multipropósito/reina 90min-6lts Esteletric",
+      "cantidad": 3,
+      "unidad": "piezas",
+      "referencia": "80",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1790435859737,
+      "tipo": "salida",
+      "fecha": "2026-09-26",
+      "producto": "Batidora licuadora 2 en 1",
+      "cantidad": 3,
+      "unidad": "piezas",
+      "referencia": "845",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1790437211002,
+      "tipo": "salida",
+      "fecha": "2026-09-26",
+      "producto": "Reflector led 100watts",
+      "cantidad": 5,
+      "unidad": "piezas",
+      "referencia": "737",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
     }
   ]
 }
