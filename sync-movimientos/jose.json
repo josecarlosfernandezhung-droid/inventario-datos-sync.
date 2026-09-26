@@ -1,6 +1,6 @@
 {
   "dispositivo": "José",
-  "actualizado": "2026-09-26T04:55:11.770Z",
+  "actualizado": "2026-09-26T05:08:20.618Z",
   "movimientos": [
     {
       "id": 1787663644087,
@@ -4291,6 +4291,30 @@
       "registradoPor": ""
     },
     {
+      "id": 1788801342674,
+      "tipo": "salida",
+      "fecha": "2026-09-07",
+      "producto": "Cajita 4x2",
+      "cantidad": 60,
+      "unidad": "piezas",
+      "referencia": "266",
+      "categoria": "Sin categoría",
+      "observaciones": "",
+      "registradoPor": ""
+    },
+    {
+      "id": 1788809638384,
+      "tipo": "salida",
+      "fecha": "2026-09-07",
+      "producto": "Cajita 4x2",
+      "cantidad": 145,
+      "unidad": "piezas",
+      "referencia": "266",
+      "categoria": "Sin categoría",
+      "observaciones": "",
+      "registradoPor": ""
+    },
+    {
       "id": 1789500447989,
       "tipo": "salida",
       "fecha": "2026-09-15",
@@ -5603,6 +5627,18 @@
       "categoria": "Sin categoría",
       "observaciones": "Transferencia a piso de venta",
       "registradoPor": "José"
+    },
+    {
+      "id": 1790188302788,
+      "tipo": "salida",
+      "fecha": "2026-09-23",
+      "producto": "Olla multipropósito/reina 90min-4lts EKO",
+      "cantidad": 8,
+      "unidad": "piezas",
+      "referencia": "657",
+      "categoria": "Sin categoría",
+      "observaciones": "",
+      "registradoPor": "Rafe"
     },
     {
       "id": 1790259516487,
