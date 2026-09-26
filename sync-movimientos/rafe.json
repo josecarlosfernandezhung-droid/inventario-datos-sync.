@@ -1,6 +1,6 @@
 {
   "dispositivo": "Rafe",
-  "actualizado": "2026-09-26T18:11:14.116Z",
+  "actualizado": "2026-09-26T19:52:55.025Z",
   "movimientos": [
     {
       "id": 1787663644087,
@@ -6116,6 +6116,18 @@
       "cantidad": 72,
       "unidad": "piezas",
       "referencia": "479",
+      "categoria": "Sin categoría",
+      "observaciones": "",
+      "registradoPor": "Rafe"
+    },
+    {
+      "id": 1790452166709,
+      "tipo": "salida",
+      "fecha": "2026-09-26",
+      "producto": "Pala 4500$",
+      "cantidad": 2,
+      "unidad": "piezas",
+      "referencia": "583",
       "categoria": "Sin categoría",
       "observaciones": "",
       "registradoPor": "Rafe"
