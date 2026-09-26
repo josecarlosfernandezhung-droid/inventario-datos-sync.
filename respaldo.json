@@ -11749,9 +11749,9 @@
     {
       "nombre": "Sifa fregadero flexible boca chica",
       "sku": "340",
-      "almacen": 20,
+      "almacen": 15,
       "total": 32,
-      "piso": 12,
+      "piso": 17,
       "estado": "ok",
       "idx": 525
     },
@@ -11965,9 +11965,9 @@
     {
       "nombre": "Cinta 5 mts",
       "sku": "629",
-      "almacen": 24,
+      "almacen": 0,
       "total": 40,
-      "piso": 16,
+      "piso": 40,
       "estado": "ok",
       "idx": 549
     },
@@ -12073,9 +12073,9 @@
     {
       "nombre": "Llavín picaporte plateado",
       "sku": "128",
-      "almacen": 20,
+      "almacen": 0,
       "total": 39,
-      "piso": 19,
+      "piso": 39,
       "estado": "ok",
       "idx": 561
     },
@@ -12217,9 +12217,9 @@
     {
       "nombre": "Brida 4.8x400mm",
       "sku": "417",
-      "almacen": 10,
+      "almacen": 0,
       "total": 33,
-      "piso": 23,
+      "piso": 33,
       "estado": "ok",
       "idx": 577
     },
@@ -12253,9 +12253,9 @@
     {
       "nombre": "Pintura 1/litro barniz",
       "sku": "441",
-      "almacen": 18,
+      "almacen": 0,
       "total": 42,
-      "piso": 24,
+      "piso": 42,
       "estado": "ok",
       "idx": 581
     },
@@ -12532,9 +12532,9 @@
     {
       "nombre": "Pluma plástica de jardín 1/2 tiro rápido",
       "sku": "60",
-      "almacen": 30,
+      "almacen": 20,
       "total": 66,
-      "piso": 36,
+      "piso": 46,
       "estado": "ok",
       "idx": 612
     },
@@ -12694,9 +12694,9 @@
     {
       "nombre": "Espiga",
       "sku": "39",
-      "almacen": 270,
+      "almacen": 250,
       "total": 321,
-      "piso": 51,
+      "piso": 71,
       "estado": "ok",
       "idx": 630
     },
@@ -13349,5 +13349,5 @@
       "idx": 702
     }
   ],
-  "actualizado": "2026-09-26T15:40:11.314Z"
+  "actualizado": "2026-09-26T16:20:01.251Z"
 }
