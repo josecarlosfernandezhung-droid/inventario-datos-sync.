@@ -11578,10 +11578,10 @@
     {
       "nombre": "Reflector led 100watts",
       "sku": "737",
-      "almacen": 20,
+      "almacen": 15,
       "total": 29,
-      "piso": 9,
-      "estado": "bajo",
+      "piso": 14,
+      "estado": "ok",
       "idx": 506
     },
     {
@@ -11686,9 +11686,9 @@
     {
       "nombre": "Base de tv 14-42 pulgadas",
       "sku": "19",
-      "almacen": 20,
+      "almacen": 0,
       "total": 30,
-      "piso": 10,
+      "piso": 30,
       "estado": "ok",
       "idx": 518
     },
@@ -11947,9 +11947,9 @@
     {
       "nombre": "Aragán",
       "sku": "448",
-      "almacen": 25,
+      "almacen": 0,
       "total": 41,
-      "piso": 16,
+      "piso": 41,
       "estado": "ok",
       "idx": 547
     },
@@ -12028,9 +12028,9 @@
     {
       "nombre": "Casco criollo",
       "sku": "534",
-      "almacen": 105,
+      "almacen": 96,
       "total": 123,
-      "piso": 18,
+      "piso": 27,
       "estado": "ok",
       "idx": 556
     },
@@ -12523,9 +12523,9 @@
     {
       "nombre": "Escobillón 1400",
       "sku": "742",
-      "almacen": 35,
+      "almacen": 0,
       "total": 70,
-      "piso": 35,
+      "piso": 70,
       "estado": "ok",
       "idx": 611
     },
@@ -13349,5 +13349,5 @@
       "idx": 702
     }
   ],
-  "actualizado": "2026-09-26T15:17:39.386Z"
+  "actualizado": "2026-09-26T15:40:11.314Z"
 }
