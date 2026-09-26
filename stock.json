@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-26T05:11:39.017Z",
+  "actualizado": "2026-09-26T05:11:53.011Z",
   "productos": [
     {
       "nombre": "Accesorio de baño",
@@ -7706,6 +7706,7 @@
   ],
   "etiquetas": {
     "productos": "Almacén de Piso de Venta",
-    "almacenPrincipal": "Almacén de Rafe"
+    "almacenPrincipal": "Almacén de Rafe",
+    "pisoVenta": "Piso de Venta Cuarto"
   }
 }
