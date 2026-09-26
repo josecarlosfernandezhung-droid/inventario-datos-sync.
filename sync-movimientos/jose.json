@@ -1,6 +1,6 @@
 {
   "dispositivo": "José",
-  "actualizado": "2026-09-26T16:19:28.270Z",
+  "actualizado": "2026-09-26T18:08:41.561Z",
   "movimientos": [
     {
       "id": 1787663644087,
@@ -6200,6 +6200,90 @@
       "cantidad": 20,
       "unidad": "piezas",
       "referencia": "19",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1790439600801,
+      "tipo": "salida",
+      "fecha": "2026-09-26",
+      "producto": "Sifa fregadero flexible boca chica",
+      "cantidad": 5,
+      "unidad": "piezas",
+      "referencia": "340",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1790439601524,
+      "tipo": "salida",
+      "fecha": "2026-09-26",
+      "producto": "Espiga",
+      "cantidad": 20,
+      "unidad": "piezas",
+      "referencia": "39",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1790439600937,
+      "tipo": "salida",
+      "fecha": "2026-09-26",
+      "producto": "Llavín picaporte plateado",
+      "cantidad": 20,
+      "unidad": "piezas",
+      "referencia": "128",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1790439600879,
+      "tipo": "salida",
+      "fecha": "2026-09-26",
+      "producto": "Pluma plástica de jardín 1/2 tiro rápido",
+      "cantidad": 10,
+      "unidad": "piezas",
+      "referencia": "60",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1790439600879,
+      "tipo": "salida",
+      "fecha": "2026-09-26",
+      "producto": "Cinta 5 mts",
+      "cantidad": 24,
+      "unidad": "piezas",
+      "referencia": "629",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1790439601018,
+      "tipo": "salida",
+      "fecha": "2026-09-26",
+      "producto": "Pintura 1/litro barniz",
+      "cantidad": 18,
+      "unidad": "piezas",
+      "referencia": "441",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1790439601224,
+      "tipo": "salida",
+      "fecha": "2026-09-26",
+      "producto": "Brida 4.8x400mm",
+      "cantidad": 10,
+      "unidad": "piezas",
+      "referencia": "417",
       "categoria": "Sin categoría",
       "observaciones": "Transferencia a piso de venta",
       "registradoPor": ""
