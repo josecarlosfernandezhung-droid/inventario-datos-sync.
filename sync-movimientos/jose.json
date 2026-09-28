@@ -1,6 +1,6 @@
 {
   "dispositivo": "José",
-  "actualizado": "2026-09-28T17:31:59.092Z",
+  "actualizado": "2026-09-28T17:34:55.929Z",
   "movimientos": [
     {
       "id": 1787663644087,
@@ -6454,6 +6454,18 @@
       "referencia": "340",
       "categoria": "Sin categoría",
       "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1790616767796,
+      "tipo": "salida",
+      "fecha": "2026-09-28",
+      "producto": "Olla multipropósito/reina 90min-6lts Esteletric",
+      "cantidad": 1,
+      "unidad": "piezas",
+      "referencia": "80",
+      "categoria": "Sin categoría",
+      "observaciones": "",
       "registradoPor": ""
     }
   ]
