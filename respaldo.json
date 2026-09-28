@@ -10134,10 +10134,10 @@
     {
       "nombre": "Tornillo tira-fondo pladur 1\"/25mm x caja 600",
       "sku": "281",
-      "almacen": 12000,
+      "almacen": 0,
       "total": 8897,
-      "piso": -3103,
-      "estado": "agotado",
+      "piso": 8897,
+      "estado": "ok",
       "idx": 0
     },
     {
@@ -13914,9 +13914,9 @@
     {
       "nombre": "Pala 4500$",
       "sku": "583",
-      "almacen": 3,
+      "almacen": 2,
       "total": 4,
-      "piso": 1,
+      "piso": 2,
       "estado": "bajo",
       "idx": 420
     },
@@ -14283,9 +14283,9 @@
     {
       "nombre": "Soporte de Instalación para Split",
       "sku": "833",
-      "almacen": 6,
+      "almacen": 0,
       "total": 8,
-      "piso": 2,
+      "piso": 8,
       "estado": "bajo",
       "idx": 461
     },
@@ -14319,9 +14319,9 @@
     {
       "nombre": "Olla multipropósito/reina 90min-6lts Esteletric",
       "sku": "80",
-      "almacen": 7,
+      "almacen": 5,
       "total": 10,
-      "piso": 3,
+      "piso": 5,
       "estado": "bajo",
       "idx": 465
     },
@@ -14445,10 +14445,10 @@
     {
       "nombre": "Cable 12 aluminio",
       "sku": "231",
-      "almacen": 10,
+      "almacen": 5,
       "total": 14,
-      "piso": 4,
-      "estado": "bajo",
+      "piso": 9,
+      "estado": "ok",
       "idx": 479
     },
     {
@@ -14706,10 +14706,10 @@
     {
       "nombre": "Pluma cuello de ganso por debajo",
       "sku": "58",
-      "almacen": 40,
+      "almacen": 35,
       "total": 47,
-      "piso": 7,
-      "estado": "bajo",
+      "piso": 12,
+      "estado": "ok",
       "idx": 508
     },
     {
@@ -14724,10 +14724,10 @@
     {
       "nombre": "Bisagra 4x3 libro interior",
       "sku": "272",
-      "almacen": 20,
+      "almacen": 15,
       "total": 27,
-      "piso": 7,
-      "estado": "bajo",
+      "piso": 12,
+      "estado": "ok",
       "idx": 510
     },
     {
@@ -14787,10 +14787,10 @@
     {
       "nombre": "Sifa fregadero flexible boca chica",
       "sku": "340",
-      "almacen": 15,
+      "almacen": 10,
       "total": 24,
-      "piso": 9,
-      "estado": "bajo",
+      "piso": 14,
+      "estado": "ok",
       "idx": 517
     },
     {
@@ -14859,28 +14859,28 @@
     {
       "nombre": "Tubo de 20 led",
       "sku": "157",
-      "almacen": 420,
+      "almacen": 360,
       "total": 433,
-      "piso": 13,
-      "estado": "bajo",
+      "piso": 73,
+      "estado": "ok",
       "idx": 525
     },
     {
       "nombre": "Interruptor doble",
       "sku": "176",
-      "almacen": 90,
+      "almacen": 80,
       "total": 109,
-      "piso": 19,
-      "estado": "bajo",
+      "piso": 29,
+      "estado": "ok",
       "idx": 526
     },
     {
       "nombre": "Base de 20 doble",
       "sku": "575",
-      "almacen": 60,
+      "almacen": 0,
       "total": 81,
-      "piso": 21,
-      "estado": "bajo",
+      "piso": 81,
+      "estado": "ok",
       "idx": 527
     },
     {
@@ -16459,5 +16459,5 @@
       "idx": 702
     }
   ],
-  "actualizado": "2026-09-28T17:15:52.080Z"
+  "actualizado": "2026-09-28T17:17:56.299Z"
 }
