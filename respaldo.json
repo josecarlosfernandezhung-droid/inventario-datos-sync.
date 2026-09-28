@@ -6688,12 +6688,12 @@
     {
       "nombre": "Disco tungsteno 115mm liso",
       "sku": "285",
-      "cantidad": 100
+      "cantidad": 80
     },
     {
       "nombre": "Pluma plástica de jardín 1/2 tiro rápido",
       "sku": "60",
-      "cantidad": 70
+      "cantidad": 50
     },
     {
       "nombre": "Aragán",
@@ -6723,7 +6723,7 @@
     {
       "nombre": "Cinta 3mts",
       "sku": "517",
-      "cantidad": 148
+      "cantidad": 128
     },
     {
       "nombre": "Espiga",
@@ -6763,7 +6763,7 @@
     {
       "nombre": "Codo de 50",
       "sku": "546",
-      "cantidad": 160
+      "cantidad": 100
     },
     {
       "nombre": "Brocha 1\"",
@@ -6776,14 +6776,9 @@
       "cantidad": 170
     },
     {
-      "nombre": "Cinta 5mts 1200$",
-      "sku": "422",
-      "cantidad": 252
-    },
-    {
       "nombre": "Unión universal 1\"",
       "sku": "232",
-      "cantidad": 250
+      "cantidad": 220
     },
     {
       "nombre": "Latiguillo",
@@ -6808,12 +6803,12 @@
     {
       "nombre": "Lima",
       "sku": "174",
-      "cantidad": 384
+      "cantidad": 348
     },
     {
       "nombre": "Codo 1\"",
       "sku": "194",
-      "cantidad": 500
+      "cantidad": 480
     },
     {
       "nombre": "Silicona de alta temperatura 700",
@@ -6863,7 +6858,7 @@
     {
       "nombre": "Codo 1/2\"",
       "sku": "195",
-      "cantidad": 2500
+      "cantidad": 2300
     },
     {
       "nombre": "Expansor mecánico M8 10mm",
@@ -6923,7 +6918,7 @@
     {
       "nombre": "Cinta 5 mts",
       "sku": "629",
-      "cantidad": 228
+      "cantidad": 216
     }
   ],
   "almacenesExtra": [
@@ -7016,6 +7011,283 @@
           "nombre": "Resistencia eléctrica 4",
           "sku": "71",
           "cantidad": 50
+        }
+      ]
+    },
+    {
+      "id": "alm_mulh7wbsvthn",
+      "nombre": "Placa",
+      "icono": "🛠️",
+      "productos": [
+        {
+          "nombre": "Base de tv 14-42 pulgadas",
+          "sku": "19",
+          "cantidad": 20
+        },
+        {
+          "nombre": "Toma corriente plano normal",
+          "sku": "35",
+          "cantidad": 1800
+        },
+        {
+          "nombre": "Llave empotrada de ducha",
+          "sku": "52",
+          "cantidad": 80
+        },
+        {
+          "nombre": "Sifa de piso poseta",
+          "sku": "56",
+          "cantidad": 115
+        },
+        {
+          "nombre": "Pluma plástica de jardín 1/2 tiro rápido",
+          "sku": "60",
+          "cantidad": 50
+        },
+        {
+          "nombre": "Resistencia eléctrica 4 vueltas",
+          "sku": "71",
+          "cantidad": 100
+        },
+        {
+          "nombre": "T 1\"",
+          "sku": "76",
+          "cantidad": 75
+        },
+        {
+          "nombre": "Disco de corte metal 115\"mm",
+          "sku": "99",
+          "cantidad": 4000
+        },
+        {
+          "nombre": "Expansor marco-puerta 3\" plástico",
+          "sku": "108",
+          "cantidad": 2550
+        },
+        {
+          "nombre": "Brocha 1\"",
+          "sku": "118",
+          "cantidad": 216
+        },
+        {
+          "nombre": "Regulador de gas",
+          "sku": "120",
+          "cantidad": 19
+        },
+        {
+          "nombre": "Llavín picaporte",
+          "sku": "128",
+          "cantidad": 20
+        },
+        {
+          "nombre": "Sócalo de bombillo normal",
+          "sku": "138",
+          "cantidad": 260
+        },
+        {
+          "nombre": "Precinta transparente",
+          "sku": "161",
+          "cantidad": 554
+        },
+        {
+          "nombre": "Terminal para baterías/bornes",
+          "sku": "162",
+          "cantidad": 80
+        },
+        {
+          "nombre": "Pila AAA",
+          "sku": "166",
+          "cantidad": 360
+        },
+        {
+          "nombre": "Lima",
+          "sku": "174",
+          "cantidad": 348
+        },
+        {
+          "nombre": "Interruptor sencillo palanca",
+          "sku": "175",
+          "cantidad": 350
+        },
+        {
+          "nombre": "Mando universal",
+          "sku": "180",
+          "cantidad": 170
+        },
+        {
+          "nombre": "Herraje de baño",
+          "sku": "193",
+          "cantidad": 65
+        },
+        {
+          "nombre": "Codo 1\"",
+          "sku": "194",
+          "cantidad": 480
+        },
+        {
+          "nombre": "Codo 1/2\"",
+          "sku": "195",
+          "cantidad": 2300
+        },
+        {
+          "nombre": "Cerrucho",
+          "sku": "201",
+          "cantidad": 10
+        },
+        {
+          "nombre": "T 1/2",
+          "sku": "226",
+          "cantidad": 560
+        },
+        {
+          "nombre": "Cable 12 aluminio",
+          "sku": "231",
+          "cantidad": 30
+        },
+        {
+          "nombre": "Unión universal 1\"",
+          "sku": "232",
+          "cantidad": 220
+        },
+        {
+          "nombre": "Manguera de gas",
+          "sku": "238",
+          "cantidad": 50
+        },
+        {
+          "nombre": "Protector 110vol 20A",
+          "sku": "261",
+          "cantidad": 84
+        },
+        {
+          "nombre": "Disco tungsteno 115mm liso",
+          "sku": "285",
+          "cantidad": 80
+        },
+        {
+          "nombre": "Cuello ganso flexible a la pared",
+          "sku": "288",
+          "cantidad": 3
+        },
+        {
+          "nombre": "Sifa fregadero flexible boca chica",
+          "sku": "340",
+          "cantidad": 110
+        },
+        {
+          "nombre": "Cheque de plástico 1\"",
+          "sku": "345",
+          "cantidad": 30
+        },
+        {
+          "nombre": "Brida 4.8x400mm",
+          "sku": "417",
+          "cantidad": 20
+        },
+        {
+          "nombre": "Chirri 2\" fino",
+          "sku": "433",
+          "cantidad": 10000
+        },
+        {
+          "nombre": "Aragán",
+          "sku": "448",
+          "cantidad": 100
+        },
+        {
+          "nombre": "Pila AA",
+          "sku": "453",
+          "cantidad": 760
+        },
+        {
+          "nombre": "PVC 250ml",
+          "sku": "455",
+          "cantidad": 48
+        },
+        {
+          "nombre": "Tornillo MM 1/2\" SPC cajita de 580",
+          "sku": "465",
+          "cantidad": 22000
+        },
+        {
+          "nombre": "Set de destornilladores MAXI pareja",
+          "sku": "468",
+          "cantidad": 20
+        },
+        {
+          "nombre": "Silicona de alta temperatura 700",
+          "sku": "479",
+          "cantidad": 600
+        },
+        {
+          "nombre": "Supresor de voltaje 110v",
+          "sku": "485",
+          "cantidad": 36
+        },
+        {
+          "nombre": "Cinta 3mts",
+          "sku": "517",
+          "cantidad": 128
+        },
+        {
+          "nombre": "Codo de 50",
+          "sku": "546",
+          "cantidad": 100
+        },
+        {
+          "nombre": "Cepillo de copa normal 800$",
+          "sku": "548",
+          "cantidad": 40
+        },
+        {
+          "nombre": "Llave lavamano zapatilla",
+          "sku": "567",
+          "cantidad": 14
+        },
+        {
+          "nombre": "Tornillo tira-fondo pladur 1 1/2\"/35mm x caja 420",
+          "sku": "581",
+          "cantidad": 33600
+        },
+        {
+          "nombre": "Disco de sierra madera115mm",
+          "sku": "593",
+          "cantidad": 50
+        },
+        {
+          "nombre": "Lima 900",
+          "sku": "604",
+          "cantidad": 180
+        },
+        {
+          "nombre": "Cinta 5 mts",
+          "sku": "629",
+          "cantidad": 216
+        },
+        {
+          "nombre": "Estropajo alambre",
+          "sku": "662",
+          "cantidad": 240
+        },
+        {
+          "nombre": "Extensión 9 fts",
+          "sku": "719",
+          "cantidad": 20
+        },
+        {
+          "nombre": "Brekera 2 posiciones",
+          "sku": "741",
+          "cantidad": 200
+        },
+        {
+          "nombre": "Latiguillo",
+          "sku": "769",
+          "cantidad": 300
+        },
+        {
+          "nombre": "Fosforera magneto grande",
+          "sku": "782",
+          "cantidad": 1000
         }
       ]
     }
@@ -11488,10 +11760,10 @@
     {
       "nombre": "Fregadero escurridor boca pequeña",
       "sku": "82",
-      "almacen": 15,
+      "almacen": 10,
       "total": 22,
-      "piso": 7,
-      "estado": "bajo",
+      "piso": 12,
+      "estado": "ok",
       "idx": 496
     },
     {
@@ -11893,9 +12165,9 @@
     {
       "nombre": "PVC 500gr azul",
       "sku": "350",
-      "almacen": 48,
+      "almacen": 36,
       "total": 63,
-      "piso": 15,
+      "piso": 27,
       "estado": "ok",
       "idx": 541
     },
@@ -13349,5 +13621,5 @@
       "idx": 702
     }
   ],
-  "actualizado": "2026-09-26T16:20:01.251Z"
+  "actualizado": "2026-09-28T17:07:02.602Z"
 }
