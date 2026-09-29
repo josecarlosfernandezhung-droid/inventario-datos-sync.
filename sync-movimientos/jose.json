@@ -1,6 +1,6 @@
 {
   "dispositivo": "José",
-  "actualizado": "2026-09-28T18:43:27.321Z",
+  "actualizado": "2026-09-29T11:14:27.369Z",
   "movimientos": [
     {
       "id": 1787663644087,
@@ -6464,6 +6464,54 @@
       "cantidad": 5,
       "unidad": "piezas",
       "referencia": "82",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1790621226603,
+      "tipo": "salida",
+      "fecha": "2026-09-28",
+      "producto": "Toma corriente sencillo 20A",
+      "cantidad": 40,
+      "unidad": "piezas",
+      "referencia": "803",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1790621394540,
+      "tipo": "salida",
+      "fecha": "2026-09-28",
+      "producto": "Bisagra 4x3 libro interior",
+      "cantidad": 5,
+      "unidad": "piezas",
+      "referencia": "272",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1790626055390,
+      "tipo": "salida",
+      "fecha": "2026-09-28",
+      "producto": "Toma corriente universal",
+      "cantidad": 60,
+      "unidad": "piezas",
+      "referencia": "36",
+      "categoria": "Sin categoría",
+      "observaciones": "Transferencia a piso de venta",
+      "registradoPor": ""
+    },
+    {
+      "id": 1790626065697,
+      "tipo": "salida",
+      "fecha": "2026-09-28",
+      "producto": "Espiga",
+      "cantidad": 20,
+      "unidad": "piezas",
+      "referencia": "39",
       "categoria": "Sin categoría",
       "observaciones": "Transferencia a piso de venta",
       "registradoPor": ""
