@@ -14553,10 +14553,10 @@
     {
       "nombre": "Toma corriente sencillo 20A",
       "sku": "803",
-      "almacen": 150,
+      "almacen": 110,
       "total": 155,
-      "piso": 5,
-      "estado": "bajo",
+      "piso": 45,
+      "estado": "ok",
       "idx": 491
     },
     {
@@ -14949,9 +14949,9 @@
     {
       "nombre": "Bisagra 4x3 libro interior",
       "sku": "272",
-      "almacen": 15,
+      "almacen": 10,
       "total": 27,
-      "piso": 12,
+      "piso": 17,
       "estado": "ok",
       "idx": 535
     },
@@ -15498,9 +15498,9 @@
     {
       "nombre": "Toma corriente universal",
       "sku": "36",
-      "almacen": 200,
+      "almacen": 140,
       "total": 230,
-      "piso": 30,
+      "piso": 90,
       "estado": "ok",
       "idx": 596
     },
@@ -15777,9 +15777,9 @@
     {
       "nombre": "Espiga",
       "sku": "39",
-      "almacen": 250,
+      "almacen": 230,
       "total": 296,
-      "piso": 46,
+      "piso": 66,
       "estado": "ok",
       "idx": 627
     },
@@ -16459,5 +16459,5 @@
       "idx": 702
     }
   ],
-  "actualizado": "2026-09-28T17:33:23.030Z"
+  "actualizado": "2026-09-29T11:14:25.308Z"
 }
